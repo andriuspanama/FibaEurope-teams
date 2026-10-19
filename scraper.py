@@ -9,7 +9,7 @@ from build_site import build
 
 # ===================== KONFIGŪRACIJA =====================
 BASE = "https://www.flashscore.com"
-COMP = BASE + "/basketball/europe/europe-cup/"          # patikrink: atidaryk Flashscore turnyrą ir palygink nuorodą
+COMP = BASE + "/basketball/europe/fiba-europe-cup/"          # patikrink: atidaryk Flashscore turnyrą ir palygink nuorodą
 TITLE = "FIBA Europe Cup 2026-2027"
 OUT = pathlib.Path(".")
 LOGOS = OUT / "logos"
