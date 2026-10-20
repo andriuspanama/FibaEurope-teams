@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-20 15:26",
+ "updated": "2026-10-20 18:27",
  "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
@@ -1377,7 +1377,7 @@
    "name": "Rilski Sportist",
    "logo": "logos/9d7e8294c55f.png",
    "league": "NBL",
-   "league_logo": "logos/de1e4eb5e476.png",
+   "league_logo": "logos/e6f4a097ec8d.png",
    "rank": 1,
    "record": "2-0",
    "last5": [
@@ -3462,6 +3462,77 @@
    "note": ""
   },
   {
+   "name": "Mykonos",
+   "logo": "logos/7b150e7a1c02.png",
+   "league": "Basket League",
+   "league_logo": "logos/d618cd530704.png",
+   "rank": 11,
+   "record": "1-2",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "84:79",
+     "opponent": "AEK Athens",
+     "venue": "A",
+     "date": "17.10. 12:00",
+     "pf": 79,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "79:82",
+     "opponent": "Maroussi",
+     "venue": "A",
+     "date": "10.10. 13:00",
+     "pf": 82,
+     "pa": 79
+    },
+    {
+     "wl": "L",
+     "score": "85:88",
+     "opponent": "PAOK",
+     "venue": "H",
+     "date": "03.10. 12:00",
+     "pf": 85,
+     "pa": 88
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "84:79",
+     "opponent": "AEK Athens",
+     "venue": "A",
+     "date": "17.10. 12:00",
+     "pf": 79,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "79:82",
+     "opponent": "Maroussi",
+     "venue": "A",
+     "date": "10.10. 13:00",
+     "pf": 82,
+     "pa": 79
+    },
+    {
+     "wl": "L",
+     "score": "85:88",
+     "opponent": "PAOK",
+     "venue": "H",
+     "date": "03.10. 12:00",
+     "pf": 85,
+     "pa": 88
+    }
+   ],
+   "next": {
+    "date": "24.10. 12:00",
+    "opponent": "Aris"
+   },
+   "note": ""
+  },
+  {
    "name": "VEF Riga",
    "logo": "logos/54ee58fadd27.png",
    "league": "Lat-EST lyga",
@@ -3578,73 +3649,55 @@
    "note": ""
   },
   {
-   "name": "Mykonos",
-   "logo": "logos/7b150e7a1c02.png",
-   "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
-   "rank": 11,
-   "record": "1-2",
+   "name": "Lok. Plovdiv",
+   "logo": "logos/c81d0ffece92.png",
+   "league": "NBL",
+   "league_logo": "logos/e6f4a097ec8d.png",
+   "rank": 5,
+   "record": "2-0",
    "last5": [
     {
-     "wl": "L",
-     "score": "84:79",
-     "opponent": "AEK Athens",
+     "wl": "W",
+     "score": "95:98",
+     "opponent": "Beroe",
      "venue": "A",
-     "date": "17.10. 12:00",
-     "pf": 79,
-     "pa": 84
+     "date": "17.10. 12:30",
+     "pf": 98,
+     "pa": 95
     },
     {
      "wl": "W",
-     "score": "79:82",
-     "opponent": "Maroussi",
+     "score": "73:92",
+     "opponent": "Spartak Pleven",
      "venue": "A",
-     "date": "10.10. 13:00",
-     "pf": 82,
-     "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "85:88",
-     "opponent": "PAOK",
-     "venue": "H",
-     "date": "03.10. 12:00",
-     "pf": 85,
-     "pa": 88
+     "date": "11.10. 10:00",
+     "pf": 92,
+     "pa": 73
     }
    ],
    "games": [
     {
-     "wl": "L",
-     "score": "84:79",
-     "opponent": "AEK Athens",
+     "wl": "W",
+     "score": "95:98",
+     "opponent": "Beroe",
      "venue": "A",
-     "date": "17.10. 12:00",
-     "pf": 79,
-     "pa": 84
+     "date": "17.10. 12:30",
+     "pf": 98,
+     "pa": 95
     },
     {
      "wl": "W",
-     "score": "79:82",
-     "opponent": "Maroussi",
+     "score": "73:92",
+     "opponent": "Spartak Pleven",
      "venue": "A",
-     "date": "10.10. 13:00",
-     "pf": 82,
-     "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "85:88",
-     "opponent": "PAOK",
-     "venue": "H",
-     "date": "03.10. 12:00",
-     "pf": 85,
-     "pa": 88
+     "date": "11.10. 10:00",
+     "pf": 92,
+     "pa": 73
     }
    ],
    "next": {
-    "date": "24.10. 12:00",
-    "opponent": "Aris"
+    "date": "24.10. 16:00",
+    "opponent": "Polytechnica"
    },
    "note": ""
   },
@@ -3716,59 +3769,6 @@
    "next": {
     "date": "24.10. 15:00",
     "opponent": "CSU Sibiu"
-   },
-   "note": ""
-  },
-  {
-   "name": "Lok. Plovdiv",
-   "logo": "logos/c81d0ffece92.png",
-   "league": "NBL",
-   "league_logo": "logos/de1e4eb5e476.png",
-   "rank": 5,
-   "record": "2-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "95:98",
-     "opponent": "Beroe",
-     "venue": "A",
-     "date": "17.10. 12:30",
-     "pf": 98,
-     "pa": 95
-    },
-    {
-     "wl": "W",
-     "score": "73:92",
-     "opponent": "Spartak Pleven",
-     "venue": "A",
-     "date": "11.10. 10:00",
-     "pf": 92,
-     "pa": 73
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "95:98",
-     "opponent": "Beroe",
-     "venue": "A",
-     "date": "17.10. 12:30",
-     "pf": 98,
-     "pa": 95
-    },
-    {
-     "wl": "W",
-     "score": "73:92",
-     "opponent": "Spartak Pleven",
-     "venue": "A",
-     "date": "11.10. 10:00",
-     "pf": 92,
-     "pa": 73
-    }
-   ],
-   "next": {
-    "date": "24.10. 16:00",
-    "opponent": "Polytechnica"
    },
    "note": ""
   },
