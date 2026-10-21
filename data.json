@@ -1,8 +1,115 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-21 18:25",
+ "updated": "2026-10-21 21:23",
  "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
+  {
+   "name": "Trier",
+   "logo": "logos/3e12832eb75b.png",
+   "league": "BBL",
+   "league_logo": "logos/5408e2e1f9f8.png",
+   "rank": 2,
+   "record": "4-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "95:75",
+     "opponent": "Alba Berlin",
+     "venue": "H",
+     "date": "10.10. 18:00",
+     "pf": 95,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "80:94",
+     "opponent": "Ludwigsburg",
+     "venue": "A",
+     "date": "04.10. 16:00",
+     "pf": 94,
+     "pa": 80
+    },
+    {
+     "wl": "W",
+     "score": "98:85",
+     "opponent": "Jena",
+     "venue": "H",
+     "date": "27.09. 13:00",
+     "pf": 98,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "106:80",
+     "opponent": "Bonn",
+     "venue": "H",
+     "date": "25.09. 16:30",
+     "pf": 106,
+     "pa": 80
+    },
+    {
+     "wl": "L",
+     "score": "116:107",
+     "opponent": "Basketball Braunschweig",
+     "venue": "A",
+     "date": "19.09. 16:30",
+     "pf": 107,
+     "pa": 116
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "95:75",
+     "opponent": "Alba Berlin",
+     "venue": "H",
+     "date": "10.10. 18:00",
+     "pf": 95,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "80:94",
+     "opponent": "Ludwigsburg",
+     "venue": "A",
+     "date": "04.10. 16:00",
+     "pf": 94,
+     "pa": 80
+    },
+    {
+     "wl": "W",
+     "score": "98:85",
+     "opponent": "Jena",
+     "venue": "H",
+     "date": "27.09. 13:00",
+     "pf": 98,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "106:80",
+     "opponent": "Bonn",
+     "venue": "H",
+     "date": "25.09. 16:30",
+     "pf": 106,
+     "pa": 80
+    },
+    {
+     "wl": "L",
+     "score": "116:107",
+     "opponent": "Basketball Braunschweig",
+     "venue": "A",
+     "date": "19.09. 16:30",
+     "pf": 107,
+     "pa": 116
+    }
+   ],
+   "next": {
+    "date": "24.10. 18:00",
+    "opponent": "Vechta"
+   },
+   "note": ""
+  },
   {
    "name": "Promitheas",
    "logo": "logos/75746dc3c118.png",
@@ -178,113 +285,6 @@
    "next": {
     "date": "25.10. 18:30",
     "opponent": "Golden Eagle Ylli"
-   },
-   "note": ""
-  },
-  {
-   "name": "Trier",
-   "logo": "logos/3e12832eb75b.png",
-   "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 2,
-   "record": "4-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "95:75",
-     "opponent": "Alba Berlin",
-     "venue": "H",
-     "date": "10.10. 18:00",
-     "pf": 95,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "80:94",
-     "opponent": "Ludwigsburg",
-     "venue": "A",
-     "date": "04.10. 16:00",
-     "pf": 94,
-     "pa": 80
-    },
-    {
-     "wl": "W",
-     "score": "98:85",
-     "opponent": "Jena",
-     "venue": "H",
-     "date": "27.09. 13:00",
-     "pf": 98,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "106:80",
-     "opponent": "Bonn",
-     "venue": "H",
-     "date": "25.09. 16:30",
-     "pf": 106,
-     "pa": 80
-    },
-    {
-     "wl": "L",
-     "score": "116:107",
-     "opponent": "Basketball Braunschweig",
-     "venue": "A",
-     "date": "19.09. 16:30",
-     "pf": 107,
-     "pa": 116
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "95:75",
-     "opponent": "Alba Berlin",
-     "venue": "H",
-     "date": "10.10. 18:00",
-     "pf": 95,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "80:94",
-     "opponent": "Ludwigsburg",
-     "venue": "A",
-     "date": "04.10. 16:00",
-     "pf": 94,
-     "pa": 80
-    },
-    {
-     "wl": "W",
-     "score": "98:85",
-     "opponent": "Jena",
-     "venue": "H",
-     "date": "27.09. 13:00",
-     "pf": 98,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "106:80",
-     "opponent": "Bonn",
-     "venue": "H",
-     "date": "25.09. 16:30",
-     "pf": 106,
-     "pa": 80
-    },
-    {
-     "wl": "L",
-     "score": "116:107",
-     "opponent": "Basketball Braunschweig",
-     "venue": "A",
-     "date": "19.09. 16:30",
-     "pf": 107,
-     "pa": 116
-    }
-   ],
-   "next": {
-    "date": "24.10. 18:00",
-    "opponent": "Vechta"
    },
    "note": ""
   },
@@ -1901,59 +1901,6 @@
    "note": ""
   },
   {
-   "name": "AEK Larnaca",
-   "logo": "logos/4e49de659cee.png",
-   "league": "Division A",
-   "league_logo": "logos/0da4d7fc3ac7.png",
-   "rank": 2,
-   "record": "2-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "83:79",
-     "opponent": "Apoel BC",
-     "venue": "H",
-     "date": "18.10. 13:00",
-     "pf": 83,
-     "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "56:90",
-     "opponent": "Apollon",
-     "venue": "A",
-     "date": "11.10. 14:00",
-     "pf": 90,
-     "pa": 56
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "83:79",
-     "opponent": "Apoel BC",
-     "venue": "H",
-     "date": "18.10. 13:00",
-     "pf": 83,
-     "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "56:90",
-     "opponent": "Apollon",
-     "venue": "A",
-     "date": "11.10. 14:00",
-     "pf": 90,
-     "pa": 56
-    }
-   ],
-   "next": {
-    "date": "24.10. 14:00",
-    "opponent": "Paralimni"
-   },
-   "note": ""
-  },
-  {
    "name": "Dziki Warszawa",
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
@@ -2092,6 +2039,59 @@
    "next": {
     "date": "24.10. 14:00",
     "opponent": "Lefkadas"
+   },
+   "note": ""
+  },
+  {
+   "name": "AEK Larnaca",
+   "logo": "logos/4e49de659cee.png",
+   "league": "Division A",
+   "league_logo": "logos/0da4d7fc3ac7.png",
+   "rank": 2,
+   "record": "2-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "83:79",
+     "opponent": "Apoel BC",
+     "venue": "H",
+     "date": "18.10. 13:00",
+     "pf": 83,
+     "pa": 79
+    },
+    {
+     "wl": "W",
+     "score": "56:90",
+     "opponent": "Apollon",
+     "venue": "A",
+     "date": "11.10. 14:00",
+     "pf": 90,
+     "pa": 56
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "83:79",
+     "opponent": "Apoel BC",
+     "venue": "H",
+     "date": "18.10. 13:00",
+     "pf": 83,
+     "pa": 79
+    },
+    {
+     "wl": "W",
+     "score": "56:90",
+     "opponent": "Apollon",
+     "venue": "A",
+     "date": "11.10. 14:00",
+     "pf": 90,
+     "pa": 56
+    }
+   ],
+   "next": {
+    "date": "24.10. 14:00",
+    "opponent": "Paralimni"
    },
    "note": ""
   },
@@ -2541,6 +2541,113 @@
    "note": ""
   },
   {
+   "name": "BC Kalev/Cramo",
+   "logo": "logos/058b5de9bf73.png",
+   "league": "Lat-EST lyga",
+   "league_logo": "logos/29164afda24c.png",
+   "rank": 7,
+   "record": "3-2",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "100:79",
+     "opponent": "Rigas Juniori",
+     "venue": "H",
+     "date": "17.10. 15:00",
+     "pf": 100,
+     "pa": 79
+    },
+    {
+     "wl": "L",
+     "score": "73:86",
+     "opponent": "Ventspils",
+     "venue": "H",
+     "date": "10.10. 15:00",
+     "pf": 73,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "79:78",
+     "opponent": "Parnu",
+     "venue": "H",
+     "date": "03.10. 15:00",
+     "pf": 79,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "66:89",
+     "opponent": "Viimsi",
+     "venue": "A",
+     "date": "27.09. 14:00",
+     "pf": 89,
+     "pa": 66
+    },
+    {
+     "wl": "L",
+     "score": "90:63",
+     "opponent": "Tartu Ulikool",
+     "venue": "A",
+     "date": "24.09. 16:00",
+     "pf": 63,
+     "pa": 90
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "100:79",
+     "opponent": "Rigas Juniori",
+     "venue": "H",
+     "date": "17.10. 15:00",
+     "pf": 100,
+     "pa": 79
+    },
+    {
+     "wl": "L",
+     "score": "73:86",
+     "opponent": "Ventspils",
+     "venue": "H",
+     "date": "10.10. 15:00",
+     "pf": 73,
+     "pa": 86
+    },
+    {
+     "wl": "W",
+     "score": "79:78",
+     "opponent": "Parnu",
+     "venue": "H",
+     "date": "03.10. 15:00",
+     "pf": 79,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "66:89",
+     "opponent": "Viimsi",
+     "venue": "A",
+     "date": "27.09. 14:00",
+     "pf": 89,
+     "pa": 66
+    },
+    {
+     "wl": "L",
+     "score": "90:63",
+     "opponent": "Tartu Ulikool",
+     "venue": "A",
+     "date": "24.09. 16:00",
+     "pf": 63,
+     "pa": 90
+    }
+   ],
+   "next": {
+    "date": "24.10. 15:00",
+    "opponent": "Keila Coolbet"
+   },
+   "note": ""
+  },
+  {
    "name": "Valmiera Glass Via",
    "logo": "logos/ac51c062f47e.png",
    "league": "Lat-EST lyga",
@@ -2653,113 +2760,6 @@
    "next": {
     "date": "24.10. 16:00",
     "opponent": "VEF Riga"
-   },
-   "note": ""
-  },
-  {
-   "name": "BC Kalev/Cramo",
-   "logo": "logos/058b5de9bf73.png",
-   "league": "Lat-EST lyga",
-   "league_logo": "logos/29164afda24c.png",
-   "rank": 7,
-   "record": "3-2",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "100:79",
-     "opponent": "Rigas Juniori",
-     "venue": "H",
-     "date": "17.10. 15:00",
-     "pf": 100,
-     "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "73:86",
-     "opponent": "Ventspils",
-     "venue": "H",
-     "date": "10.10. 15:00",
-     "pf": 73,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "79:78",
-     "opponent": "Parnu",
-     "venue": "H",
-     "date": "03.10. 15:00",
-     "pf": 79,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "66:89",
-     "opponent": "Viimsi",
-     "venue": "A",
-     "date": "27.09. 14:00",
-     "pf": 89,
-     "pa": 66
-    },
-    {
-     "wl": "L",
-     "score": "90:63",
-     "opponent": "Tartu Ulikool",
-     "venue": "A",
-     "date": "24.09. 16:00",
-     "pf": 63,
-     "pa": 90
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "100:79",
-     "opponent": "Rigas Juniori",
-     "venue": "H",
-     "date": "17.10. 15:00",
-     "pf": 100,
-     "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "73:86",
-     "opponent": "Ventspils",
-     "venue": "H",
-     "date": "10.10. 15:00",
-     "pf": 73,
-     "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "79:78",
-     "opponent": "Parnu",
-     "venue": "H",
-     "date": "03.10. 15:00",
-     "pf": 79,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "66:89",
-     "opponent": "Viimsi",
-     "venue": "A",
-     "date": "27.09. 14:00",
-     "pf": 89,
-     "pa": 66
-    },
-    {
-     "wl": "L",
-     "score": "90:63",
-     "opponent": "Tartu Ulikool",
-     "venue": "A",
-     "date": "24.09. 16:00",
-     "pf": 63,
-     "pa": 90
-    }
-   ],
-   "next": {
-    "date": "24.10. 15:00",
-    "opponent": "Keila Coolbet"
    },
    "note": ""
   },
@@ -3058,202 +3058,6 @@
    "note": ""
   },
   {
-   "name": "Geneva Lions",
-   "logo": "logos/f52f91377b00.png",
-   "league": "SB League",
-   "league_logo": "logos/84ba8e573800.png",
-   "rank": 1,
-   "record": "5-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "41:91",
-     "opponent": "Neuchatel",
-     "venue": "A",
-     "date": "17.10. 16:15",
-     "pf": 91,
-     "pa": 41
-    },
-    {
-     "wl": "W",
-     "score": "65:94",
-     "opponent": "Lausanne Basket",
-     "venue": "A",
-     "date": "10.10. 15:30",
-     "pf": 94,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "71:64",
-     "opponent": "Fribourg Olympic",
-     "venue": "H",
-     "date": "03.10. 16:00",
-     "pf": 71,
-     "pa": 64
-    },
-    {
-     "wl": "W",
-     "score": "46:109",
-     "opponent": "Zurich",
-     "venue": "A",
-     "date": "29.09. 17:30",
-     "pf": 109,
-     "pa": 46
-    },
-    {
-     "wl": "W",
-     "score": "86:69",
-     "opponent": "Sdent BBC Nyon",
-     "venue": "H",
-     "date": "26.09. 16:00",
-     "pf": 86,
-     "pa": 69
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "41:91",
-     "opponent": "Neuchatel",
-     "venue": "A",
-     "date": "17.10. 16:15",
-     "pf": 91,
-     "pa": 41
-    },
-    {
-     "wl": "W",
-     "score": "65:94",
-     "opponent": "Lausanne Basket",
-     "venue": "A",
-     "date": "10.10. 15:30",
-     "pf": 94,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "71:64",
-     "opponent": "Fribourg Olympic",
-     "venue": "H",
-     "date": "03.10. 16:00",
-     "pf": 71,
-     "pa": 64
-    },
-    {
-     "wl": "W",
-     "score": "46:109",
-     "opponent": "Zurich",
-     "venue": "A",
-     "date": "29.09. 17:30",
-     "pf": 109,
-     "pa": 46
-    },
-    {
-     "wl": "W",
-     "score": "86:69",
-     "opponent": "Sdent BBC Nyon",
-     "venue": "H",
-     "date": "26.09. 16:00",
-     "pf": 86,
-     "pa": 69
-    }
-   ],
-   "next": {
-    "date": "24.10. 16:00",
-    "opponent": "Lugano Tigers"
-   },
-   "note": ""
-  },
-  {
-   "name": "BC Prievidza",
-   "logo": "logos/37075e153733.png",
-   "league": "Extraliga",
-   "league_logo": "logos/f143d20206a0.png",
-   "rank": 1,
-   "record": "4-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "122:79",
-     "opponent": "Nitra Blue Wings",
-     "venue": "H",
-     "date": "17.10. 16:00",
-     "pf": 122,
-     "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "100:50",
-     "opponent": "Inter Basket",
-     "venue": "H",
-     "date": "10.10. 16:00",
-     "pf": 100,
-     "pa": 50
-    },
-    {
-     "wl": "W",
-     "score": "77:104",
-     "opponent": "Kosice Wolves",
-     "venue": "A",
-     "date": "03.10. 17:00",
-     "pf": 104,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "97:79",
-     "opponent": "BKM Lucenec",
-     "venue": "H",
-     "date": "27.09. 16:00",
-     "pf": 97,
-     "pa": 79
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "122:79",
-     "opponent": "Nitra Blue Wings",
-     "venue": "H",
-     "date": "17.10. 16:00",
-     "pf": 122,
-     "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "100:50",
-     "opponent": "Inter Basket",
-     "venue": "H",
-     "date": "10.10. 16:00",
-     "pf": 100,
-     "pa": 50
-    },
-    {
-     "wl": "W",
-     "score": "77:104",
-     "opponent": "Kosice Wolves",
-     "venue": "A",
-     "date": "03.10. 17:00",
-     "pf": 104,
-     "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "97:79",
-     "opponent": "BKM Lucenec",
-     "venue": "H",
-     "date": "27.09. 16:00",
-     "pf": 97,
-     "pa": 79
-    }
-   ],
-   "next": {
-    "date": "24.10. 16:00",
-    "opponent": "MBK Handlova"
-   },
-   "note": ""
-  },
-  {
    "name": "Denizli Basket",
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
@@ -3446,6 +3250,202 @@
    "next": {
     "date": "24.10. 12:00",
     "opponent": "BMS Herlev"
+   },
+   "note": ""
+  },
+  {
+   "name": "Geneva Lions",
+   "logo": "logos/f52f91377b00.png",
+   "league": "SB League",
+   "league_logo": "logos/84ba8e573800.png",
+   "rank": 1,
+   "record": "5-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "41:91",
+     "opponent": "Neuchatel",
+     "venue": "A",
+     "date": "17.10. 16:15",
+     "pf": 91,
+     "pa": 41
+    },
+    {
+     "wl": "W",
+     "score": "65:94",
+     "opponent": "Lausanne Basket",
+     "venue": "A",
+     "date": "10.10. 15:30",
+     "pf": 94,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "71:64",
+     "opponent": "Fribourg Olympic",
+     "venue": "H",
+     "date": "03.10. 16:00",
+     "pf": 71,
+     "pa": 64
+    },
+    {
+     "wl": "W",
+     "score": "46:109",
+     "opponent": "Zurich",
+     "venue": "A",
+     "date": "29.09. 17:30",
+     "pf": 109,
+     "pa": 46
+    },
+    {
+     "wl": "W",
+     "score": "86:69",
+     "opponent": "Sdent BBC Nyon",
+     "venue": "H",
+     "date": "26.09. 16:00",
+     "pf": 86,
+     "pa": 69
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "41:91",
+     "opponent": "Neuchatel",
+     "venue": "A",
+     "date": "17.10. 16:15",
+     "pf": 91,
+     "pa": 41
+    },
+    {
+     "wl": "W",
+     "score": "65:94",
+     "opponent": "Lausanne Basket",
+     "venue": "A",
+     "date": "10.10. 15:30",
+     "pf": 94,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "71:64",
+     "opponent": "Fribourg Olympic",
+     "venue": "H",
+     "date": "03.10. 16:00",
+     "pf": 71,
+     "pa": 64
+    },
+    {
+     "wl": "W",
+     "score": "46:109",
+     "opponent": "Zurich",
+     "venue": "A",
+     "date": "29.09. 17:30",
+     "pf": 109,
+     "pa": 46
+    },
+    {
+     "wl": "W",
+     "score": "86:69",
+     "opponent": "Sdent BBC Nyon",
+     "venue": "H",
+     "date": "26.09. 16:00",
+     "pf": 86,
+     "pa": 69
+    }
+   ],
+   "next": {
+    "date": "24.10. 16:00",
+    "opponent": "Lugano Tigers"
+   },
+   "note": ""
+  },
+  {
+   "name": "BC Prievidza",
+   "logo": "logos/37075e153733.png",
+   "league": "Extraliga",
+   "league_logo": "logos/f143d20206a0.png",
+   "rank": 1,
+   "record": "4-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "122:79",
+     "opponent": "Nitra Blue Wings",
+     "venue": "H",
+     "date": "17.10. 16:00",
+     "pf": 122,
+     "pa": 79
+    },
+    {
+     "wl": "W",
+     "score": "100:50",
+     "opponent": "Inter Basket",
+     "venue": "H",
+     "date": "10.10. 16:00",
+     "pf": 100,
+     "pa": 50
+    },
+    {
+     "wl": "W",
+     "score": "77:104",
+     "opponent": "Kosice Wolves",
+     "venue": "A",
+     "date": "03.10. 17:00",
+     "pf": 104,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "97:79",
+     "opponent": "BKM Lucenec",
+     "venue": "H",
+     "date": "27.09. 16:00",
+     "pf": 97,
+     "pa": 79
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "122:79",
+     "opponent": "Nitra Blue Wings",
+     "venue": "H",
+     "date": "17.10. 16:00",
+     "pf": 122,
+     "pa": 79
+    },
+    {
+     "wl": "W",
+     "score": "100:50",
+     "opponent": "Inter Basket",
+     "venue": "H",
+     "date": "10.10. 16:00",
+     "pf": 100,
+     "pa": 50
+    },
+    {
+     "wl": "W",
+     "score": "77:104",
+     "opponent": "Kosice Wolves",
+     "venue": "A",
+     "date": "03.10. 17:00",
+     "pf": 104,
+     "pa": 77
+    },
+    {
+     "wl": "W",
+     "score": "97:79",
+     "opponent": "BKM Lucenec",
+     "venue": "H",
+     "date": "27.09. 16:00",
+     "pf": 97,
+     "pa": 79
+    }
+   ],
+   "next": {
+    "date": "24.10. 16:00",
+    "opponent": "MBK Handlova"
    },
    "note": ""
   },
@@ -3773,18 +3773,6 @@
    "note": ""
   },
   {
-   "name": "Neftchi IK",
-   "logo": "logos/4133f59aa30e.png",
-   "league": "Azerbaidžano lyga",
-   "league_logo": "",
-   "rank": null,
-   "record": "",
-   "last5": [],
-   "games": [],
-   "next": null,
-   "note": "Sofascore nepavyko (HTTP 403); naudojamas manual/neftchi.json"
-  },
-  {
    "name": "Fribourg Olympic",
    "logo": "logos/87c0ce08f7ac.png",
    "league": "SB League",
@@ -3890,6 +3878,18 @@
     "opponent": "Regio Basel"
    },
    "note": ""
+  },
+  {
+   "name": "Neftchi IK",
+   "logo": "logos/4133f59aa30e.png",
+   "league": "Azerbaidžano lyga",
+   "league_logo": "",
+   "rank": null,
+   "record": "",
+   "last5": [],
+   "games": [],
+   "next": null,
+   "note": "Sofascore nepavyko (HTTP 403); naudojamas manual/neftchi.json"
   }
  ]
 }
