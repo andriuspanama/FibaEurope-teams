@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-22 18:24",
+ "updated": "2026-10-22 21:24",
  "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
@@ -787,77 +787,6 @@
    "note": ""
   },
   {
-   "name": "Zielona Gora",
-   "logo": "logos/bb6058280ddf.png",
-   "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
-   "rank": 5,
-   "record": "2-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "76:84",
-     "opponent": "GTK Gliwice",
-     "venue": "A",
-     "date": "17.10. 13:00",
-     "pf": 84,
-     "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "104:87",
-     "opponent": "Legia",
-     "venue": "H",
-     "date": "09.10. 16:00",
-     "pf": 104,
-     "pa": 87
-    },
-    {
-     "wl": "L",
-     "score": "105:95",
-     "opponent": "Bydgoszcz",
-     "venue": "A",
-     "date": "03.10. 15:30",
-     "pf": 95,
-     "pa": 105
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "76:84",
-     "opponent": "GTK Gliwice",
-     "venue": "A",
-     "date": "17.10. 13:00",
-     "pf": 84,
-     "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "104:87",
-     "opponent": "Legia",
-     "venue": "H",
-     "date": "09.10. 16:00",
-     "pf": 104,
-     "pa": 87
-    },
-    {
-     "wl": "L",
-     "score": "105:95",
-     "opponent": "Bydgoszcz",
-     "venue": "A",
-     "date": "03.10. 15:30",
-     "pf": 95,
-     "pa": 105
-    }
-   ],
-   "next": {
-    "date": "24.10. 15:30",
-    "opponent": "Anwil Wloclawek"
-   },
-   "note": ""
-  },
-  {
    "name": "Levice",
    "logo": "logos/280469de6fb4.png",
    "league": "Extraliga",
@@ -1068,6 +997,77 @@
    "next": {
     "date": "25.10. 17:00",
     "opponent": "Budapesti Honved Se"
+   },
+   "note": ""
+  },
+  {
+   "name": "Zielona Gora",
+   "logo": "logos/bb6058280ddf.png",
+   "league": "Basket Liga",
+   "league_logo": "logos/11d67384a2ea.png",
+   "rank": 5,
+   "record": "2-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "76:84",
+     "opponent": "GTK Gliwice",
+     "venue": "A",
+     "date": "17.10. 13:00",
+     "pf": 84,
+     "pa": 76
+    },
+    {
+     "wl": "W",
+     "score": "104:87",
+     "opponent": "Legia",
+     "venue": "H",
+     "date": "09.10. 16:00",
+     "pf": 104,
+     "pa": 87
+    },
+    {
+     "wl": "L",
+     "score": "105:95",
+     "opponent": "Bydgoszcz",
+     "venue": "A",
+     "date": "03.10. 15:30",
+     "pf": 95,
+     "pa": 105
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "76:84",
+     "opponent": "GTK Gliwice",
+     "venue": "A",
+     "date": "17.10. 13:00",
+     "pf": 84,
+     "pa": 76
+    },
+    {
+     "wl": "W",
+     "score": "104:87",
+     "opponent": "Legia",
+     "venue": "H",
+     "date": "09.10. 16:00",
+     "pf": 104,
+     "pa": 87
+    },
+    {
+     "wl": "L",
+     "score": "105:95",
+     "opponent": "Bydgoszcz",
+     "venue": "A",
+     "date": "03.10. 15:30",
+     "pf": 95,
+     "pa": 105
+    }
+   ],
+   "next": {
+    "date": "24.10. 15:30",
+    "opponent": "Anwil Wloclawek"
    },
    "note": ""
   },
