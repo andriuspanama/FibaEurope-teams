@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-22 15:37",
+ "updated": "2026-10-22 18:24",
  "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
@@ -114,7 +114,7 @@
    "name": "Promitheas",
    "logo": "logos/75746dc3c118.png",
    "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
+   "league_logo": "logos/d618cd530704.png",
    "rank": 10,
    "record": "1-2",
    "last5": [
@@ -720,7 +720,7 @@
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
    "league_logo": "logos/9a29112107df.png",
-   "rank": 4,
+   "rank": 5,
    "record": "2-1",
    "last5": [
     {
@@ -1235,7 +1235,7 @@
    "name": "Kolossos Rhodes",
    "logo": "logos/f2b17b500179.png",
    "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
+   "league_logo": "logos/d618cd530704.png",
    "rank": 9,
    "record": "1-2",
    "last5": [
@@ -1307,7 +1307,7 @@
    "logo": "logos/5b294cafe993.png",
    "league": "Divizia A",
    "league_logo": "logos/9a29112107df.png",
-   "rank": 8,
+   "rank": 6,
    "record": "2-1",
    "last5": [
     {
@@ -1723,6 +1723,95 @@
    "note": ""
   },
   {
+   "name": "Parnu",
+   "logo": "logos/775bf7be74e5.png",
+   "league": "Lat-EST lyga",
+   "league_logo": "logos/29164afda24c.png",
+   "rank": 11,
+   "record": "1-3",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "89:72",
+     "opponent": "VEF Riga",
+     "venue": "A",
+     "date": "17.10. 12:00",
+     "pf": 72,
+     "pa": 89
+    },
+    {
+     "wl": "L",
+     "score": "70:75",
+     "opponent": "Keila KK",
+     "venue": "H",
+     "date": "10.10. 14:00",
+     "pf": 70,
+     "pa": 75
+    },
+    {
+     "wl": "L",
+     "score": "79:78",
+     "opponent": "BC Kalev",
+     "venue": "A",
+     "date": "03.10. 15:00",
+     "pf": 78,
+     "pa": 79
+    },
+    {
+     "wl": "W",
+     "score": "76:73",
+     "opponent": "BK Liepaja",
+     "venue": "H",
+     "date": "26.09. 14:00",
+     "pf": 76,
+     "pa": 73
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "89:72",
+     "opponent": "VEF Riga",
+     "venue": "A",
+     "date": "17.10. 12:00",
+     "pf": 72,
+     "pa": 89
+    },
+    {
+     "wl": "L",
+     "score": "70:75",
+     "opponent": "Keila KK",
+     "venue": "H",
+     "date": "10.10. 14:00",
+     "pf": 70,
+     "pa": 75
+    },
+    {
+     "wl": "L",
+     "score": "79:78",
+     "opponent": "BC Kalev",
+     "venue": "A",
+     "date": "03.10. 15:00",
+     "pf": 78,
+     "pa": 79
+    },
+    {
+     "wl": "W",
+     "score": "76:73",
+     "opponent": "BK Liepaja",
+     "venue": "H",
+     "date": "26.09. 14:00",
+     "pf": 76,
+     "pa": 73
+    }
+   ],
+   "next": {
+    "date": "25.10. 15:00",
+    "opponent": "Latvijas Universitate"
+   },
+   "note": ""
+  },
+  {
    "name": "Nitra Blue Wings",
    "logo": "logos/3cef783b60c3.png",
    "league": "Extraliga",
@@ -1812,95 +1901,6 @@
    "note": ""
   },
   {
-   "name": "Parnu",
-   "logo": "logos/775bf7be74e5.png",
-   "league": "Lat-EST lyga",
-   "league_logo": "logos/29164afda24c.png",
-   "rank": 11,
-   "record": "1-3",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "89:72",
-     "opponent": "VEF Riga",
-     "venue": "A",
-     "date": "17.10. 12:00",
-     "pf": 72,
-     "pa": 89
-    },
-    {
-     "wl": "L",
-     "score": "70:75",
-     "opponent": "Keila KK",
-     "venue": "H",
-     "date": "10.10. 14:00",
-     "pf": 70,
-     "pa": 75
-    },
-    {
-     "wl": "L",
-     "score": "79:78",
-     "opponent": "BC Kalev/Cramo",
-     "venue": "A",
-     "date": "03.10. 15:00",
-     "pf": 78,
-     "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "76:73",
-     "opponent": "BK Liepaja",
-     "venue": "H",
-     "date": "26.09. 14:00",
-     "pf": 76,
-     "pa": 73
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "89:72",
-     "opponent": "VEF Riga",
-     "venue": "A",
-     "date": "17.10. 12:00",
-     "pf": 72,
-     "pa": 89
-    },
-    {
-     "wl": "L",
-     "score": "70:75",
-     "opponent": "Keila KK",
-     "venue": "H",
-     "date": "10.10. 14:00",
-     "pf": 70,
-     "pa": 75
-    },
-    {
-     "wl": "L",
-     "score": "79:78",
-     "opponent": "BC Kalev/Cramo",
-     "venue": "A",
-     "date": "03.10. 15:00",
-     "pf": 78,
-     "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "76:73",
-     "opponent": "BK Liepaja",
-     "venue": "H",
-     "date": "26.09. 14:00",
-     "pf": 76,
-     "pa": 73
-    }
-   ],
-   "next": {
-    "date": "25.10. 15:00",
-    "opponent": "Latvijas Universitate"
-   },
-   "note": ""
-  },
-  {
    "name": "Dziki Warszawa",
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
@@ -1975,7 +1975,7 @@
    "name": "Iraklis",
    "logo": "logos/c3a29dbb6568.png",
    "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
+   "league_logo": "logos/d618cd530704.png",
    "rank": 8,
    "record": "1-2",
    "last5": [
@@ -2231,7 +2231,7 @@
     {
      "wl": "W",
      "score": "90:63",
-     "opponent": "BC Kalev/Cramo",
+     "opponent": "BC Kalev",
      "venue": "H",
      "date": "24.09. 16:00",
      "pf": 90,
@@ -2278,7 +2278,7 @@
     {
      "wl": "W",
      "score": "90:63",
-     "opponent": "BC Kalev/Cramo",
+     "opponent": "BC Kalev",
      "venue": "H",
      "date": "24.09. 16:00",
      "pf": 90,
@@ -2541,7 +2541,7 @@
    "note": ""
   },
   {
-   "name": "BC Kalev/Cramo",
+   "name": "BC Kalev",
    "logo": "logos/058b5de9bf73.png",
    "league": "Lat-EST lyga",
    "league_logo": "logos/29164afda24c.png",
@@ -3465,7 +3465,7 @@
    "name": "Mykonos",
    "logo": "logos/7b150e7a1c02.png",
    "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
+   "league_logo": "logos/d618cd530704.png",
    "rank": 11,
    "record": "1-2",
    "last5": [
@@ -3653,7 +3653,7 @@
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
    "league_logo": "logos/9a29112107df.png",
-   "rank": 6,
+   "rank": 9,
    "record": "2-1",
    "last5": [
     {
