@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-22 09:28",
+ "updated": "2026-10-22 12:36",
  "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
@@ -114,7 +114,7 @@
    "name": "Promitheas",
    "logo": "logos/75746dc3c118.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
+   "league_logo": "logos/21f5bcd543ba.png",
    "rank": 10,
    "record": "1-2",
    "last5": [
@@ -562,8 +562,82 @@
    "league_logo": "logos/cb9f1e398563.png",
    "rank": 12,
    "record": "2-2",
-   "last5": [],
-   "games": [],
+   "last5": [
+    {
+     "wl": "W",
+     "score": "110:90",
+     "opponent": "Leyma Coruna",
+     "venue": "H",
+     "date": "18.10. 10:00",
+     "pf": 110,
+     "pa": 90
+    },
+    {
+     "wl": "L",
+     "score": "115:92",
+     "opponent": "Breogan",
+     "venue": "A",
+     "date": "10.10. 19:00",
+     "pf": 92,
+     "pa": 115
+    },
+    {
+     "wl": "L",
+     "score": "118:78",
+     "opponent": "Baskonia",
+     "venue": "A",
+     "date": "04.10. 17:00",
+     "pf": 78,
+     "pa": 118
+    },
+    {
+     "wl": "W",
+     "score": "84:77",
+     "opponent": "Murcia",
+     "venue": "H",
+     "date": "27.09. 15:00",
+     "pf": 84,
+     "pa": 77
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "110:90",
+     "opponent": "Leyma Coruna",
+     "venue": "H",
+     "date": "18.10. 10:00",
+     "pf": 110,
+     "pa": 90
+    },
+    {
+     "wl": "L",
+     "score": "115:92",
+     "opponent": "Breogan",
+     "venue": "A",
+     "date": "10.10. 19:00",
+     "pf": 92,
+     "pa": 115
+    },
+    {
+     "wl": "L",
+     "score": "118:78",
+     "opponent": "Baskonia",
+     "venue": "A",
+     "date": "04.10. 17:00",
+     "pf": 78,
+     "pa": 118
+    },
+    {
+     "wl": "W",
+     "score": "84:77",
+     "opponent": "Murcia",
+     "venue": "H",
+     "date": "27.09. 15:00",
+     "pf": 84,
+     "pa": 77
+    }
+   ],
    "next": {
     "date": "25.10. 11:00",
     "opponent": "Joventut Badalona"
@@ -1161,7 +1235,7 @@
    "name": "Kolossos Rhodes",
    "logo": "logos/f2b17b500179.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
+   "league_logo": "logos/21f5bcd543ba.png",
    "rank": 9,
    "record": "1-2",
    "last5": [
@@ -1901,7 +1975,7 @@
    "name": "Iraklis",
    "logo": "logos/c3a29dbb6568.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
+   "league_logo": "logos/21f5bcd543ba.png",
    "rank": 8,
    "record": "1-2",
    "last5": [
@@ -3181,7 +3255,7 @@
   },
   {
    "name": "Geneva Lions",
-   "logo": "logos/f52f91377b00.png",
+   "logo": "logos/6d70f4af8b87.png",
    "league": "SB League",
    "league_logo": "logos/84ba8e573800.png",
    "rank": 1,
@@ -3391,7 +3465,7 @@
    "name": "Mykonos",
    "logo": "logos/7b150e7a1c02.png",
    "league": "Basket League",
-   "league_logo": "logos/d618cd530704.png",
+   "league_logo": "logos/21f5bcd543ba.png",
    "rank": 11,
    "record": "1-2",
    "last5": [
