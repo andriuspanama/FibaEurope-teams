@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-23 15:27",
+ "updated": "2026-10-23 18:25",
  "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
@@ -507,7 +507,7 @@
    "logo": "logos/fd0c0922151f.png",
    "league": "Superleague",
    "league_logo": "logos/464d0d314205.png",
-   "rank": 5,
+   "rank": 6,
    "record": "2-0",
    "last5": [
     {
@@ -1378,7 +1378,7 @@
    "logo": "logos/9d7e8294c55f.png",
    "league": "NBL",
    "league_logo": "logos/de1e4eb5e476.png",
-   "rank": 1,
+   "rank": 3,
    "record": "2-0",
    "last5": [
     {
@@ -1603,7 +1603,7 @@
    "logo": "logos/9df64c496b64.png",
    "league": "Division A",
    "league_logo": "logos/0da4d7fc3ac7.png",
-   "rank": 1,
+   "rank": 2,
    "record": "2-0",
    "last5": [
     {
@@ -2047,7 +2047,7 @@
    "logo": "logos/4e49de659cee.png",
    "league": "Division A",
    "league_logo": "logos/0da4d7fc3ac7.png",
-   "rank": 2,
+   "rank": 3,
    "record": "2-0",
    "last5": [
     {
@@ -2981,8 +2981,8 @@
     }
    ],
    "next": {
-    "date": "23.10. 18:30",
-    "opponent": "Leicester Riders"
+    "date": "30.10. 19:30",
+    "opponent": "Bristol Flyers"
    },
    "note": ""
   },
