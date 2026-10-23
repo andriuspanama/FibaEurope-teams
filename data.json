@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-23 18:25",
+ "updated": "2026-10-23 21:27",
  "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
@@ -418,7 +418,7 @@
    "logo": "logos/22400341573a.png",
    "league": "Premijer liga",
    "league_logo": "logos/e178c9671c94.png",
-   "rank": 3,
+   "rank": 5,
    "record": "3-1",
    "last5": [
     {
@@ -649,9 +649,18 @@
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
    "league_logo": "logos/cc3eb03ee169.png",
-   "rank": 11,
-   "record": "1-2",
+   "rank": 10,
+   "record": "2-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "65:70",
+     "opponent": "Spirou Charleroi",
+     "venue": "A",
+     "date": "23.10. 18:30",
+     "pf": 70,
+     "pa": 65
+    },
     {
      "wl": "L",
      "score": "81:64",
@@ -682,6 +691,15 @@
    ],
    "games": [
     {
+     "wl": "W",
+     "score": "65:70",
+     "opponent": "Spirou Charleroi",
+     "venue": "A",
+     "date": "23.10. 18:30",
+     "pf": 70,
+     "pa": 65
+    },
+    {
      "wl": "L",
      "score": "81:64",
      "opponent": "Brussels Basketball",
@@ -710,8 +728,8 @@
     }
    ],
    "next": {
-    "date": "23.10. 18:30",
-    "opponent": "Spirou Charleroi"
+    "date": "31.10. 19:30",
+    "opponent": "Leuven Bears"
    },
    "note": ""
   },
@@ -1005,7 +1023,7 @@
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 5,
+   "rank": 7,
    "record": "2-1",
    "last5": [
     {
@@ -1532,7 +1550,7 @@
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 9,
+   "rank": 6,
    "record": "2-1",
    "last5": [
     {
@@ -1905,7 +1923,7 @@
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 6,
+   "rank": 8,
    "record": "2-1",
    "last5": [
     {
@@ -2100,7 +2118,7 @@
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 10,
+   "rank": 11,
    "record": "2-2",
    "last5": [
     {
@@ -2875,9 +2893,18 @@
    "logo": "logos/a2efec1b9ac2.png",
    "league": "SLB",
    "league_logo": "logos/bfd4ead64284.png",
-   "rank": 8,
-   "record": "2-4",
+   "rank": 5,
+   "record": "3-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "87:89",
+     "opponent": "Leicester Riders",
+     "venue": "A",
+     "date": "23.10. 18:30",
+     "pf": 89,
+     "pa": 87
+    },
     {
      "wl": "L",
      "score": "92:94",
@@ -2913,18 +2940,18 @@
      "date": "04.10. 15:00",
      "pf": 64,
      "pa": 73
-    },
-    {
-     "wl": "L",
-     "score": "76:58",
-     "opponent": "Bristol Flyers",
-     "venue": "A",
-     "date": "02.10. 18:30",
-     "pf": 58,
-     "pa": 76
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "87:89",
+     "opponent": "Leicester Riders",
+     "venue": "A",
+     "date": "23.10. 18:30",
+     "pf": 89,
+     "pa": 87
+    },
     {
      "wl": "L",
      "score": "92:94",
@@ -3062,7 +3089,7 @@
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 15,
+   "rank": 16,
    "record": "1-3",
    "last5": [
     {
