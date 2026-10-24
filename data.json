@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-24 18:19",
+ "updated": "2026-10-24 21:18",
  "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
@@ -8,9 +8,18 @@
    "logo": "logos/3e12832eb75b.png",
    "league": "BBL",
    "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 2,
-   "record": "4-1",
+   "rank": 1,
+   "record": "5-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "88:97",
+     "opponent": "Vechta",
+     "venue": "A",
+     "date": "24.10. 18:00",
+     "pf": 97,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "95:75",
@@ -46,18 +55,18 @@
      "date": "25.09. 16:30",
      "pf": 106,
      "pa": 80
-    },
-    {
-     "wl": "L",
-     "score": "116:107",
-     "opponent": "Basketball Braunschweig",
-     "venue": "A",
-     "date": "19.09. 16:30",
-     "pf": 107,
-     "pa": 116
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "88:97",
+     "opponent": "Vechta",
+     "venue": "A",
+     "date": "24.10. 18:00",
+     "pf": 97,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "95:75",
@@ -186,7 +195,7 @@
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
    "league_logo": "logos/4a78e02d91eb.png",
-   "rank": 2,
+   "rank": 4,
    "record": "3-2",
    "last5": [
     {
@@ -587,7 +596,7 @@
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
    "league_logo": "logos/cb9f1e398563.png",
-   "rank": 13,
+   "rank": 14,
    "record": "2-2",
    "last5": [
     {
@@ -676,7 +685,7 @@
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
    "league_logo": "logos/cc3eb03ee169.png",
-   "rank": 10,
+   "rank": 8,
    "record": "2-2",
    "last5": [
     {
@@ -1148,7 +1157,7 @@
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 2,
+   "rank": 3,
    "record": "4-1",
    "last5": [
     {
@@ -1255,7 +1264,7 @@
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
    "league_logo": "logos/e985fcdd375b.png",
-   "rank": 3,
+   "rank": 4,
    "record": "2-2",
    "last5": [
     {
@@ -1978,7 +1987,7 @@
    "logo": "logos/3cef783b60c3.png",
    "league": "Extraliga",
    "league_logo": "logos/f143d20206a0.png",
-   "rank": 7,
+   "rank": 8,
    "record": "2-3",
    "last5": [
     {
@@ -2085,7 +2094,7 @@
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 8,
+   "rank": 9,
    "record": "2-1",
    "last5": [
     {
@@ -2592,7 +2601,7 @@
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 8,
+   "rank": 9,
    "record": "2-2",
    "last5": [
     {
@@ -2681,9 +2690,18 @@
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
    "league_logo": "logos/d3db0986330a.png",
-   "rank": 5,
-   "record": "3-1",
+   "rank": 4,
+   "record": "4-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "106:79",
+     "opponent": "Strasbourg",
+     "venue": "H",
+     "date": "24.10. 16:30",
+     "pf": 106,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "77:86",
@@ -2722,6 +2740,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "106:79",
+     "opponent": "Strasbourg",
+     "venue": "H",
+     "date": "24.10. 16:30",
+     "pf": 106,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "77:86",
@@ -3011,7 +3038,7 @@
    "logo": "logos/8072a67893db.png",
    "league": "Superliga",
    "league_logo": "logos/4a78e02d91eb.png",
-   "rank": 1,
+   "rank": 2,
    "record": "4-1",
    "last5": [
     {
@@ -3243,9 +3270,18 @@
    "logo": "logos/4e310a5ed65e.png",
    "league": "LPB",
    "league_logo": "logos/e985fcdd375b.png",
-   "rank": 6,
-   "record": "2-1",
+   "rank": 1,
+   "record": "3-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "72:88",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "24.10. 19:15",
+     "pf": 88,
+     "pa": 72
+    },
     {
      "wl": "W",
      "score": "92:67",
@@ -3277,6 +3313,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "72:88",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "24.10. 19:15",
+     "pf": 88,
+     "pa": 72
+    },
+    {
+     "wl": "W",
      "score": "92:67",
      "opponent": "Oliveirense",
      "venue": "H",
@@ -3304,8 +3349,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 19:15",
-    "opponent": "CA Queluz"
+    "date": "31.10. 18:00",
+    "opponent": "Portimonense"
    },
    "note": ""
   },
@@ -3314,7 +3359,7 @@
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 10,
+   "rank": 11,
    "record": "1-4",
    "last5": [
     {
@@ -3654,8 +3699,17 @@
    "league": "Extraliga",
    "league_logo": "logos/f143d20206a0.png",
    "rank": 1,
-   "record": "4-0",
+   "record": "5-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "81:83",
+     "opponent": "MBK Handlova",
+     "venue": "A",
+     "date": "24.10. 16:00",
+     "pf": 83,
+     "pa": 81
+    },
     {
      "wl": "W",
      "score": "122:79",
@@ -3694,6 +3748,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "81:83",
+     "opponent": "MBK Handlova",
+     "venue": "A",
+     "date": "24.10. 16:00",
+     "pf": 83,
+     "pa": 81
+    },
     {
      "wl": "W",
      "score": "122:79",
@@ -4128,9 +4191,18 @@
    "logo": "logos/87c0ce08f7ac.png",
    "league": "SB League",
    "league_logo": "logos/84ba8e573800.png",
-   "rank": 3,
-   "record": "4-1",
+   "rank": 2,
+   "record": "5-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "94:58",
+     "opponent": "Regio Basel",
+     "venue": "H",
+     "date": "24.10. 17:30",
+     "pf": 94,
+     "pa": 58
+    },
     {
      "wl": "W",
      "score": "43:89",
@@ -4166,18 +4238,18 @@
      "date": "30.09. 17:30",
      "pf": 78,
      "pa": 73
-    },
-    {
-     "wl": "W",
-     "score": "75:68",
-     "opponent": "Neuchatel",
-     "venue": "H",
-     "date": "27.09. 14:00",
-     "pf": 75,
-     "pa": 68
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "94:58",
+     "opponent": "Regio Basel",
+     "venue": "H",
+     "date": "24.10. 17:30",
+     "pf": 94,
+     "pa": 58
+    },
     {
      "wl": "W",
      "score": "43:89",
