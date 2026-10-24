@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-24 12:23",
+ "updated": "2026-10-24 15:19",
  "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
@@ -115,7 +115,7 @@
    "logo": "logos/75746dc3c118.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 10,
+   "rank": 11,
    "record": "1-2",
    "last5": [
     {
@@ -507,9 +507,18 @@
    "logo": "logos/fd0c0922151f.png",
    "league": "Superleague",
    "league_logo": "logos/464d0d314205.png",
-   "rank": 6,
-   "record": "2-0",
+   "rank": 4,
+   "record": "2-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "71:80",
+     "opponent": "CIU",
+     "venue": "H",
+     "date": "24.10. 12:00",
+     "pf": 71,
+     "pa": 80
+    },
     {
      "wl": "W",
      "score": "70:75",
@@ -530,6 +539,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "71:80",
+     "opponent": "CIU",
+     "venue": "H",
+     "date": "24.10. 12:00",
+     "pf": 71,
+     "pa": 80
+    },
     {
      "wl": "W",
      "score": "70:75",
@@ -799,8 +817,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 15:00",
-    "opponent": "SCM Craiova"
+    "date": "01.11. 16:00",
+    "opponent": "SCM Timisoara"
    },
    "note": ""
   },
@@ -1023,7 +1041,7 @@
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 7,
+   "rank": 10,
    "record": "2-1",
    "last5": [
     {
@@ -1094,7 +1112,7 @@
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 1,
+   "rank": 2,
    "record": "4-1",
    "last5": [
     {
@@ -1262,8 +1280,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 14:00",
-    "opponent": "Ovarense"
+    "date": "01.11. 15:00",
+    "opponent": "Braga"
    },
    "note": ""
   },
@@ -1272,7 +1290,7 @@
    "logo": "logos/f2b17b500179.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 9,
+   "rank": 10,
    "record": "1-2",
    "last5": [
     {
@@ -1404,8 +1422,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 15:00",
-    "opponent": "Dinamo Bucharest"
+    "date": "01.11. 16:00",
+    "opponent": "CSU Sibiu"
    },
    "note": ""
   },
@@ -1568,9 +1586,18 @@
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 6,
-   "record": "2-1",
+   "rank": 1,
+   "record": "3-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "70:54",
+     "opponent": "Lublin",
+     "venue": "H",
+     "date": "24.10. 13:00",
+     "pf": 70,
+     "pa": 54
+    },
     {
      "wl": "W",
      "score": "81:91",
@@ -1602,6 +1629,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "70:54",
+     "opponent": "Lublin",
+     "venue": "H",
+     "date": "24.10. 13:00",
+     "pf": 70,
+     "pa": 54
+    },
+    {
+     "wl": "W",
      "score": "81:91",
      "opponent": "Trefl Sopot",
      "venue": "A",
@@ -1629,8 +1665,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 13:00",
-    "opponent": "Lublin"
+    "date": "01.11. 18:00",
+    "opponent": "Gornik Walbrzych"
    },
    "note": ""
   },
@@ -1682,8 +1718,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 14:00",
-    "opponent": "Apollon"
+    "date": "31.10. 17:00",
+    "opponent": "Anorthosis"
    },
    "note": ""
   },
@@ -1941,7 +1977,7 @@
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
    "league_logo": "logos/11d67384a2ea.png",
-   "rank": 8,
+   "rank": 6,
    "record": "2-1",
    "last5": [
     {
@@ -2012,7 +2048,7 @@
    "logo": "logos/c3a29dbb6568.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 8,
+   "rank": 9,
    "record": "1-2",
    "last5": [
     {
@@ -2073,8 +2109,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 14:00",
-    "opponent": "Lefkadas"
+    "date": "31.10. 15:30",
+    "opponent": "PAOK"
    },
    "note": ""
   },
@@ -2126,8 +2162,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 14:00",
-    "opponent": "Paralimni"
+    "date": "31.10. 17:00",
+    "opponent": "ETHA Engomi"
    },
    "note": ""
   },
@@ -2403,7 +2439,7 @@
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 7,
+   "rank": 8,
    "record": "2-2",
    "last5": [
     {
@@ -2678,8 +2714,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 15:00",
-    "opponent": "Keila Coolbet"
+    "date": "31.10. 16:00",
+    "opponent": "Rigas Zelli"
    },
    "note": ""
   },
@@ -2688,7 +2724,7 @@
    "logo": "logos/ac51c062f47e.png",
    "league": "Lat-EST lyga",
    "league_logo": "logos/29164afda24c.png",
-   "rank": 2,
+   "rank": 3,
    "record": "6-0",
    "last5": [
     {
@@ -3107,9 +3143,18 @@
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 16,
-   "record": "1-3",
+   "rank": 10,
+   "record": "1-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "97:76",
+     "opponent": "Turk Telekom",
+     "venue": "A",
+     "date": "24.10. 12:30",
+     "pf": 76,
+     "pa": 97
+    },
     {
      "wl": "L",
      "score": "70:75",
@@ -3148,6 +3193,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "97:76",
+     "opponent": "Turk Telekom",
+     "venue": "A",
+     "date": "24.10. 12:30",
+     "pf": 76,
+     "pa": 97
+    },
     {
      "wl": "L",
      "score": "70:75",
@@ -3197,8 +3251,17 @@
    "league": "Basketligaen",
    "league_logo": "logos/9a891855be95.png",
    "rank": 2,
-   "record": "5-0",
+   "record": "6-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "105:67",
+     "opponent": "BMS Herlev",
+     "venue": "H",
+     "date": "24.10. 12:00",
+     "pf": 105,
+     "pa": 67
+    },
     {
      "wl": "W",
      "score": "82:123",
@@ -3234,18 +3297,18 @@
      "date": "27.09. 12:00",
      "pf": 108,
      "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "83:64",
-     "opponent": "Horsens",
-     "venue": "H",
-     "date": "24.09. 16:30",
-     "pf": 83,
-     "pa": 64
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "105:67",
+     "opponent": "BMS Herlev",
+     "venue": "H",
+     "date": "24.10. 12:00",
+     "pf": 105,
+     "pa": 67
+    },
     {
      "wl": "W",
      "score": "82:123",
@@ -3511,9 +3574,18 @@
    "logo": "logos/7b150e7a1c02.png",
    "league": "Basket League",
    "league_logo": "logos/d618cd530704.png",
-   "rank": 11,
-   "record": "1-2",
+   "rank": 6,
+   "record": "1-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "72:88",
+     "opponent": "Aris",
+     "venue": "H",
+     "date": "24.10. 12:00",
+     "pf": 72,
+     "pa": 88
+    },
     {
      "wl": "L",
      "score": "84:79",
@@ -3543,6 +3615,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "72:88",
+     "opponent": "Aris",
+     "venue": "H",
+     "date": "24.10. 12:00",
+     "pf": 72,
+     "pa": 88
+    },
     {
      "wl": "L",
      "score": "84:79",
@@ -3759,8 +3840,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 15:00",
-    "opponent": "CSU Sibiu"
+    "date": "31.10. 16:00",
+    "opponent": "Rapid Bucuresti"
    },
    "note": ""
   },
