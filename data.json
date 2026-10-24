@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-24 09:21",
+ "updated": "2026-10-24 12:23",
  "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
@@ -550,8 +550,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 12:00",
-    "opponent": "CIU"
+    "date": "07.11. 10:00",
+    "opponent": "TSU"
    },
    "note": ""
   },
@@ -1094,9 +1094,18 @@
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
    "league_logo": "logos/577d84baf758.png",
-   "rank": 2,
-   "record": "3-1",
+   "rank": 1,
+   "record": "4-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "90:93",
+     "opponent": "Trabzonspor",
+     "venue": "A",
+     "date": "24.10. 10:00",
+     "pf": 93,
+     "pa": 90
+    },
     {
      "wl": "W",
      "score": "73:70",
@@ -1137,6 +1146,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "90:93",
+     "opponent": "Trabzonspor",
+     "venue": "A",
+     "date": "24.10. 10:00",
+     "pf": 93,
+     "pa": 90
+    },
+    {
+     "wl": "W",
      "score": "73:70",
      "opponent": "Anadolu Efes",
      "venue": "H",
@@ -1173,8 +1191,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 10:00",
-    "opponent": "Trabzonspor"
+    "date": "01.11. 10:00",
+    "opponent": "Turk Telekom"
    },
    "note": ""
   },
@@ -3168,8 +3186,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 12:30",
-    "opponent": "Turk Telekom"
+    "date": "31.10. 17:30",
+    "opponent": "Galatasaray"
    },
    "note": ""
   },
@@ -3275,8 +3293,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 12:00",
-    "opponent": "BMS Herlev"
+    "date": "30.10. 18:00",
+    "opponent": "Holbaek-Stenhus"
    },
    "note": ""
   },
@@ -3554,8 +3572,8 @@
     }
    ],
    "next": {
-    "date": "24.10. 12:00",
-    "opponent": "Aris"
+    "date": "31.10. 14:00",
+    "opponent": "Lefkadas"
    },
    "note": ""
   },
