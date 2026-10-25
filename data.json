@@ -1,13 +1,13 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-25 18:20",
- "comp_logo": "logos/841ec0a2ef75.png",
+ "updated": "2026-10-25 21:18",
+ "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
    "logo": "logos/3e12832eb75b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 2,
    "record": "5-1",
    "last5": [
@@ -213,9 +213,18 @@
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 4,
-   "record": "3-2",
+   "rank": 2,
+   "record": "4-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "100:71",
+     "opponent": "Golden Eagle Ylli",
+     "venue": "H",
+     "date": "25.10. 18:30",
+     "pf": 100,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "68:79",
@@ -251,18 +260,18 @@
      "date": "26.09. 17:00",
      "pf": 81,
      "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "101:106",
-     "opponent": "Rahoveci",
-     "venue": "A",
-     "date": "19.09. 17:00",
-     "pf": 106,
-     "pa": 101
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "100:71",
+     "opponent": "Golden Eagle Ylli",
+     "venue": "H",
+     "date": "25.10. 18:30",
+     "pf": 100,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "68:79",
@@ -310,8 +319,8 @@
     }
    ],
    "next": {
-    "date": "25.10. 18:30",
-    "opponent": "Golden Eagle Ylli"
+    "date": "01.11. 18:30",
+    "opponent": "Sigal Prishtina"
    },
    "note": ""
   },
@@ -454,7 +463,7 @@
    "logo": "logos/22400341573a.png",
    "league": "Premijer liga",
    "league_logo": "logos/08f414435692.png",
-   "rank": 2,
+   "rank": 3,
    "record": "4-1",
    "last5": [
     {
@@ -632,7 +641,7 @@
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
    "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 9,
+   "rank": 10,
    "record": "3-2",
    "last5": [
     {
@@ -1015,9 +1024,18 @@
    "logo": "logos/e5b6889ee037.png",
    "league": "NB I. A",
    "league_logo": "logos/e25024497cfd.png",
-   "rank": 5,
-   "record": "3-2",
+   "rank": 4,
+   "record": "4-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "99:80",
+     "opponent": "Budapesti Honved Se",
+     "venue": "H",
+     "date": "25.10. 17:00",
+     "pf": 99,
+     "pa": 80
+    },
     {
      "wl": "L",
      "score": "81:72",
@@ -1053,18 +1071,18 @@
      "date": "29.09. 16:00",
      "pf": 90,
      "pa": 91
-    },
-    {
-     "wl": "W",
-     "score": "104:93",
-     "opponent": "OSE Lions",
-     "venue": "H",
-     "date": "25.09. 16:00",
-     "pf": 104,
-     "pa": 93
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "99:80",
+     "opponent": "Budapesti Honved Se",
+     "venue": "H",
+     "date": "25.10. 17:00",
+     "pf": 99,
+     "pa": 80
+    },
     {
      "wl": "L",
      "score": "81:72",
@@ -1122,7 +1140,7 @@
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 1,
+   "rank": 2,
    "record": "3-1",
    "last5": [
     {
@@ -1649,7 +1667,7 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 14,
    "record": "1-4",
    "last5": [
@@ -1757,7 +1775,7 @@
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 5,
+   "rank": 6,
    "record": "3-1",
    "last5": [
     {
@@ -1917,7 +1935,7 @@
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 7,
+   "rank": 9,
    "record": "1-3",
    "last5": [
     {
@@ -2220,7 +2238,7 @@
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 3,
+   "rank": 4,
    "record": "3-1",
    "last5": [
     {
@@ -2468,8 +2486,8 @@
    "name": "Wurzburg",
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
-   "rank": 11,
+   "league_logo": "logos/98572a4b17ba.png",
+   "rank": 12,
    "record": "2-2",
    "last5": [
     {
@@ -2674,7 +2692,7 @@
    "logo": "logos/0fc661c718c4.png",
    "league": "Super League",
    "league_logo": "logos/e8b6c8277c1e.png",
-   "rank": 2,
+   "rank": 3,
    "record": "3-0",
    "last5": [
     {
@@ -2745,7 +2763,7 @@
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 9,
+   "rank": 12,
    "record": "2-3",
    "last5": [
     {
@@ -2851,7 +2869,7 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 4,
    "record": "4-1",
    "last5": [
@@ -3530,7 +3548,7 @@
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 12,
+   "rank": 13,
    "record": "1-4",
    "last5": [
     {
