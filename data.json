@@ -1,13 +1,13 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-26 15:57",
+ "updated": "2026-10-26 18:33",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
    "logo": "logos/3e12832eb75b.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 2,
    "record": "5-1",
    "last5": [
@@ -747,7 +747,7 @@
    "name": "Oostende",
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/cc3eb03ee169.png",
+   "league_logo": "logos/f0a5f6fa9273.png",
    "rank": 6,
    "record": "2-2",
    "last5": [
@@ -836,8 +836,8 @@
    "name": "Dinamo Bucharest",
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 6,
+   "league_logo": "logos/9a29112107df.png",
+   "rank": 8,
    "record": "2-1",
    "last5": [
     {
@@ -1335,7 +1335,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 5,
    "record": "2-2",
    "last5": [
@@ -1513,8 +1513,8 @@
    "name": "SCM Craiova",
    "logo": "logos/5b294cafe993.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 8,
+   "league_logo": "logos/9a29112107df.png",
+   "rank": 9,
    "record": "2-1",
    "last5": [
     {
@@ -2023,7 +2023,7 @@
    "name": "Parnu",
    "logo": "logos/775bf7be74e5.png",
    "league": "Lat-EST lyga",
-   "league_logo": "logos/fbe12f38de4d.png",
+   "league_logo": "logos/29164afda24c.png",
    "rank": 8,
    "record": "2-3",
    "last5": [
@@ -2486,7 +2486,7 @@
    "name": "Wurzburg",
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 12,
    "record": "2-2",
    "last5": [
@@ -2575,7 +2575,7 @@
    "name": "Tartu Ulikool",
    "logo": "logos/045f0e1eea37.png",
    "league": "Lat-EST lyga",
-   "league_logo": "logos/fbe12f38de4d.png",
+   "league_logo": "logos/29164afda24c.png",
    "rank": 5,
    "record": "4-2",
    "last5": [
@@ -2976,7 +2976,7 @@
    "name": "BC Kalev",
    "logo": "logos/058b5de9bf73.png",
    "league": "Lat-EST lyga",
-   "league_logo": "logos/fbe12f38de4d.png",
+   "league_logo": "logos/29164afda24c.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
@@ -3092,7 +3092,7 @@
    "name": "Valmiera Glass Via",
    "logo": "logos/ac51c062f47e.png",
    "league": "Lat-EST lyga",
-   "league_logo": "logos/fbe12f38de4d.png",
+   "league_logo": "logos/29164afda24c.png",
    "rank": 3,
    "record": "6-1",
    "last5": [
@@ -3458,7 +3458,7 @@
    "name": "Benfica",
    "logo": "logos/4e310a5ed65e.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 4,
    "record": "3-1",
    "last5": [
@@ -4094,7 +4094,7 @@
    "name": "VEF Riga",
    "logo": "logos/54ee58fadd27.png",
    "league": "Lat-EST lyga",
-   "league_logo": "logos/fbe12f38de4d.png",
+   "league_logo": "logos/29164afda24c.png",
    "rank": 1,
    "record": "7-0",
    "last5": [
@@ -4219,7 +4219,7 @@
    "name": "CSM Oradea",
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 2,
    "record": "3-1",
    "last5": [
