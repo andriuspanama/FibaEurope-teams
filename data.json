@@ -1,13 +1,13 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-27 00:27",
+ "updated": "2026-10-27 03:26",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
    "logo": "logos/3e12832eb75b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 2,
    "record": "5-1",
    "last5": [
@@ -212,7 +212,7 @@
    "name": "Trepca",
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
-   "league_logo": "logos/7647d2406035.png",
+   "league_logo": "logos/4a78e02d91eb.png",
    "rank": 2,
    "record": "4-2",
    "last5": [
@@ -2486,7 +2486,7 @@
    "name": "Wurzburg",
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 7,
    "record": "3-2",
    "last5": [
@@ -3235,7 +3235,7 @@
    "name": "Bashkimi",
    "logo": "logos/8072a67893db.png",
    "league": "Superliga",
-   "league_logo": "logos/7647d2406035.png",
+   "league_logo": "logos/4a78e02d91eb.png",
    "rank": 1,
    "record": "5-1",
    "last5": [
