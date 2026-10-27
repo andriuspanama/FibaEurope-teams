@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-27 09:32",
+ "updated": "2026-10-27 12:33",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -908,7 +908,7 @@
    "logo": "logos/280469de6fb4.png",
    "league": "Extraliga",
    "league_logo": "logos/e2f53afac3df.png",
-   "rank": 2,
+   "rank": 1,
    "record": "6-0",
    "last5": [
     {
@@ -1335,7 +1335,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 5,
    "record": "2-2",
    "last5": [
@@ -1667,7 +1667,7 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 14,
    "record": "1-4",
    "last5": [
@@ -2023,7 +2023,7 @@
    "name": "Parnu",
    "logo": "logos/775bf7be74e5.png",
    "league": "Lat-EST lyga",
-   "league_logo": "logos/fbe12f38de4d.png",
+   "league_logo": "logos/f6b309e7508d.png",
    "rank": 8,
    "record": "2-3",
    "last5": [
@@ -2131,7 +2131,7 @@
    "logo": "logos/3cef783b60c3.png",
    "league": "Extraliga",
    "league_logo": "logos/e2f53afac3df.png",
-   "rank": 8,
+   "rank": 7,
    "record": "2-3",
    "last5": [
     {
@@ -2593,7 +2593,7 @@
    "name": "Tartu Ulikool",
    "logo": "logos/045f0e1eea37.png",
    "league": "Lat-EST lyga",
-   "league_logo": "logos/fbe12f38de4d.png",
+   "league_logo": "logos/f6b309e7508d.png",
    "rank": 5,
    "record": "4-2",
    "last5": [
@@ -2887,7 +2887,7 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 4,
    "record": "4-1",
    "last5": [
@@ -2994,7 +2994,7 @@
    "name": "BC Kalev",
    "logo": "logos/058b5de9bf73.png",
    "league": "Lat-EST lyga",
-   "league_logo": "logos/fbe12f38de4d.png",
+   "league_logo": "logos/f6b309e7508d.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
@@ -3110,7 +3110,7 @@
    "name": "Valmiera Glass Via",
    "logo": "logos/ac51c062f47e.png",
    "league": "Lat-EST lyga",
-   "league_logo": "logos/fbe12f38de4d.png",
+   "league_logo": "logos/f6b309e7508d.png",
    "rank": 3,
    "record": "6-1",
    "last5": [
@@ -3476,7 +3476,7 @@
    "name": "Benfica",
    "logo": "logos/4e310a5ed65e.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 4,
    "record": "3-1",
    "last5": [
@@ -3672,7 +3672,7 @@
    "name": "Bakken Bears",
    "logo": "logos/50d68c9585bb.png",
    "league": "Basketligaen",
-   "league_logo": "logos/40f2ae364ba9.png",
+   "league_logo": "logos/9a891855be95.png",
    "rank": 2,
    "record": "6-0",
    "last5": [
@@ -3905,7 +3905,7 @@
    "logo": "logos/37075e153733.png",
    "league": "Extraliga",
    "league_logo": "logos/e2f53afac3df.png",
-   "rank": 1,
+   "rank": 2,
    "record": "5-0",
    "last5": [
     {
@@ -4112,7 +4112,7 @@
    "name": "VEF Riga",
    "logo": "logos/54ee58fadd27.png",
    "league": "Lat-EST lyga",
-   "league_logo": "logos/fbe12f38de4d.png",
+   "league_logo": "logos/f6b309e7508d.png",
    "rank": 1,
    "record": "7-0",
    "last5": [
