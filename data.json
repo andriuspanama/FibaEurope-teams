@@ -1,7 +1,7 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-28 12:37",
- "comp_logo": "logos/841ec0a2ef75.png",
+ "updated": "2026-10-28 15:42",
+ "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
@@ -1023,7 +1023,7 @@
    "name": "Szolnoki Olaj",
    "logo": "logos/e5b6889ee037.png",
    "league": "NB I. A",
-   "league_logo": "logos/e25024497cfd.png",
+   "league_logo": "logos/61a093b35850.png",
    "rank": 4,
    "record": "4-2",
    "last5": [
@@ -3895,7 +3895,7 @@
    "name": "Geneva Lions",
    "logo": "logos/6d70f4af8b87.png",
    "league": "SB League",
-   "league_logo": "logos/aa275f58a5d2.png",
+   "league_logo": "logos/84ba8e573800.png",
    "rank": 1,
    "record": "6-0",
    "last5": [
@@ -4017,6 +4017,95 @@
    "last5": [],
    "games": [],
    "next": null,
+   "note": ""
+  },
+  {
+   "name": "CSM Oradea",
+   "logo": "logos/26ce8a1c4fad.png",
+   "league": "Divizia A",
+   "league_logo": "logos/8fb4ca9fe23f.png",
+   "rank": 2,
+   "record": "3-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "92:73",
+     "opponent": "CSU Sibiu",
+     "venue": "H",
+     "date": "24.10. 15:00",
+     "pf": 92,
+     "pa": 73
+    },
+    {
+     "wl": "L",
+     "score": "87:73",
+     "opponent": "Dinamo Bucharest",
+     "venue": "A",
+     "date": "17.10. 15:00",
+     "pf": 73,
+     "pa": 87
+    },
+    {
+     "wl": "W",
+     "score": "98:92",
+     "opponent": "Arges Pitesti",
+     "venue": "H",
+     "date": "10.10. 15:00",
+     "pf": 98,
+     "pa": 92
+    },
+    {
+     "wl": "W",
+     "score": "74:101",
+     "opponent": "Municipal Galati",
+     "venue": "A",
+     "date": "03.10. 15:00",
+     "pf": 101,
+     "pa": 74
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "92:73",
+     "opponent": "CSU Sibiu",
+     "venue": "H",
+     "date": "24.10. 15:00",
+     "pf": 92,
+     "pa": 73
+    },
+    {
+     "wl": "L",
+     "score": "87:73",
+     "opponent": "Dinamo Bucharest",
+     "venue": "A",
+     "date": "17.10. 15:00",
+     "pf": 73,
+     "pa": 87
+    },
+    {
+     "wl": "W",
+     "score": "98:92",
+     "opponent": "Arges Pitesti",
+     "venue": "H",
+     "date": "10.10. 15:00",
+     "pf": 98,
+     "pa": 92
+    },
+    {
+     "wl": "W",
+     "score": "74:101",
+     "opponent": "Municipal Galati",
+     "venue": "A",
+     "date": "03.10. 15:00",
+     "pf": 101,
+     "pa": 74
+    }
+   ],
+   "next": {
+    "date": "31.10. 16:00",
+    "opponent": "Rapid Bucuresti"
+   },
    "note": ""
   },
   {
@@ -4234,95 +4323,6 @@
    "note": ""
   },
   {
-   "name": "CSM Oradea",
-   "logo": "logos/26ce8a1c4fad.png",
-   "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 2,
-   "record": "3-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "92:73",
-     "opponent": "CSU Sibiu",
-     "venue": "H",
-     "date": "24.10. 15:00",
-     "pf": 92,
-     "pa": 73
-    },
-    {
-     "wl": "L",
-     "score": "87:73",
-     "opponent": "Dinamo Bucharest",
-     "venue": "A",
-     "date": "17.10. 15:00",
-     "pf": 73,
-     "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "98:92",
-     "opponent": "Arges Pitesti",
-     "venue": "H",
-     "date": "10.10. 15:00",
-     "pf": 98,
-     "pa": 92
-    },
-    {
-     "wl": "W",
-     "score": "74:101",
-     "opponent": "Municipal Galati",
-     "venue": "A",
-     "date": "03.10. 15:00",
-     "pf": 101,
-     "pa": 74
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "92:73",
-     "opponent": "CSU Sibiu",
-     "venue": "H",
-     "date": "24.10. 15:00",
-     "pf": 92,
-     "pa": 73
-    },
-    {
-     "wl": "L",
-     "score": "87:73",
-     "opponent": "Dinamo Bucharest",
-     "venue": "A",
-     "date": "17.10. 15:00",
-     "pf": 73,
-     "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "98:92",
-     "opponent": "Arges Pitesti",
-     "venue": "H",
-     "date": "10.10. 15:00",
-     "pf": 98,
-     "pa": 92
-    },
-    {
-     "wl": "W",
-     "score": "74:101",
-     "opponent": "Municipal Galati",
-     "venue": "A",
-     "date": "03.10. 15:00",
-     "pf": 101,
-     "pa": 74
-    }
-   ],
-   "next": {
-    "date": "31.10. 16:00",
-    "opponent": "Rapid Bucuresti"
-   },
-   "note": ""
-  },
-  {
    "name": "Lok. Plovdiv",
    "logo": "logos/c81d0ffece92.png",
    "league": "NBL",
@@ -4397,7 +4397,7 @@
    "name": "Fribourg Olympic",
    "logo": "logos/87c0ce08f7ac.png",
    "league": "SB League",
-   "league_logo": "logos/aa275f58a5d2.png",
+   "league_logo": "logos/84ba8e573800.png",
    "rank": 2,
    "record": "5-1",
    "last5": [
