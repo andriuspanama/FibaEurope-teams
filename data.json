@@ -1,13 +1,13 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-28 03:35",
+ "updated": "2026-10-28 06:36",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
    "logo": "logos/3e12832eb75b.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 2,
    "record": "5-1",
    "last5": [
@@ -640,7 +640,7 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 10,
    "record": "3-2",
    "last5": [
@@ -2486,7 +2486,7 @@
    "name": "Wurzburg",
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 7,
    "record": "3-2",
    "last5": [
