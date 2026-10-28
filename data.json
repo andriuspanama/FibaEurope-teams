@@ -1,8 +1,124 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-28 15:42",
+ "updated": "2026-10-28 18:35",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
+  {
+   "name": "Trepca",
+   "logo": "logos/810b4f64625d.png",
+   "league": "Superliga",
+   "league_logo": "logos/7647d2406035.png",
+   "rank": 2,
+   "record": "4-2",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "100:71",
+     "opponent": "Golden Eagle Ylli",
+     "venue": "H",
+     "date": "25.10. 18:30",
+     "pf": 100,
+     "pa": 71
+    },
+    {
+     "wl": "W",
+     "score": "68:79",
+     "opponent": "Bora",
+     "venue": "A",
+     "date": "18.10. 15:00",
+     "pf": 79,
+     "pa": 68
+    },
+    {
+     "wl": "W",
+     "score": "94:70",
+     "opponent": "Vellaznimi",
+     "venue": "H",
+     "date": "10.10. 15:00",
+     "pf": 94,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "84:76",
+     "opponent": "Bashkimi",
+     "venue": "A",
+     "date": "03.10. 17:30",
+     "pf": 76,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "81:87",
+     "opponent": "Peja",
+     "venue": "H",
+     "date": "26.09. 17:00",
+     "pf": 81,
+     "pa": 87
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "100:71",
+     "opponent": "Golden Eagle Ylli",
+     "venue": "H",
+     "date": "25.10. 18:30",
+     "pf": 100,
+     "pa": 71
+    },
+    {
+     "wl": "W",
+     "score": "68:79",
+     "opponent": "Bora",
+     "venue": "A",
+     "date": "18.10. 15:00",
+     "pf": 79,
+     "pa": 68
+    },
+    {
+     "wl": "W",
+     "score": "94:70",
+     "opponent": "Vellaznimi",
+     "venue": "H",
+     "date": "10.10. 15:00",
+     "pf": 94,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "84:76",
+     "opponent": "Bashkimi",
+     "venue": "A",
+     "date": "03.10. 17:30",
+     "pf": 76,
+     "pa": 84
+    },
+    {
+     "wl": "L",
+     "score": "81:87",
+     "opponent": "Peja",
+     "venue": "H",
+     "date": "26.09. 17:00",
+     "pf": 81,
+     "pa": 87
+    },
+    {
+     "wl": "W",
+     "score": "101:106",
+     "opponent": "Rahoveci",
+     "venue": "A",
+     "date": "19.09. 17:00",
+     "pf": 106,
+     "pa": 101
+    }
+   ],
+   "next": {
+    "date": "01.11. 18:30",
+    "opponent": "Sigal Prishtina"
+   },
+   "note": ""
+  },
   {
    "name": "Trier",
    "logo": "logos/3e12832eb75b.png",
@@ -205,122 +321,6 @@
    "next": {
     "date": "31.10. 15:00",
     "opponent": "Maroussi"
-   },
-   "note": ""
-  },
-  {
-   "name": "Trepca",
-   "logo": "logos/810b4f64625d.png",
-   "league": "Superliga",
-   "league_logo": "logos/7647d2406035.png",
-   "rank": 2,
-   "record": "4-2",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "100:71",
-     "opponent": "Golden Eagle Ylli",
-     "venue": "H",
-     "date": "25.10. 18:30",
-     "pf": 100,
-     "pa": 71
-    },
-    {
-     "wl": "W",
-     "score": "68:79",
-     "opponent": "Bora",
-     "venue": "A",
-     "date": "18.10. 15:00",
-     "pf": 79,
-     "pa": 68
-    },
-    {
-     "wl": "W",
-     "score": "94:70",
-     "opponent": "Vellaznimi",
-     "venue": "H",
-     "date": "10.10. 15:00",
-     "pf": 94,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "84:76",
-     "opponent": "Bashkimi",
-     "venue": "A",
-     "date": "03.10. 17:30",
-     "pf": 76,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "81:87",
-     "opponent": "Peja",
-     "venue": "H",
-     "date": "26.09. 17:00",
-     "pf": 81,
-     "pa": 87
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "100:71",
-     "opponent": "Golden Eagle Ylli",
-     "venue": "H",
-     "date": "25.10. 18:30",
-     "pf": 100,
-     "pa": 71
-    },
-    {
-     "wl": "W",
-     "score": "68:79",
-     "opponent": "Bora",
-     "venue": "A",
-     "date": "18.10. 15:00",
-     "pf": 79,
-     "pa": 68
-    },
-    {
-     "wl": "W",
-     "score": "94:70",
-     "opponent": "Vellaznimi",
-     "venue": "H",
-     "date": "10.10. 15:00",
-     "pf": 94,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "84:76",
-     "opponent": "Bashkimi",
-     "venue": "A",
-     "date": "03.10. 17:30",
-     "pf": 76,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "81:87",
-     "opponent": "Peja",
-     "venue": "H",
-     "date": "26.09. 17:00",
-     "pf": 81,
-     "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "101:106",
-     "opponent": "Rahoveci",
-     "venue": "A",
-     "date": "19.09. 17:00",
-     "pf": 106,
-     "pa": 101
-    }
-   ],
-   "next": {
-    "date": "01.11. 18:30",
-    "opponent": "Sigal Prishtina"
    },
    "note": ""
   },
@@ -1023,7 +1023,7 @@
    "name": "Szolnoki Olaj",
    "logo": "logos/e5b6889ee037.png",
    "league": "NB I. A",
-   "league_logo": "logos/61a093b35850.png",
+   "league_logo": "logos/e25024497cfd.png",
    "rank": 4,
    "record": "4-2",
    "last5": [
@@ -1332,95 +1332,6 @@
    "note": ""
   },
   {
-   "name": "Sporting CP",
-   "logo": "logos/b9b668dca314.png",
-   "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
-   "rank": 5,
-   "record": "2-2",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "71:70",
-     "opponent": "Ovarense",
-     "venue": "H",
-     "date": "24.10. 14:00",
-     "pf": 71,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "93:84",
-     "opponent": "CAB Madeira",
-     "venue": "A",
-     "date": "17.10. 15:00",
-     "pf": 84,
-     "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "88:60",
-     "opponent": "Esgueira",
-     "venue": "H",
-     "date": "10.10. 14:00",
-     "pf": 88,
-     "pa": 60
-    },
-    {
-     "wl": "L",
-     "score": "84:71",
-     "opponent": "Benfica",
-     "venue": "A",
-     "date": "03.10. 16:00",
-     "pf": 71,
-     "pa": 84
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "71:70",
-     "opponent": "Ovarense",
-     "venue": "H",
-     "date": "24.10. 14:00",
-     "pf": 71,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "93:84",
-     "opponent": "CAB Madeira",
-     "venue": "A",
-     "date": "17.10. 15:00",
-     "pf": 84,
-     "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "88:60",
-     "opponent": "Esgueira",
-     "venue": "H",
-     "date": "10.10. 14:00",
-     "pf": 88,
-     "pa": 60
-    },
-    {
-     "wl": "L",
-     "score": "84:71",
-     "opponent": "Benfica",
-     "venue": "A",
-     "date": "03.10. 16:00",
-     "pf": 71,
-     "pa": 84
-    }
-   ],
-   "next": {
-    "date": "01.11. 15:00",
-    "opponent": "Braga"
-   },
-   "note": ""
-  },
-  {
    "name": "Kolossos Rhodes",
    "logo": "logos/f2b17b500179.png",
    "league": "Basket League",
@@ -1506,6 +1417,95 @@
    "next": {
     "date": "31.10. 14:00",
     "opponent": "AS Karditsas"
+   },
+   "note": ""
+  },
+  {
+   "name": "Sporting CP",
+   "logo": "logos/b9b668dca314.png",
+   "league": "LPB",
+   "league_logo": "logos/b924ca13583e.png",
+   "rank": 5,
+   "record": "2-2",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "71:70",
+     "opponent": "Ovarense",
+     "venue": "H",
+     "date": "24.10. 14:00",
+     "pf": 71,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "93:84",
+     "opponent": "CAB Madeira",
+     "venue": "A",
+     "date": "17.10. 15:00",
+     "pf": 84,
+     "pa": 93
+    },
+    {
+     "wl": "W",
+     "score": "88:60",
+     "opponent": "Esgueira",
+     "venue": "H",
+     "date": "10.10. 14:00",
+     "pf": 88,
+     "pa": 60
+    },
+    {
+     "wl": "L",
+     "score": "84:71",
+     "opponent": "Benfica",
+     "venue": "A",
+     "date": "03.10. 16:00",
+     "pf": 71,
+     "pa": 84
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "71:70",
+     "opponent": "Ovarense",
+     "venue": "H",
+     "date": "24.10. 14:00",
+     "pf": 71,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "93:84",
+     "opponent": "CAB Madeira",
+     "venue": "A",
+     "date": "17.10. 15:00",
+     "pf": 84,
+     "pa": 93
+    },
+    {
+     "wl": "W",
+     "score": "88:60",
+     "opponent": "Esgueira",
+     "venue": "H",
+     "date": "10.10. 14:00",
+     "pf": 88,
+     "pa": 60
+    },
+    {
+     "wl": "L",
+     "score": "84:71",
+     "opponent": "Benfica",
+     "venue": "A",
+     "date": "03.10. 16:00",
+     "pf": 71,
+     "pa": 84
+    }
+   ],
+   "next": {
+    "date": "01.11. 15:00",
+    "opponent": "Braga"
    },
    "note": ""
   },
@@ -3895,7 +3895,7 @@
    "name": "Geneva Lions",
    "logo": "logos/6d70f4af8b87.png",
    "league": "SB League",
-   "league_logo": "logos/84ba8e573800.png",
+   "league_logo": "logos/aa275f58a5d2.png",
    "rank": 1,
    "record": "6-0",
    "last5": [
@@ -4397,7 +4397,7 @@
    "name": "Fribourg Olympic",
    "logo": "logos/87c0ce08f7ac.png",
    "league": "SB League",
-   "league_logo": "logos/84ba8e573800.png",
+   "league_logo": "logos/aa275f58a5d2.png",
    "rank": 2,
    "record": "5-1",
    "last5": [
