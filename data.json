@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-29 18:38",
+ "updated": "2026-10-29 21:31",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -640,7 +640,7 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 10,
    "record": "3-2",
    "last5": [
@@ -952,7 +952,7 @@
    "name": "Szolnoki Olaj",
    "logo": "logos/e5b6889ee037.png",
    "league": "NB I. A",
-   "league_logo": "logos/e25024497cfd.png",
+   "league_logo": "logos/61a093b35850.png",
    "rank": 4,
    "record": "4-2",
    "last5": [
@@ -2711,8 +2711,17 @@
    "league": "Super League",
    "league_logo": "logos/e8b6c8277c1e.png",
    "rank": 3,
-   "record": "3-0",
+   "record": "3-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "87:79",
+     "opponent": "Strumica",
+     "venue": "A",
+     "date": "29.10. 17:30",
+     "pf": 79,
+     "pa": 87
+    },
     {
      "wl": "W",
      "score": "70:66",
@@ -2742,6 +2751,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "87:79",
+     "opponent": "Strumica",
+     "venue": "A",
+     "date": "29.10. 17:30",
+     "pf": 79,
+     "pa": 87
+    },
     {
      "wl": "W",
      "score": "70:66",
@@ -3565,7 +3583,7 @@
    "name": "Bakken Bears",
    "logo": "logos/50d68c9585bb.png",
    "league": "Basketligaen",
-   "league_logo": "logos/40f2ae364ba9.png",
+   "league_logo": "logos/9a891855be95.png",
    "rank": 2,
    "record": "6-0",
    "last5": [
