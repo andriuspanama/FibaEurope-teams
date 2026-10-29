@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-28 21:30",
+ "updated": "2026-10-29 00:35",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -123,7 +123,7 @@
    "name": "Trepca",
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
-   "league_logo": "logos/7647d2406035.png",
+   "league_logo": "logos/4a78e02d91eb.png",
    "rank": 2,
    "record": "4-2",
    "last5": [
@@ -238,91 +238,14 @@
   {
    "name": "Promitheas",
    "logo": "logos/75746dc3c118.png",
-   "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 10,
-   "record": "1-3",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "45:85",
-     "opponent": "Olympiacos",
-     "venue": "H",
-     "date": "25.10. 11:00",
-     "pf": 45,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "79:80",
-     "opponent": "Lefkadas",
-     "venue": "A",
-     "date": "17.10. 14:00",
-     "pf": 80,
-     "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "59:84",
-     "opponent": "Panathinaikos",
-     "venue": "H",
-     "date": "10.10. 16:00",
-     "pf": 59,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "88:94",
-     "opponent": "Peristeri",
-     "venue": "H",
-     "date": "03.10. 14:00",
-     "pf": 88,
-     "pa": 94
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "45:85",
-     "opponent": "Olympiacos",
-     "venue": "H",
-     "date": "25.10. 11:00",
-     "pf": 45,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "79:80",
-     "opponent": "Lefkadas",
-     "venue": "A",
-     "date": "17.10. 14:00",
-     "pf": 80,
-     "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "59:84",
-     "opponent": "Panathinaikos",
-     "venue": "H",
-     "date": "10.10. 16:00",
-     "pf": 59,
-     "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "88:94",
-     "opponent": "Peristeri",
-     "venue": "H",
-     "date": "03.10. 14:00",
-     "pf": 88,
-     "pa": 94
-    }
-   ],
-   "next": {
-    "date": "31.10. 15:00",
-    "opponent": "Maroussi"
-   },
-   "note": ""
+   "league": null,
+   "league_logo": "",
+   "rank": null,
+   "record": "",
+   "last5": [],
+   "games": [],
+   "next": null,
+   "note": "Klaida: TimeoutError"
   },
   {
    "name": "Split",
@@ -569,9 +492,9 @@
    "name": "Batumi",
    "logo": "logos/fd0c0922151f.png",
    "league": "Superleague",
-   "league_logo": "logos/b07974095eca.png",
-   "rank": 6,
-   "record": "2-1",
+   "league_logo": "",
+   "rank": null,
+   "record": "",
    "last5": [
     {
      "wl": "L",
@@ -634,15 +557,15 @@
     "date": "07.11. 10:00",
     "opponent": "TSU"
    },
-   "note": ""
+   "note": "Klaida: TimeoutError"
   },
   {
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 10,
-   "record": "3-2",
+   "league_logo": "",
+   "rank": null,
+   "record": "",
    "last5": [
     {
      "wl": "W",
@@ -741,7 +664,7 @@
     "date": "31.10. 17:00",
     "opponent": "Basket Zaragoza"
    },
-   "note": ""
+   "note": "Klaida: TimeoutError"
   },
   {
    "name": "Oostende",
@@ -953,8 +876,8 @@
    "logo": "logos/e5b6889ee037.png",
    "league": "NB I. A",
    "league_logo": "logos/e25024497cfd.png",
-   "rank": 4,
-   "record": "4-2",
+   "rank": null,
+   "record": "",
    "last5": [
     {
      "wl": "W",
@@ -1062,7 +985,7 @@
     "date": "31.10. 16:00",
     "opponent": "Phoenix-MT Fot"
    },
-   "note": ""
+   "note": "Komanda lygos lentelėje nerasta"
   },
   {
    "name": "Zielona Gora",
@@ -1157,7 +1080,7 @@
    "name": "Dinamo Bucharest",
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 8,
    "record": "2-1",
    "last5": [
@@ -1513,7 +1436,7 @@
    "name": "SCM Craiova",
    "logo": "logos/5b294cafe993.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 9,
    "record": "2-1",
    "last5": [
@@ -1585,8 +1508,8 @@
    "logo": "logos/9d7e8294c55f.png",
    "league": "NBL",
    "league_logo": "logos/e6f4a097ec8d.png",
-   "rank": 5,
-   "record": "2-1",
+   "rank": null,
+   "record": "",
    "last5": [
     {
      "wl": "L",
@@ -1649,7 +1572,7 @@
     "date": "31.10. 16:00",
     "opponent": "Lok. Plovdiv"
    },
-   "note": ""
+   "note": "Komanda lygos lentelėje nerasta"
   },
   {
    "name": "Gence",
@@ -3235,7 +3158,7 @@
    "name": "Bashkimi",
    "logo": "logos/8072a67893db.png",
    "league": "Superliga",
-   "league_logo": "logos/7647d2406035.png",
+   "league_logo": "logos/4a78e02d91eb.png",
    "rank": 1,
    "record": "5-1",
    "last5": [
@@ -3351,7 +3274,7 @@
    "name": "Manchester Basketball",
    "logo": "logos/a2efec1b9ac2.png",
    "league": "SLB",
-   "league_logo": "logos/f777b3e960be.png",
+   "league_logo": "logos/bfd4ead64284.png",
    "rank": 6,
    "record": "3-4",
    "last5": [
@@ -3473,6 +3396,95 @@
    "note": ""
   },
   {
+   "name": "Benfica",
+   "logo": "logos/4e310a5ed65e.png",
+   "league": "LPB",
+   "league_logo": "logos/b924ca13583e.png",
+   "rank": 4,
+   "record": "3-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "72:89",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "24.10. 19:15",
+     "pf": 89,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "92:67",
+     "opponent": "Oliveirense",
+     "venue": "H",
+     "date": "17.10. 16:00",
+     "pf": 92,
+     "pa": 67
+    },
+    {
+     "wl": "L",
+     "score": "93:86",
+     "opponent": "FC Porto",
+     "venue": "A",
+     "date": "11.10. 14:00",
+     "pf": 86,
+     "pa": 93
+    },
+    {
+     "wl": "W",
+     "score": "84:71",
+     "opponent": "Sporting CP",
+     "venue": "H",
+     "date": "03.10. 16:00",
+     "pf": 84,
+     "pa": 71
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "72:89",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "24.10. 19:15",
+     "pf": 89,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "92:67",
+     "opponent": "Oliveirense",
+     "venue": "H",
+     "date": "17.10. 16:00",
+     "pf": 92,
+     "pa": 67
+    },
+    {
+     "wl": "L",
+     "score": "93:86",
+     "opponent": "FC Porto",
+     "venue": "A",
+     "date": "11.10. 14:00",
+     "pf": 86,
+     "pa": 93
+    },
+    {
+     "wl": "W",
+     "score": "84:71",
+     "opponent": "Sporting CP",
+     "venue": "H",
+     "date": "03.10. 16:00",
+     "pf": 84,
+     "pa": 71
+    }
+   ],
+   "next": {
+    "date": "31.10. 18:00",
+    "opponent": "Portimonense"
+   },
+   "note": ""
+  },
+  {
    "name": "Bakken Bears",
    "logo": "logos/50d68c9585bb.png",
    "league": "Basketligaen",
@@ -3589,91 +3601,118 @@
    "note": ""
   },
   {
-   "name": "Benfica",
-   "logo": "logos/4e310a5ed65e.png",
-   "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
-   "rank": 4,
-   "record": "3-1",
+   "name": "Geneva Lions",
+   "logo": "logos/6d70f4af8b87.png",
+   "league": "SB League",
+   "league_logo": "logos/aa275f58a5d2.png",
+   "rank": 1,
+   "record": "6-0",
    "last5": [
     {
      "wl": "W",
-     "score": "72:89",
-     "opponent": "CA Queluz",
-     "venue": "A",
-     "date": "24.10. 19:15",
-     "pf": 89,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:67",
-     "opponent": "Oliveirense",
+     "score": "92:74",
+     "opponent": "Lugano Tigers",
      "venue": "H",
-     "date": "17.10. 16:00",
+     "date": "24.10. 16:00",
      "pf": 92,
-     "pa": 67
-    },
-    {
-     "wl": "L",
-     "score": "93:86",
-     "opponent": "FC Porto",
-     "venue": "A",
-     "date": "11.10. 14:00",
-     "pf": 86,
-     "pa": 93
+     "pa": 74
     },
     {
      "wl": "W",
-     "score": "84:71",
-     "opponent": "Sporting CP",
+     "score": "41:91",
+     "opponent": "Neuchatel",
+     "venue": "A",
+     "date": "17.10. 16:15",
+     "pf": 91,
+     "pa": 41
+    },
+    {
+     "wl": "W",
+     "score": "65:94",
+     "opponent": "Lausanne Basket",
+     "venue": "A",
+     "date": "10.10. 15:30",
+     "pf": 94,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "71:64",
+     "opponent": "Fribourg Olympic",
      "venue": "H",
      "date": "03.10. 16:00",
-     "pf": 84,
-     "pa": 71
+     "pf": 71,
+     "pa": 64
+    },
+    {
+     "wl": "W",
+     "score": "46:109",
+     "opponent": "Zurich",
+     "venue": "A",
+     "date": "29.09. 17:30",
+     "pf": 109,
+     "pa": 46
     }
    ],
    "games": [
     {
      "wl": "W",
-     "score": "72:89",
-     "opponent": "CA Queluz",
-     "venue": "A",
-     "date": "24.10. 19:15",
-     "pf": 89,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:67",
-     "opponent": "Oliveirense",
+     "score": "92:74",
+     "opponent": "Lugano Tigers",
      "venue": "H",
-     "date": "17.10. 16:00",
+     "date": "24.10. 16:00",
      "pf": 92,
-     "pa": 67
-    },
-    {
-     "wl": "L",
-     "score": "93:86",
-     "opponent": "FC Porto",
-     "venue": "A",
-     "date": "11.10. 14:00",
-     "pf": 86,
-     "pa": 93
+     "pa": 74
     },
     {
      "wl": "W",
-     "score": "84:71",
-     "opponent": "Sporting CP",
+     "score": "41:91",
+     "opponent": "Neuchatel",
+     "venue": "A",
+     "date": "17.10. 16:15",
+     "pf": 91,
+     "pa": 41
+    },
+    {
+     "wl": "W",
+     "score": "65:94",
+     "opponent": "Lausanne Basket",
+     "venue": "A",
+     "date": "10.10. 15:30",
+     "pf": 94,
+     "pa": 65
+    },
+    {
+     "wl": "W",
+     "score": "71:64",
+     "opponent": "Fribourg Olympic",
      "venue": "H",
      "date": "03.10. 16:00",
-     "pf": 84,
-     "pa": 71
+     "pf": 71,
+     "pa": 64
+    },
+    {
+     "wl": "W",
+     "score": "46:109",
+     "opponent": "Zurich",
+     "venue": "A",
+     "date": "29.09. 17:30",
+     "pf": 109,
+     "pa": 46
+    },
+    {
+     "wl": "W",
+     "score": "86:69",
+     "opponent": "Sdent BBC Nyon",
+     "venue": "H",
+     "date": "26.09. 16:00",
+     "pf": 86,
+     "pa": 69
     }
    ],
    "next": {
-    "date": "31.10. 18:00",
-    "opponent": "Portimonense"
+    "date": "01.11. 15:00",
+    "opponent": "Regio Basel"
    },
    "note": ""
   },
@@ -3904,122 +3943,6 @@
    "note": ""
   },
   {
-   "name": "Geneva Lions",
-   "logo": "logos/6d70f4af8b87.png",
-   "league": "SB League",
-   "league_logo": "logos/aa275f58a5d2.png",
-   "rank": 1,
-   "record": "6-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "92:74",
-     "opponent": "Lugano Tigers",
-     "venue": "H",
-     "date": "24.10. 16:00",
-     "pf": 92,
-     "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "41:91",
-     "opponent": "Neuchatel",
-     "venue": "A",
-     "date": "17.10. 16:15",
-     "pf": 91,
-     "pa": 41
-    },
-    {
-     "wl": "W",
-     "score": "65:94",
-     "opponent": "Lausanne Basket",
-     "venue": "A",
-     "date": "10.10. 15:30",
-     "pf": 94,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "71:64",
-     "opponent": "Fribourg Olympic",
-     "venue": "H",
-     "date": "03.10. 16:00",
-     "pf": 71,
-     "pa": 64
-    },
-    {
-     "wl": "W",
-     "score": "46:109",
-     "opponent": "Zurich",
-     "venue": "A",
-     "date": "29.09. 17:30",
-     "pf": 109,
-     "pa": 46
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "92:74",
-     "opponent": "Lugano Tigers",
-     "venue": "H",
-     "date": "24.10. 16:00",
-     "pf": 92,
-     "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "41:91",
-     "opponent": "Neuchatel",
-     "venue": "A",
-     "date": "17.10. 16:15",
-     "pf": 91,
-     "pa": 41
-    },
-    {
-     "wl": "W",
-     "score": "65:94",
-     "opponent": "Lausanne Basket",
-     "venue": "A",
-     "date": "10.10. 15:30",
-     "pf": 94,
-     "pa": 65
-    },
-    {
-     "wl": "W",
-     "score": "71:64",
-     "opponent": "Fribourg Olympic",
-     "venue": "H",
-     "date": "03.10. 16:00",
-     "pf": 71,
-     "pa": 64
-    },
-    {
-     "wl": "W",
-     "score": "46:109",
-     "opponent": "Zurich",
-     "venue": "A",
-     "date": "29.09. 17:30",
-     "pf": 109,
-     "pa": 46
-    },
-    {
-     "wl": "W",
-     "score": "86:69",
-     "opponent": "Sdent BBC Nyon",
-     "venue": "H",
-     "date": "26.09. 16:00",
-     "pf": 86,
-     "pa": 69
-    }
-   ],
-   "next": {
-    "date": "01.11. 15:00",
-    "opponent": "Regio Basel"
-   },
-   "note": ""
-  },
-  {
    "name": "Mykonos",
    "logo": "logos/7b150e7a1c02.png",
    "league": "Basket League",
@@ -4112,7 +4035,7 @@
    "name": "CSM Oradea",
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 2,
    "record": "3-1",
    "last5": [
@@ -4327,8 +4250,8 @@
    "logo": "logos/c81d0ffece92.png",
    "league": "NBL",
    "league_logo": "logos/e6f4a097ec8d.png",
-   "rank": 3,
-   "record": "3-0",
+   "rank": null,
+   "record": "",
    "last5": [
     {
      "wl": "W",
@@ -4391,7 +4314,7 @@
     "date": "31.10. 16:00",
     "opponent": "Rilski Sportist"
    },
-   "note": ""
+   "note": "Komanda lygos lentelėje nerasta"
   },
   {
    "name": "Fribourg Olympic",
