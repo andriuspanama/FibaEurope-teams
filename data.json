@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-29 15:43",
+ "updated": "2026-10-29 18:38",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -640,7 +640,7 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 10,
    "record": "3-2",
    "last5": [
@@ -1332,95 +1332,6 @@
    "note": ""
   },
   {
-   "name": "Kolossos Rhodes",
-   "logo": "logos/f2b17b500179.png",
-   "league": "Basket League",
-   "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 7,
-   "record": "2-2",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "80:70",
-     "opponent": "Vikos",
-     "venue": "H",
-     "date": "25.10. 11:00",
-     "pf": 80,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "84:88",
-     "opponent": "PAOK",
-     "venue": "H",
-     "date": "17.10. 13:00",
-     "pf": 84,
-     "pa": 88
-    },
-    {
-     "wl": "L",
-     "score": "99:83",
-     "opponent": "Olympiacos",
-     "venue": "A",
-     "date": "11.10. 10:00",
-     "pf": 83,
-     "pa": 99
-    },
-    {
-     "wl": "W",
-     "score": "91:75",
-     "opponent": "Lefkadas",
-     "venue": "H",
-     "date": "03.10. 13:00",
-     "pf": 91,
-     "pa": 75
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "80:70",
-     "opponent": "Vikos",
-     "venue": "H",
-     "date": "25.10. 11:00",
-     "pf": 80,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "84:88",
-     "opponent": "PAOK",
-     "venue": "H",
-     "date": "17.10. 13:00",
-     "pf": 84,
-     "pa": 88
-    },
-    {
-     "wl": "L",
-     "score": "99:83",
-     "opponent": "Olympiacos",
-     "venue": "A",
-     "date": "11.10. 10:00",
-     "pf": 83,
-     "pa": 99
-    },
-    {
-     "wl": "W",
-     "score": "91:75",
-     "opponent": "Lefkadas",
-     "venue": "H",
-     "date": "03.10. 13:00",
-     "pf": 91,
-     "pa": 75
-    }
-   ],
-   "next": {
-    "date": "31.10. 14:00",
-    "opponent": "AS Karditsas"
-   },
-   "note": ""
-  },
-  {
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
@@ -1510,6 +1421,95 @@
    "note": ""
   },
   {
+   "name": "Kolossos Rhodes",
+   "logo": "logos/f2b17b500179.png",
+   "league": "Basket League",
+   "league_logo": "logos/21f5bcd543ba.png",
+   "rank": 7,
+   "record": "2-2",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "80:70",
+     "opponent": "Vikos",
+     "venue": "H",
+     "date": "25.10. 11:00",
+     "pf": 80,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "84:88",
+     "opponent": "PAOK",
+     "venue": "H",
+     "date": "17.10. 13:00",
+     "pf": 84,
+     "pa": 88
+    },
+    {
+     "wl": "L",
+     "score": "99:83",
+     "opponent": "Olympiacos",
+     "venue": "A",
+     "date": "11.10. 10:00",
+     "pf": 83,
+     "pa": 99
+    },
+    {
+     "wl": "W",
+     "score": "91:75",
+     "opponent": "Lefkadas",
+     "venue": "H",
+     "date": "03.10. 13:00",
+     "pf": 91,
+     "pa": 75
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "80:70",
+     "opponent": "Vikos",
+     "venue": "H",
+     "date": "25.10. 11:00",
+     "pf": 80,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "84:88",
+     "opponent": "PAOK",
+     "venue": "H",
+     "date": "17.10. 13:00",
+     "pf": 84,
+     "pa": 88
+    },
+    {
+     "wl": "L",
+     "score": "99:83",
+     "opponent": "Olympiacos",
+     "venue": "A",
+     "date": "11.10. 10:00",
+     "pf": 83,
+     "pa": 99
+    },
+    {
+     "wl": "W",
+     "score": "91:75",
+     "opponent": "Lefkadas",
+     "venue": "H",
+     "date": "03.10. 13:00",
+     "pf": 91,
+     "pa": 75
+    }
+   ],
+   "next": {
+    "date": "31.10. 14:00",
+    "opponent": "AS Karditsas"
+   },
+   "note": ""
+  },
+  {
    "name": "SCM Craiova",
    "logo": "logos/5b294cafe993.png",
    "league": "Divizia A",
@@ -1581,6 +1581,18 @@
    "note": ""
   },
   {
+   "name": "Gence",
+   "logo": "logos/b71bbc9a07d0.png",
+   "league": "Nežinoma",
+   "league_logo": "",
+   "rank": null,
+   "record": "",
+   "last5": [],
+   "games": [],
+   "next": null,
+   "note": ""
+  },
+  {
    "name": "Rilski Sportist",
    "logo": "logos/9d7e8294c55f.png",
    "league": "NBL",
@@ -1649,18 +1661,6 @@
     "date": "31.10. 16:00",
     "opponent": "Lok. Plovdiv"
    },
-   "note": ""
-  },
-  {
-   "name": "Gence",
-   "logo": "logos/b71bbc9a07d0.png",
-   "league": "Nežinoma",
-   "league_logo": "",
-   "rank": null,
-   "record": "",
-   "last5": [],
-   "games": [],
-   "next": null,
    "note": ""
   },
   {
@@ -2771,8 +2771,8 @@
     }
    ],
    "next": {
-    "date": "29.10. 17:30",
-    "opponent": "Strumica"
+    "date": "01.11. 13:00",
+    "opponent": "Pelister"
    },
    "note": ""
   },
