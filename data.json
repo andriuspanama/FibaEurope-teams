@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-30 03:38",
+ "updated": "2026-10-30 06:39",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -952,7 +952,7 @@
    "name": "Szolnoki Olaj",
    "logo": "logos/e5b6889ee037.png",
    "league": "NB I. A",
-   "league_logo": "logos/61a093b35850.png",
+   "league_logo": "logos/e25024497cfd.png",
    "rank": 4,
    "record": "4-2",
    "last5": [
@@ -1335,7 +1335,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 5,
    "record": "2-2",
    "last5": [
@@ -3494,7 +3494,7 @@
    "name": "Benfica",
    "logo": "logos/4e310a5ed65e.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 4,
    "record": "3-1",
    "last5": [
