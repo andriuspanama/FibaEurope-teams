@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-30 15:41",
+ "updated": "2026-10-30 18:35",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -560,8 +560,8 @@
     }
    ],
    "next": {
-    "date": "30.10. 17:00",
-    "opponent": "Slavia Prague ERA NBK"
+    "date": "01.11. 17:00",
+    "opponent": "Hradec Kralove"
    },
    "note": ""
   },
@@ -570,7 +570,7 @@
    "logo": "logos/fd0c0922151f.png",
    "league": "Superleague",
    "league_logo": "logos/b07974095eca.png",
-   "rank": 6,
+   "rank": 8,
    "record": "2-1",
    "last5": [
     {
@@ -640,7 +640,7 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 10,
    "record": "3-2",
    "last5": [
@@ -747,7 +747,7 @@
    "name": "Oostende",
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/f0a5f6fa9273.png",
+   "league_logo": "logos/cc3eb03ee169.png",
    "rank": 6,
    "record": "2-2",
    "last5": [
@@ -1228,7 +1228,7 @@
    "name": "Esenler Erokspor",
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 4,
    "record": "4-1",
    "last5": [
@@ -1863,8 +1863,8 @@
    "name": "Keravnos",
    "logo": "logos/9df64c496b64.png",
    "league": "Division A",
-   "league_logo": "logos/0da4d7fc3ac7.png",
-   "rank": 1,
+   "league_logo": "logos/91f890f3c477.png",
+   "rank": 2,
    "record": "3-0",
    "last5": [
     {
@@ -2237,8 +2237,8 @@
    "name": "AEK Larnaca",
    "logo": "logos/4e49de659cee.png",
    "league": "Division A",
-   "league_logo": "logos/0da4d7fc3ac7.png",
-   "rank": 2,
+   "league_logo": "logos/91f890f3c477.png",
+   "rank": 3,
    "record": "3-0",
    "last5": [
     {
@@ -2905,7 +2905,7 @@
    "name": "Korfez Basket",
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 12,
    "record": "2-3",
    "last5": [
@@ -3690,8 +3690,8 @@
     }
    ],
    "next": {
-    "date": "30.10. 18:00",
-    "opponent": "Holbaek-Stenhus"
+    "date": "08.11. 15:00",
+    "opponent": "Team FOG Naestved"
    },
    "note": ""
   },
@@ -3815,7 +3815,7 @@
    "name": "Denizli Basket",
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 13,
    "record": "1-4",
    "last5": [
