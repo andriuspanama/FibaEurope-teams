@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-31 09:30",
+ "updated": "2026-10-31 12:34",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -579,7 +579,7 @@
    "logo": "logos/fd0c0922151f.png",
    "league": "Superleague",
    "league_logo": "logos/b07974095eca.png",
-   "rank": 8,
+   "rank": 9,
    "record": "2-1",
    "last5": [
     {
@@ -1077,7 +1077,7 @@
    "name": "Zielona Gora",
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 5,
    "record": "3-1",
    "last5": [
@@ -1166,7 +1166,7 @@
    "name": "Dinamo Bucharest",
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 8,
    "record": "2-1",
    "last5": [
@@ -1344,7 +1344,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 5,
    "record": "2-2",
    "last5": [
@@ -1522,7 +1522,7 @@
    "name": "SCM Craiova",
    "logo": "logos/5b294cafe993.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 9,
    "record": "2-1",
    "last5": [
@@ -1676,7 +1676,7 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 12,
    "record": "2-4",
    "last5": [
@@ -1792,7 +1792,7 @@
    "name": "Szczecin",
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 8,
    "record": "3-1",
    "last5": [
@@ -1952,7 +1952,7 @@
    "name": "Vienna Basket",
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 7,
    "record": "1-4",
    "last5": [
@@ -2344,7 +2344,7 @@
    "name": "Dziki Warszawa",
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 7,
    "record": "3-1",
    "last5": [
@@ -2745,7 +2745,7 @@
    "name": "MZT Skopje",
    "logo": "logos/0fc661c718c4.png",
    "league": "Super League",
-   "league_logo": "logos/7bfc98f20b70.png",
+   "league_logo": "logos/e8b6c8277c1e.png",
    "rank": 3,
    "record": "3-1",
    "last5": [
@@ -2834,7 +2834,7 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 4,
    "record": "4-1",
    "last5": [
@@ -3039,8 +3039,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 12:30",
-    "opponent": "Trabzonspor"
+    "date": "07.11. 12:30",
+    "opponent": "Turk Telekom"
    },
    "note": ""
   },
@@ -3539,7 +3539,7 @@
    "name": "Benfica",
    "logo": "logos/4e310a5ed65e.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 4,
    "record": "3-1",
    "last5": [
@@ -4184,7 +4184,7 @@
    "name": "CSM Oradea",
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 2,
    "record": "3-1",
    "last5": [
