@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-10-31 12:34",
+ "updated": "2026-10-31 15:26",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -240,7 +240,7 @@
    "logo": "logos/75746dc3c118.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 10,
+   "rank": 11,
    "record": "1-3",
    "last5": [
     {
@@ -319,8 +319,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 15:00",
-    "opponent": "Maroussi"
+    "date": "07.11. 15:00",
+    "opponent": "AS Karditsas"
    },
    "note": ""
   },
@@ -329,7 +329,7 @@
    "logo": "logos/22400341573a.png",
    "league": "Premijer liga",
    "league_logo": "logos/08f414435692.png",
-   "rank": 4,
+   "rank": 5,
    "record": "4-1",
    "last5": [
     {
@@ -1077,8 +1077,8 @@
    "name": "Zielona Gora",
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
-   "rank": 5,
+   "league_logo": "logos/e38c6600f3ac.png",
+   "rank": 4,
    "record": "3-1",
    "last5": [
     {
@@ -1166,7 +1166,7 @@
    "name": "Dinamo Bucharest",
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 8,
    "record": "2-1",
    "last5": [
@@ -1238,7 +1238,7 @@
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 4,
+   "rank": 5,
    "record": "4-1",
    "last5": [
     {
@@ -1434,7 +1434,7 @@
    "logo": "logos/f2b17b500179.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 7,
+   "rank": 9,
    "record": "2-2",
    "last5": [
     {
@@ -1513,16 +1513,16 @@
     }
    ],
    "next": {
-    "date": "31.10. 14:00",
-    "opponent": "AS Karditsas"
+    "date": "07.11. 14:00",
+    "opponent": "Peristeri"
    },
    "note": ""
   },
   {
    "name": "SCM Craiova",
-   "logo": "logos/5b294cafe993.png",
+   "logo": "logos/03dafda0ac7a.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 9,
    "record": "2-1",
    "last5": [
@@ -1676,7 +1676,7 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 12,
    "record": "2-4",
    "last5": [
@@ -1792,8 +1792,8 @@
    "name": "Szczecin",
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
-   "rank": 8,
+   "league_logo": "logos/e38c6600f3ac.png",
+   "rank": 9,
    "record": "3-1",
    "last5": [
     {
@@ -2344,8 +2344,8 @@
    "name": "Dziki Warszawa",
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
-   "rank": 7,
+   "league_logo": "logos/e38c6600f3ac.png",
+   "rank": 8,
    "record": "3-1",
    "last5": [
     {
@@ -2434,7 +2434,7 @@
    "logo": "logos/c3a29dbb6568.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 11,
+   "rank": 12,
    "record": "1-3",
    "last5": [
     {
@@ -2513,8 +2513,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 15:30",
-    "opponent": "PAOK"
+    "date": "07.11. 15:00",
+    "opponent": "Mykonos"
    },
    "note": ""
   },
@@ -2834,7 +2834,7 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 4,
    "record": "4-1",
    "last5": [
@@ -2942,9 +2942,18 @@
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 12,
-   "record": "2-3",
+   "rank": 7,
+   "record": "2-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "86:94",
+     "opponent": "Trabzonspor",
+     "venue": "H",
+     "date": "31.10. 12:30",
+     "pf": 86,
+     "pa": 94
+    },
     {
      "wl": "L",
      "score": "93:77",
@@ -2980,18 +2989,18 @@
      "date": "04.10. 12:30",
      "pf": 84,
      "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "88:79",
-     "opponent": "Esenler Erokspor",
-     "venue": "H",
-     "date": "28.09. 16:00",
-     "pf": 88,
-     "pa": 79
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "86:94",
+     "opponent": "Trabzonspor",
+     "venue": "H",
+     "date": "31.10. 12:30",
+     "pf": 86,
+     "pa": 94
+    },
     {
      "wl": "L",
      "score": "93:77",
@@ -4096,7 +4105,7 @@
    "logo": "logos/7b150e7a1c02.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 12,
+   "rank": 13,
    "record": "1-3",
    "last5": [
     {
@@ -4175,8 +4184,8 @@
     }
    ],
    "next": {
-    "date": "31.10. 14:00",
-    "opponent": "Lefkadas"
+    "date": "07.11. 15:00",
+    "opponent": "Iraklis"
    },
    "note": ""
   },
@@ -4184,7 +4193,7 @@
    "name": "CSM Oradea",
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 2,
    "record": "3-1",
    "last5": [
