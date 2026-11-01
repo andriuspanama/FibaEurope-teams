@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-01 06:43",
+ "updated": "2026-11-01 09:35",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -462,7 +462,7 @@
    "name": "Opava",
    "logo": "logos/2b9d2314db05.png",
    "league": "NBL",
-   "league_logo": "logos/d187bee6c341.png",
+   "league_logo": "logos/50067aa1be3f.png",
    "rank": 10,
    "record": "3-6",
    "last5": [
@@ -1425,7 +1425,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 9,
    "record": "2-2",
    "last5": [
@@ -3782,7 +3782,7 @@
    "name": "Benfica",
    "logo": "logos/4e310a5ed65e.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 3,
    "record": "4-1",
    "last5": [
