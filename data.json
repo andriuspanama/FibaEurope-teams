@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-01 09:35",
+ "updated": "2026-11-01 12:36",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -462,7 +462,7 @@
    "name": "Opava",
    "logo": "logos/2b9d2314db05.png",
    "league": "NBL",
-   "league_logo": "logos/50067aa1be3f.png",
+   "league_logo": "logos/d187bee6c341.png",
    "rank": 10,
    "record": "3-6",
    "last5": [
@@ -1319,9 +1319,18 @@
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 5,
-   "record": "4-1",
+   "rank": 3,
+   "record": "4-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "71:89",
+     "opponent": "Turk Telekom",
+     "venue": "H",
+     "date": "01.11. 10:00",
+     "pf": 71,
+     "pa": 89
+    },
     {
      "wl": "W",
      "score": "90:93",
@@ -1357,18 +1366,18 @@
      "date": "03.10. 15:00",
      "pf": 96,
      "pa": 87
-    },
-    {
-     "wl": "L",
-     "score": "88:79",
-     "opponent": "Korfez Basket",
-     "venue": "A",
-     "date": "28.09. 16:00",
-     "pf": 79,
-     "pa": 88
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "71:89",
+     "opponent": "Turk Telekom",
+     "venue": "H",
+     "date": "01.11. 10:00",
+     "pf": 71,
+     "pa": 89
+    },
     {
      "wl": "W",
      "score": "90:93",
@@ -1416,8 +1425,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 10:00",
-    "opponent": "Turk Telekom"
+    "date": "08.11. 15:00",
+    "opponent": "Galatasaray"
    },
    "note": ""
   },
@@ -1793,7 +1802,7 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 12,
    "record": "2-4",
    "last5": [
@@ -2292,8 +2301,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 12:00",
-    "opponent": "Valmiera Glass Via"
+    "date": "07.11. 15:00",
+    "opponent": "Ventspils"
    },
    "note": ""
   },
@@ -3050,7 +3059,7 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 5,
    "record": "4-1",
    "last5": [
@@ -3514,8 +3523,8 @@
     }
    ],
    "next": {
-    "date": "01.11. 12:00",
-    "opponent": "Parnu"
+    "date": "07.11. 16:00",
+    "opponent": "Tartu Ulikool"
    },
    "note": ""
   },
