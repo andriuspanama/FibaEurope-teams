@@ -1,13 +1,13 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-01 19:23",
+ "updated": "2026-11-02 00:17",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
    "logo": "logos/3e12832eb75b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 2,
    "record": "5-1",
    "last5": [
@@ -124,9 +124,18 @@
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 4,
-   "record": "4-2",
+   "rank": 2,
+   "record": "5-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "79:89",
+     "opponent": "Sigal Prishtina",
+     "venue": "A",
+     "date": "01.11. 18:30",
+     "pf": 89,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "100:71",
@@ -162,18 +171,18 @@
      "date": "03.10. 17:30",
      "pf": 76,
      "pa": 84
-    },
-    {
-     "wl": "L",
-     "score": "81:87",
-     "opponent": "Peja",
-     "venue": "H",
-     "date": "26.09. 17:00",
-     "pf": 81,
-     "pa": 87
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "79:89",
+     "opponent": "Sigal Prishtina",
+     "venue": "A",
+     "date": "01.11. 18:30",
+     "pf": 89,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "100:71",
@@ -908,7 +917,7 @@
    "name": "Levice",
    "logo": "logos/280469de6fb4.png",
    "league": "Extraliga",
-   "league_logo": "logos/f143d20206a0.png",
+   "league_logo": "logos/e2f53afac3df.png",
    "rank": 2,
    "record": "6-0",
    "last5": [
@@ -1150,7 +1159,7 @@
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 3,
+   "rank": 4,
    "record": "3-2",
    "last5": [
     {
@@ -1256,7 +1265,7 @@
    "name": "Dinamo Bucharest",
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 5,
    "record": "3-1",
    "last5": [
@@ -1675,7 +1684,7 @@
    "name": "SCM Craiova",
    "logo": "logos/03dafda0ac7a.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 10,
    "record": "3-1",
    "last5": [
@@ -1865,7 +1874,7 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 12,
    "record": "2-4",
    "last5": [
@@ -1982,9 +1991,18 @@
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 10,
-   "record": "3-1",
+   "rank": 3,
+   "record": "4-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "86:95",
+     "opponent": "Gornik Walbrzych",
+     "venue": "A",
+     "date": "01.11. 18:00",
+     "pf": 95,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "70:54",
@@ -2023,6 +2041,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "86:95",
+     "opponent": "Gornik Walbrzych",
+     "venue": "A",
+     "date": "01.11. 18:00",
+     "pf": 95,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "70:54",
@@ -2159,7 +2186,7 @@
    "name": "Vienna Basket",
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 8,
    "record": "1-4",
    "last5": [
@@ -2382,7 +2409,7 @@
    "name": "Nitra Blue Wings",
    "logo": "logos/3cef783b60c3.png",
    "league": "Extraliga",
-   "league_logo": "logos/f143d20206a0.png",
+   "league_logo": "logos/e2f53afac3df.png",
    "rank": 9,
    "record": "2-4",
    "last5": [
@@ -2801,7 +2828,7 @@
    "name": "Wurzburg",
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 5,
    "record": "4-2",
    "last5": [
@@ -3042,7 +3069,7 @@
    "name": "MZT Skopje",
    "logo": "logos/0fc661c718c4.png",
    "league": "Super League",
-   "league_logo": "logos/7bfc98f20b70.png",
+   "league_logo": "logos/e8b6c8277c1e.png",
    "rank": 2,
    "record": "4-1",
    "last5": [
@@ -3149,10 +3176,19 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 5,
-   "record": "4-1",
+   "record": "4-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "116:112",
+     "opponent": "Paris",
+     "venue": "A",
+     "date": "01.11. 18:00",
+     "pf": 112,
+     "pa": 116
+    },
     {
      "wl": "W",
      "score": "106:79",
@@ -3188,18 +3224,18 @@
      "date": "03.10. 18:30",
      "pf": 77,
      "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "82:74",
-     "opponent": "Limoges",
-     "venue": "H",
-     "date": "26.09. 16:00",
-     "pf": 82,
-     "pa": 74
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "116:112",
+     "opponent": "Paris",
+     "venue": "A",
+     "date": "01.11. 18:00",
+     "pf": 112,
+     "pa": 116
+    },
     {
      "wl": "W",
      "score": "106:79",
@@ -4131,7 +4167,7 @@
    "name": "Geneva Lions",
    "logo": "logos/6d70f4af8b87.png",
    "league": "SB League",
-   "league_logo": "logos/aa275f58a5d2.png",
+   "league_logo": "logos/84ba8e573800.png",
    "rank": 1,
    "record": "7-0",
    "last5": [
@@ -4372,7 +4408,7 @@
    "name": "BC Prievidza",
    "logo": "logos/37075e153733.png",
    "league": "Extraliga",
-   "league_logo": "logos/f143d20206a0.png",
+   "league_logo": "logos/e2f53afac3df.png",
    "rank": 1,
    "record": "6-0",
    "last5": [
@@ -4607,7 +4643,7 @@
    "name": "CSM Oradea",
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 4,
    "record": "3-2",
    "last5": [
@@ -4937,7 +4973,7 @@
    "name": "Fribourg Olympic",
    "logo": "logos/87c0ce08f7ac.png",
    "league": "SB League",
-   "league_logo": "logos/aa275f58a5d2.png",
+   "league_logo": "logos/84ba8e573800.png",
    "rank": 2,
    "record": "6-1",
    "last5": [
