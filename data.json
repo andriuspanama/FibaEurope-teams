@@ -1,7 +1,7 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-03 13:41",
- "comp_logo": "logos/841ec0a2ef75.png",
+ "updated": "2026-11-03 20:47",
+ "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
@@ -1467,113 +1467,6 @@
    "note": ""
   },
   {
-   "name": "Sporting CP",
-   "logo": "logos/b9b668dca314.png",
-   "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
-   "rank": 7,
-   "record": "2-3",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "98:86",
-     "opponent": "Braga",
-     "venue": "A",
-     "date": "01.11. 15:00",
-     "pf": 86,
-     "pa": 98
-    },
-    {
-     "wl": "W",
-     "score": "71:70",
-     "opponent": "Ovarense",
-     "venue": "H",
-     "date": "24.10. 14:00",
-     "pf": 71,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "93:84",
-     "opponent": "CAB Madeira",
-     "venue": "A",
-     "date": "17.10. 15:00",
-     "pf": 84,
-     "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "88:60",
-     "opponent": "Esgueira",
-     "venue": "H",
-     "date": "10.10. 14:00",
-     "pf": 88,
-     "pa": 60
-    },
-    {
-     "wl": "L",
-     "score": "84:71",
-     "opponent": "Benfica",
-     "venue": "A",
-     "date": "03.10. 16:00",
-     "pf": 71,
-     "pa": 84
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "98:86",
-     "opponent": "Braga",
-     "venue": "A",
-     "date": "01.11. 15:00",
-     "pf": 86,
-     "pa": 98
-    },
-    {
-     "wl": "W",
-     "score": "71:70",
-     "opponent": "Ovarense",
-     "venue": "H",
-     "date": "24.10. 14:00",
-     "pf": 71,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "93:84",
-     "opponent": "CAB Madeira",
-     "venue": "A",
-     "date": "17.10. 15:00",
-     "pf": 84,
-     "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "88:60",
-     "opponent": "Esgueira",
-     "venue": "H",
-     "date": "10.10. 14:00",
-     "pf": 88,
-     "pa": 60
-    },
-    {
-     "wl": "L",
-     "score": "84:71",
-     "opponent": "Benfica",
-     "venue": "A",
-     "date": "03.10. 16:00",
-     "pf": 71,
-     "pa": 84
-    }
-   ],
-   "next": {
-    "date": "07.11. 15:00",
-    "opponent": "Vitoria"
-   },
-   "note": ""
-  },
-  {
    "name": "Kolossos Rhodes",
    "logo": "logos/f2b17b500179.png",
    "league": "Basket League",
@@ -1677,6 +1570,113 @@
    "next": {
     "date": "07.11. 14:00",
     "opponent": "Peristeri"
+   },
+   "note": ""
+  },
+  {
+   "name": "Sporting CP",
+   "logo": "logos/b9b668dca314.png",
+   "league": "LPB",
+   "league_logo": "logos/b924ca13583e.png",
+   "rank": 7,
+   "record": "2-3",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "98:86",
+     "opponent": "Braga",
+     "venue": "A",
+     "date": "01.11. 15:00",
+     "pf": 86,
+     "pa": 98
+    },
+    {
+     "wl": "W",
+     "score": "71:70",
+     "opponent": "Ovarense",
+     "venue": "H",
+     "date": "24.10. 14:00",
+     "pf": 71,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "93:84",
+     "opponent": "CAB Madeira",
+     "venue": "A",
+     "date": "17.10. 15:00",
+     "pf": 84,
+     "pa": 93
+    },
+    {
+     "wl": "W",
+     "score": "88:60",
+     "opponent": "Esgueira",
+     "venue": "H",
+     "date": "10.10. 14:00",
+     "pf": 88,
+     "pa": 60
+    },
+    {
+     "wl": "L",
+     "score": "84:71",
+     "opponent": "Benfica",
+     "venue": "A",
+     "date": "03.10. 16:00",
+     "pf": 71,
+     "pa": 84
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "98:86",
+     "opponent": "Braga",
+     "venue": "A",
+     "date": "01.11. 15:00",
+     "pf": 86,
+     "pa": 98
+    },
+    {
+     "wl": "W",
+     "score": "71:70",
+     "opponent": "Ovarense",
+     "venue": "H",
+     "date": "24.10. 14:00",
+     "pf": 71,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "93:84",
+     "opponent": "CAB Madeira",
+     "venue": "A",
+     "date": "17.10. 15:00",
+     "pf": 84,
+     "pa": 93
+    },
+    {
+     "wl": "W",
+     "score": "88:60",
+     "opponent": "Esgueira",
+     "venue": "H",
+     "date": "10.10. 14:00",
+     "pf": 88,
+     "pa": 60
+    },
+    {
+     "wl": "L",
+     "score": "84:71",
+     "opponent": "Benfica",
+     "venue": "A",
+     "date": "03.10. 16:00",
+     "pf": 71,
+     "pa": 84
+    }
+   ],
+   "next": {
+    "date": "07.11. 15:00",
+    "opponent": "Vitoria"
    },
    "note": ""
   },
@@ -1875,7 +1875,7 @@
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 12,
+   "rank": 11,
    "record": "2-4",
    "last5": [
     {
@@ -1987,6 +1987,95 @@
    "note": ""
   },
   {
+   "name": "Keravnos",
+   "logo": "logos/9df64c496b64.png",
+   "league": "Division A",
+   "league_logo": "logos/91f890f3c477.png",
+   "rank": 2,
+   "record": "4-0",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "94:84",
+     "opponent": "Anorthosis",
+     "venue": "H",
+     "date": "31.10. 17:00",
+     "pf": 94,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "75:90",
+     "opponent": "Apollon",
+     "venue": "A",
+     "date": "24.10. 14:00",
+     "pf": 90,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "91:82",
+     "opponent": "Morphou",
+     "venue": "H",
+     "date": "18.10. 14:00",
+     "pf": 91,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "62:95",
+     "opponent": "Achilleas K.",
+     "venue": "A",
+     "date": "10.10. 16:00",
+     "pf": 95,
+     "pa": 62
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "94:84",
+     "opponent": "Anorthosis",
+     "venue": "H",
+     "date": "31.10. 17:00",
+     "pf": 94,
+     "pa": 84
+    },
+    {
+     "wl": "W",
+     "score": "75:90",
+     "opponent": "Apollon",
+     "venue": "A",
+     "date": "24.10. 14:00",
+     "pf": 90,
+     "pa": 75
+    },
+    {
+     "wl": "W",
+     "score": "91:82",
+     "opponent": "Morphou",
+     "venue": "H",
+     "date": "18.10. 14:00",
+     "pf": 91,
+     "pa": 82
+    },
+    {
+     "wl": "W",
+     "score": "62:95",
+     "opponent": "Achilleas K.",
+     "venue": "A",
+     "date": "10.10. 16:00",
+     "pf": 95,
+     "pa": 62
+    }
+   ],
+   "next": {
+    "date": "07.11. 10:00",
+    "opponent": "Apoel BC"
+   },
+   "note": ""
+  },
+  {
    "name": "Szczecin",
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
@@ -2090,95 +2179,6 @@
    "next": {
     "date": "08.11. 18:15",
     "opponent": "Czarni Slupsk"
-   },
-   "note": ""
-  },
-  {
-   "name": "Keravnos",
-   "logo": "logos/9df64c496b64.png",
-   "league": "Division A",
-   "league_logo": "logos/91f890f3c477.png",
-   "rank": 2,
-   "record": "4-0",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "94:84",
-     "opponent": "Anorthosis",
-     "venue": "H",
-     "date": "31.10. 17:00",
-     "pf": 94,
-     "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "75:90",
-     "opponent": "Apollon",
-     "venue": "A",
-     "date": "24.10. 14:00",
-     "pf": 90,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "91:82",
-     "opponent": "Morphou",
-     "venue": "H",
-     "date": "18.10. 14:00",
-     "pf": 91,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "62:95",
-     "opponent": "Achilleas K.",
-     "venue": "A",
-     "date": "10.10. 16:00",
-     "pf": 95,
-     "pa": 62
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "94:84",
-     "opponent": "Anorthosis",
-     "venue": "H",
-     "date": "31.10. 17:00",
-     "pf": 94,
-     "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "75:90",
-     "opponent": "Apollon",
-     "venue": "A",
-     "date": "24.10. 14:00",
-     "pf": 90,
-     "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "91:82",
-     "opponent": "Morphou",
-     "venue": "H",
-     "date": "18.10. 14:00",
-     "pf": 91,
-     "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "62:95",
-     "opponent": "Achilleas K.",
-     "venue": "A",
-     "date": "10.10. 16:00",
-     "pf": 95,
-     "pa": 62
-    }
-   ],
-   "next": {
-    "date": "07.11. 10:00",
-    "opponent": "Apoel BC"
    },
    "note": ""
   },
@@ -3167,7 +3167,7 @@
     }
    ],
    "next": {
-    "date": "08.11. 16:00",
+    "date": "08.11. 18:00",
     "opponent": "KK Skopje 2023"
    },
    "note": ""
@@ -3932,117 +3932,10 @@
    "note": ""
   },
   {
-   "name": "Benfica",
-   "logo": "logos/a35e878e80a3.png",
-   "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
-   "rank": 3,
-   "record": "4-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "72:86",
-     "opponent": "Portimonense",
-     "venue": "A",
-     "date": "31.10. 18:00",
-     "pf": 86,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "72:89",
-     "opponent": "CA Queluz",
-     "venue": "A",
-     "date": "24.10. 19:15",
-     "pf": 89,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:67",
-     "opponent": "Oliveirense",
-     "venue": "H",
-     "date": "17.10. 16:00",
-     "pf": 92,
-     "pa": 67
-    },
-    {
-     "wl": "L",
-     "score": "93:86",
-     "opponent": "FC Porto",
-     "venue": "A",
-     "date": "11.10. 14:00",
-     "pf": 86,
-     "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "84:71",
-     "opponent": "Sporting CP",
-     "venue": "H",
-     "date": "03.10. 16:00",
-     "pf": 84,
-     "pa": 71
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "72:86",
-     "opponent": "Portimonense",
-     "venue": "A",
-     "date": "31.10. 18:00",
-     "pf": 86,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "72:89",
-     "opponent": "CA Queluz",
-     "venue": "A",
-     "date": "24.10. 19:15",
-     "pf": 89,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:67",
-     "opponent": "Oliveirense",
-     "venue": "H",
-     "date": "17.10. 16:00",
-     "pf": 92,
-     "pa": 67
-    },
-    {
-     "wl": "L",
-     "score": "93:86",
-     "opponent": "FC Porto",
-     "venue": "A",
-     "date": "11.10. 14:00",
-     "pf": 86,
-     "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "84:71",
-     "opponent": "Sporting CP",
-     "venue": "H",
-     "date": "03.10. 16:00",
-     "pf": 84,
-     "pa": 71
-    }
-   ],
-   "next": {
-    "date": "07.11. 15:00",
-    "opponent": "Esgueira"
-   },
-   "note": ""
-  },
-  {
    "name": "Bakken Bears",
    "logo": "logos/50d68c9585bb.png",
    "league": "Basketligaen",
-   "league_logo": "logos/9a891855be95.png",
+   "league_logo": "logos/40f2ae364ba9.png",
    "rank": 2,
    "record": "7-0",
    "last5": [
@@ -4164,10 +4057,233 @@
    "note": ""
   },
   {
+   "name": "Benfica",
+   "logo": "logos/a35e878e80a3.png",
+   "league": "LPB",
+   "league_logo": "logos/b924ca13583e.png",
+   "rank": 3,
+   "record": "4-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "72:86",
+     "opponent": "Portimonense",
+     "venue": "A",
+     "date": "31.10. 18:00",
+     "pf": 86,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "72:89",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "24.10. 19:15",
+     "pf": 89,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "92:67",
+     "opponent": "Oliveirense",
+     "venue": "H",
+     "date": "17.10. 16:00",
+     "pf": 92,
+     "pa": 67
+    },
+    {
+     "wl": "L",
+     "score": "93:86",
+     "opponent": "FC Porto",
+     "venue": "A",
+     "date": "11.10. 14:00",
+     "pf": 86,
+     "pa": 93
+    },
+    {
+     "wl": "W",
+     "score": "84:71",
+     "opponent": "Sporting CP",
+     "venue": "H",
+     "date": "03.10. 16:00",
+     "pf": 84,
+     "pa": 71
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "72:86",
+     "opponent": "Portimonense",
+     "venue": "A",
+     "date": "31.10. 18:00",
+     "pf": 86,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "72:89",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "24.10. 19:15",
+     "pf": 89,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "92:67",
+     "opponent": "Oliveirense",
+     "venue": "H",
+     "date": "17.10. 16:00",
+     "pf": 92,
+     "pa": 67
+    },
+    {
+     "wl": "L",
+     "score": "93:86",
+     "opponent": "FC Porto",
+     "venue": "A",
+     "date": "11.10. 14:00",
+     "pf": 86,
+     "pa": 93
+    },
+    {
+     "wl": "W",
+     "score": "84:71",
+     "opponent": "Sporting CP",
+     "venue": "H",
+     "date": "03.10. 16:00",
+     "pf": 84,
+     "pa": 71
+    }
+   ],
+   "next": {
+    "date": "07.11. 15:00",
+    "opponent": "Esgueira"
+   },
+   "note": ""
+  },
+  {
+   "name": "Denizli Basket",
+   "logo": "logos/8b3accd736f1.png",
+   "league": "Super Lig",
+   "league_logo": "logos/883974099325.png",
+   "rank": 14,
+   "record": "1-5",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "74:87",
+     "opponent": "Galatasaray",
+     "venue": "H",
+     "date": "31.10. 17:30",
+     "pf": 74,
+     "pa": 87
+    },
+    {
+     "wl": "L",
+     "score": "97:76",
+     "opponent": "Turk Telekom",
+     "venue": "A",
+     "date": "24.10. 12:30",
+     "pf": 76,
+     "pa": 97
+    },
+    {
+     "wl": "L",
+     "score": "70:75",
+     "opponent": "Trabzonspor",
+     "venue": "H",
+     "date": "18.10. 10:00",
+     "pf": 70,
+     "pa": 75
+    },
+    {
+     "wl": "L",
+     "score": "85:76",
+     "opponent": "Anadolu Efes",
+     "venue": "A",
+     "date": "11.10. 12:30",
+     "pf": 76,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "101:87",
+     "opponent": "Tofas",
+     "venue": "H",
+     "date": "03.10. 10:00",
+     "pf": 101,
+     "pa": 87
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "74:87",
+     "opponent": "Galatasaray",
+     "venue": "H",
+     "date": "31.10. 17:30",
+     "pf": 74,
+     "pa": 87
+    },
+    {
+     "wl": "L",
+     "score": "97:76",
+     "opponent": "Turk Telekom",
+     "venue": "A",
+     "date": "24.10. 12:30",
+     "pf": 76,
+     "pa": 97
+    },
+    {
+     "wl": "L",
+     "score": "70:75",
+     "opponent": "Trabzonspor",
+     "venue": "H",
+     "date": "18.10. 10:00",
+     "pf": 70,
+     "pa": 75
+    },
+    {
+     "wl": "L",
+     "score": "85:76",
+     "opponent": "Anadolu Efes",
+     "venue": "A",
+     "date": "11.10. 12:30",
+     "pf": 76,
+     "pa": 85
+    },
+    {
+     "wl": "W",
+     "score": "101:87",
+     "opponent": "Tofas",
+     "venue": "H",
+     "date": "03.10. 10:00",
+     "pf": 101,
+     "pa": 87
+    },
+    {
+     "wl": "L",
+     "score": "85:81",
+     "opponent": "Petkim Spor",
+     "venue": "A",
+     "date": "26.09. 12:30",
+     "pf": 81,
+     "pa": 85
+    }
+   ],
+   "next": {
+    "date": "08.11. 10:00",
+    "opponent": "Bahcesehir Kol."
+   },
+   "note": ""
+  },
+  {
    "name": "Geneva Lions",
    "logo": "logos/6d70f4af8b87.png",
    "league": "SB League",
-   "league_logo": "logos/84ba8e573800.png",
+   "league_logo": "logos/aa275f58a5d2.png",
    "rank": 1,
    "record": "7-0",
    "last5": [
@@ -4285,122 +4401,6 @@
    "next": {
     "date": "07.11. 17:15",
     "opponent": "SAM Massagno"
-   },
-   "note": ""
-  },
-  {
-   "name": "Denizli Basket",
-   "logo": "logos/8b3accd736f1.png",
-   "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
-   "rank": 14,
-   "record": "1-5",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "74:87",
-     "opponent": "Galatasaray",
-     "venue": "H",
-     "date": "31.10. 17:30",
-     "pf": 74,
-     "pa": 87
-    },
-    {
-     "wl": "L",
-     "score": "97:76",
-     "opponent": "Turk Telekom",
-     "venue": "A",
-     "date": "24.10. 12:30",
-     "pf": 76,
-     "pa": 97
-    },
-    {
-     "wl": "L",
-     "score": "70:75",
-     "opponent": "Trabzonspor",
-     "venue": "H",
-     "date": "18.10. 10:00",
-     "pf": 70,
-     "pa": 75
-    },
-    {
-     "wl": "L",
-     "score": "85:76",
-     "opponent": "Anadolu Efes",
-     "venue": "A",
-     "date": "11.10. 12:30",
-     "pf": 76,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "101:87",
-     "opponent": "Tofas",
-     "venue": "H",
-     "date": "03.10. 10:00",
-     "pf": 101,
-     "pa": 87
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "74:87",
-     "opponent": "Galatasaray",
-     "venue": "H",
-     "date": "31.10. 17:30",
-     "pf": 74,
-     "pa": 87
-    },
-    {
-     "wl": "L",
-     "score": "97:76",
-     "opponent": "Turk Telekom",
-     "venue": "A",
-     "date": "24.10. 12:30",
-     "pf": 76,
-     "pa": 97
-    },
-    {
-     "wl": "L",
-     "score": "70:75",
-     "opponent": "Trabzonspor",
-     "venue": "H",
-     "date": "18.10. 10:00",
-     "pf": 70,
-     "pa": 75
-    },
-    {
-     "wl": "L",
-     "score": "85:76",
-     "opponent": "Anadolu Efes",
-     "venue": "A",
-     "date": "11.10. 12:30",
-     "pf": 76,
-     "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "101:87",
-     "opponent": "Tofas",
-     "venue": "H",
-     "date": "03.10. 10:00",
-     "pf": 101,
-     "pa": 87
-    },
-    {
-     "wl": "L",
-     "score": "85:81",
-     "opponent": "Petkim Spor",
-     "venue": "A",
-     "date": "26.09. 12:30",
-     "pf": 81,
-     "pa": 85
-    }
-   ],
-   "next": {
-    "date": "08.11. 10:00",
-    "opponent": "Bahcesehir Kol."
    },
    "note": ""
   },
@@ -4973,7 +4973,7 @@
    "name": "Fribourg Olympic",
    "logo": "logos/87c0ce08f7ac.png",
    "league": "SB League",
-   "league_logo": "logos/84ba8e573800.png",
+   "league_logo": "logos/aa275f58a5d2.png",
    "rank": 2,
    "record": "6-1",
    "last5": [
