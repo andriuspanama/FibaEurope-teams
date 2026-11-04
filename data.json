@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-03 20:47",
+ "updated": "2026-11-04 01:04",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -807,113 +807,6 @@
    "note": ""
   },
   {
-   "name": "Oostende",
-   "logo": "logos/4972130fd0b4.png",
-   "league": "BNXT lyga",
-   "league_logo": "logos/f0a5f6fa9273.png",
-   "rank": 4,
-   "record": "3-2",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "66:54",
-     "opponent": "Leuven Bears",
-     "venue": "H",
-     "date": "31.10. 19:30",
-     "pf": 66,
-     "pa": 54
-    },
-    {
-     "wl": "W",
-     "score": "65:70",
-     "opponent": "Spirou Charleroi",
-     "venue": "A",
-     "date": "23.10. 18:30",
-     "pf": 70,
-     "pa": 65
-    },
-    {
-     "wl": "L",
-     "score": "81:64",
-     "opponent": "Brussels Basketball",
-     "venue": "A",
-     "date": "16.10. 18:30",
-     "pf": 64,
-     "pa": 81
-    },
-    {
-     "wl": "W",
-     "score": "98:70",
-     "opponent": "Zwolle",
-     "venue": "H",
-     "date": "10.10. 18:30",
-     "pf": 98,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "95:87",
-     "opponent": "Okapi Aalst",
-     "venue": "A",
-     "date": "03.10. 18:30",
-     "pf": 87,
-     "pa": 95
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "66:54",
-     "opponent": "Leuven Bears",
-     "venue": "H",
-     "date": "31.10. 19:30",
-     "pf": 66,
-     "pa": 54
-    },
-    {
-     "wl": "W",
-     "score": "65:70",
-     "opponent": "Spirou Charleroi",
-     "venue": "A",
-     "date": "23.10. 18:30",
-     "pf": 70,
-     "pa": 65
-    },
-    {
-     "wl": "L",
-     "score": "81:64",
-     "opponent": "Brussels Basketball",
-     "venue": "A",
-     "date": "16.10. 18:30",
-     "pf": 64,
-     "pa": 81
-    },
-    {
-     "wl": "W",
-     "score": "98:70",
-     "opponent": "Zwolle",
-     "venue": "H",
-     "date": "10.10. 18:30",
-     "pf": 98,
-     "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "95:87",
-     "opponent": "Okapi Aalst",
-     "venue": "A",
-     "date": "03.10. 18:30",
-     "pf": 87,
-     "pa": 95
-    }
-   ],
-   "next": {
-    "date": "08.11. 14:00",
-    "opponent": "Antwerp Giants"
-   },
-   "note": ""
-  },
-  {
    "name": "Levice",
    "logo": "logos/280469de6fb4.png",
    "league": "Extraliga",
@@ -1026,6 +919,113 @@
    "next": {
     "date": "07.11. 17:00",
     "opponent": "Iskra Svit"
+   },
+   "note": ""
+  },
+  {
+   "name": "Oostende",
+   "logo": "logos/4972130fd0b4.png",
+   "league": "BNXT lyga",
+   "league_logo": "logos/f0a5f6fa9273.png",
+   "rank": 4,
+   "record": "3-2",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "66:54",
+     "opponent": "Leuven Bears",
+     "venue": "H",
+     "date": "31.10. 19:30",
+     "pf": 66,
+     "pa": 54
+    },
+    {
+     "wl": "W",
+     "score": "65:70",
+     "opponent": "Spirou Charleroi",
+     "venue": "A",
+     "date": "23.10. 18:30",
+     "pf": 70,
+     "pa": 65
+    },
+    {
+     "wl": "L",
+     "score": "81:64",
+     "opponent": "Brussels Basketball",
+     "venue": "A",
+     "date": "16.10. 18:30",
+     "pf": 64,
+     "pa": 81
+    },
+    {
+     "wl": "W",
+     "score": "98:70",
+     "opponent": "Zwolle",
+     "venue": "H",
+     "date": "10.10. 18:30",
+     "pf": 98,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "95:87",
+     "opponent": "Okapi Aalst",
+     "venue": "A",
+     "date": "03.10. 18:30",
+     "pf": 87,
+     "pa": 95
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "66:54",
+     "opponent": "Leuven Bears",
+     "venue": "H",
+     "date": "31.10. 19:30",
+     "pf": 66,
+     "pa": 54
+    },
+    {
+     "wl": "W",
+     "score": "65:70",
+     "opponent": "Spirou Charleroi",
+     "venue": "A",
+     "date": "23.10. 18:30",
+     "pf": 70,
+     "pa": 65
+    },
+    {
+     "wl": "L",
+     "score": "81:64",
+     "opponent": "Brussels Basketball",
+     "venue": "A",
+     "date": "16.10. 18:30",
+     "pf": 64,
+     "pa": 81
+    },
+    {
+     "wl": "W",
+     "score": "98:70",
+     "opponent": "Zwolle",
+     "venue": "H",
+     "date": "10.10. 18:30",
+     "pf": 98,
+     "pa": 70
+    },
+    {
+     "wl": "L",
+     "score": "95:87",
+     "opponent": "Okapi Aalst",
+     "venue": "A",
+     "date": "03.10. 18:30",
+     "pf": 87,
+     "pa": 95
+    }
+   ],
+   "next": {
+    "date": "08.11. 14:00",
+    "opponent": "Antwerp Giants"
    },
    "note": ""
   },
@@ -1874,7 +1874,7 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 11,
    "record": "2-4",
    "last5": [
@@ -3176,7 +3176,7 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 5,
    "record": "4-2",
    "last5": [
@@ -3935,7 +3935,7 @@
    "name": "Bakken Bears",
    "logo": "logos/50d68c9585bb.png",
    "league": "Basketligaen",
-   "league_logo": "logos/40f2ae364ba9.png",
+   "league_logo": "logos/9a891855be95.png",
    "rank": 2,
    "record": "7-0",
    "last5": [
