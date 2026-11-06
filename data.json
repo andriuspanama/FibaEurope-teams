@@ -1,7 +1,7 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-05 19:32",
- "comp_logo": "logos/841ec0a2ef75.png",
+ "updated": "2026-11-06 01:22",
+ "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
@@ -694,7 +694,7 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 12,
    "record": "3-3",
    "last5": [
@@ -810,8 +810,8 @@
    "name": "Oostende",
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/f0a5f6fa9273.png",
-   "rank": 4,
+   "league_logo": "logos/cc3eb03ee169.png",
+   "rank": 6,
    "record": "3-2",
    "last5": [
     {
@@ -1577,7 +1577,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 7,
    "record": "2-3",
    "last5": [
@@ -3935,7 +3935,7 @@
    "name": "Benfica",
    "logo": "logos/a35e878e80a3.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 3,
    "record": "4-1",
    "last5": [
@@ -4042,7 +4042,7 @@
    "name": "Bakken Bears",
    "logo": "logos/50d68c9585bb.png",
    "league": "Basketligaen",
-   "league_logo": "logos/9a891855be95.png",
+   "league_logo": "logos/40f2ae364ba9.png",
    "rank": 2,
    "record": "7-0",
    "last5": [
