@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-06 01:22",
+ "updated": "2026-11-06 10:25",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -694,7 +694,7 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 12,
    "record": "3-3",
    "last5": [
@@ -810,7 +810,7 @@
    "name": "Oostende",
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/cc3eb03ee169.png",
+   "league_logo": "logos/f0a5f6fa9273.png",
    "rank": 6,
    "record": "3-2",
    "last5": [
@@ -1577,7 +1577,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 7,
    "record": "2-3",
    "last5": [
@@ -1764,8 +1764,8 @@
     }
    ],
    "next": {
-    "date": "07.11. 16:00",
-    "opponent": "CSM Oradea"
+    "date": "14.11. 16:00",
+    "opponent": "Rapid Bucuresti"
    },
    "note": ""
   },
@@ -1874,7 +1874,7 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 11,
    "record": "2-4",
    "last5": [
@@ -3292,7 +3292,7 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 5,
    "record": "4-2",
    "last5": [
@@ -3935,7 +3935,7 @@
    "name": "Benfica",
    "logo": "logos/a35e878e80a3.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 3,
    "record": "4-1",
    "last5": [
@@ -4167,7 +4167,7 @@
    "name": "Geneva Lions",
    "logo": "logos/6d70f4af8b87.png",
    "league": "SB League",
-   "league_logo": "logos/aa275f58a5d2.png",
+   "league_logo": "logos/84ba8e573800.png",
    "rank": 1,
    "record": "7-0",
    "last5": [
@@ -4875,8 +4875,8 @@
     }
    ],
    "next": {
-    "date": "07.11. 16:00",
-    "opponent": "SCM Craiova"
+    "date": "14.11. 15:00",
+    "opponent": "SCM Timisoara"
    },
    "note": ""
   },
@@ -4973,7 +4973,7 @@
    "name": "Fribourg Olympic",
    "logo": "logos/87c0ce08f7ac.png",
    "league": "SB League",
-   "league_logo": "logos/aa275f58a5d2.png",
+   "league_logo": "logos/84ba8e573800.png",
    "rank": 2,
    "record": "6-1",
    "last5": [
