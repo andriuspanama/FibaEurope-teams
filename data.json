@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-06 18:56",
+ "updated": "2026-11-07 00:39",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -231,7 +231,7 @@
    "logo": "logos/22400341573a.png",
    "league": "Premijer liga",
    "league_logo": "logos/08f414435692.png",
-   "rank": 4,
+   "rank": 5,
    "record": "4-2",
    "last5": [
     {
@@ -471,7 +471,7 @@
    "name": "Opava",
    "logo": "logos/2b9d2314db05.png",
    "league": "NBL",
-   "league_logo": "logos/50067aa1be3f.png",
+   "league_logo": "logos/d187bee6c341.png",
    "rank": 9,
    "record": "4-6",
    "last5": [
@@ -918,7 +918,7 @@
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 4,
+   "rank": 5,
    "record": "3-2",
    "last5": [
     {
@@ -1266,7 +1266,7 @@
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
    "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 6,
+   "rank": 7,
    "record": "3-1",
    "last5": [
     {
@@ -1354,7 +1354,7 @@
    "name": "Esenler Erokspor",
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
@@ -1685,7 +1685,7 @@
    "logo": "logos/03dafda0ac7a.png",
    "league": "Divizia A",
    "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 9,
+   "rank": 8,
    "record": "3-1",
    "last5": [
     {
@@ -1874,8 +1874,8 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
-   "rank": 11,
+   "league_logo": "logos/c611aab280e5.png",
+   "rank": 12,
    "record": "2-4",
    "last5": [
     {
@@ -2186,7 +2186,7 @@
    "name": "Vienna Basket",
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 9,
    "record": "1-4",
    "last5": [
@@ -3176,7 +3176,7 @@
    "name": "Korfez Basket",
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 13,
    "record": "2-4",
    "last5": [
@@ -3292,7 +3292,7 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 5,
    "record": "4-2",
    "last5": [
@@ -3793,9 +3793,18 @@
    "logo": "logos/a2efec1b9ac2.png",
    "league": "SLB",
    "league_logo": "logos/f777b3e960be.png",
-   "rank": 3,
-   "record": "5-4",
+   "rank": 4,
+   "record": "5-5",
    "last5": [
+    {
+     "wl": "L",
+     "score": "90:93",
+     "opponent": "Cheshire Phoenix",
+     "venue": "H",
+     "date": "06.11. 19:30",
+     "pf": 90,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "85:91",
@@ -3831,18 +3840,18 @@
      "date": "18.10. 14:00",
      "pf": 92,
      "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "78:81",
-     "opponent": "Newcastle Eagles",
-     "venue": "A",
-     "date": "16.10. 18:30",
-     "pf": 81,
-     "pa": 78
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "90:93",
+     "opponent": "Cheshire Phoenix",
+     "venue": "H",
+     "date": "06.11. 19:30",
+     "pf": 90,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "85:91",
@@ -3926,8 +3935,8 @@
     }
    ],
    "next": {
-    "date": "06.11. 19:30",
-    "opponent": "Cheshire Phoenix"
+    "date": "15.11. 15:00",
+    "opponent": "Bristol Flyers"
    },
    "note": ""
   },
@@ -4292,7 +4301,7 @@
    "name": "Denizli Basket",
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 14,
    "record": "1-5",
    "last5": [
