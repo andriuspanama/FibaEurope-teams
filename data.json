@@ -1,13 +1,13 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-08 12:49",
+ "updated": "2026-11-08 19:21",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
    "logo": "logos/3e12832eb75b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 2,
    "record": "6-1",
    "last5": [
@@ -374,7 +374,7 @@
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 3,
+   "rank": 4,
    "record": "5-2",
    "last5": [
     {
@@ -489,8 +489,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 18:30",
-    "opponent": "Rahoveci"
+    "date": "15.11. 16:00",
+    "opponent": "Peja"
    },
    "note": ""
   },
@@ -874,9 +874,18 @@
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
    "league_logo": "logos/f0a5f6fa9273.png",
-   "rank": 6,
-   "record": "3-2",
+   "rank": 7,
+   "record": "3-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "71:82",
+     "opponent": "Antwerp Giants",
+     "venue": "H",
+     "date": "08.11. 14:00",
+     "pf": 71,
+     "pa": 82
+    },
     {
      "wl": "W",
      "score": "66:54",
@@ -912,18 +921,18 @@
      "date": "10.10. 18:30",
      "pf": 98,
      "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "95:87",
-     "opponent": "Okapi Aalst",
-     "venue": "A",
-     "date": "03.10. 18:30",
-     "pf": 87,
-     "pa": 95
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "71:82",
+     "opponent": "Antwerp Giants",
+     "venue": "H",
+     "date": "08.11. 14:00",
+     "pf": 71,
+     "pa": 82
+    },
     {
      "wl": "W",
      "score": "66:54",
@@ -971,8 +980,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 14:00",
-    "opponent": "Antwerp Giants"
+    "date": "14.11. 19:00",
+    "opponent": "Leiden"
    },
    "note": ""
   },
@@ -981,9 +990,18 @@
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 9,
-   "record": "3-2",
+   "rank": 5,
+   "record": "4-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "69:74",
+     "opponent": "Ostrow Wielkopolski",
+     "venue": "A",
+     "date": "08.11. 16:30",
+     "pf": 74,
+     "pa": 69
+    },
     {
      "wl": "L",
      "score": "87:71",
@@ -1019,18 +1037,18 @@
      "date": "09.10. 16:00",
      "pf": 104,
      "pa": 87
-    },
-    {
-     "wl": "L",
-     "score": "105:95",
-     "opponent": "Bydgoszcz",
-     "venue": "A",
-     "date": "03.10. 15:30",
-     "pf": 95,
-     "pa": 105
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "69:74",
+     "opponent": "Ostrow Wielkopolski",
+     "venue": "A",
+     "date": "08.11. 16:30",
+     "pf": 74,
+     "pa": 69
+    },
     {
      "wl": "L",
      "score": "87:71",
@@ -1078,8 +1096,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 16:30",
-    "opponent": "Ostrow Wielkopolski"
+    "date": "14.11. 18:30",
+    "opponent": "Slask Wroclaw"
    },
    "note": ""
   },
@@ -1347,9 +1365,18 @@
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
    "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 10,
-   "record": "3-1",
+   "rank": 5,
+   "record": "4-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "86:97",
+     "opponent": "Voluntari",
+     "venue": "A",
+     "date": "08.11. 16:00",
+     "pf": 97,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "73:67",
@@ -1388,6 +1415,15 @@
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "86:97",
+     "opponent": "Voluntari",
+     "venue": "A",
+     "date": "08.11. 16:00",
+     "pf": 97,
+     "pa": 86
+    },
     {
      "wl": "W",
      "score": "73:67",
@@ -1426,8 +1462,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 16:00",
-    "opponent": "Voluntari"
+    "date": "15.11. 16:00",
+    "opponent": "Valcea"
    },
    "note": ""
   },
@@ -1436,9 +1472,18 @@
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 7,
-   "record": "4-2",
+   "rank": 5,
+   "record": "4-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "90:81",
+     "opponent": "Galatasaray",
+     "venue": "A",
+     "date": "08.11. 15:00",
+     "pf": 81,
+     "pa": 90
+    },
     {
      "wl": "L",
      "score": "71:89",
@@ -1474,18 +1519,18 @@
      "date": "10.10. 15:00",
      "pf": 87,
      "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "96:87",
-     "opponent": "Petkim Spor",
-     "venue": "H",
-     "date": "03.10. 15:00",
-     "pf": 96,
-     "pa": 87
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "90:81",
+     "opponent": "Galatasaray",
+     "venue": "A",
+     "date": "08.11. 15:00",
+     "pf": 81,
+     "pa": 90
+    },
     {
      "wl": "L",
      "score": "71:89",
@@ -1542,8 +1587,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 15:00",
-    "opponent": "Galatasaray"
+    "date": "15.11. 10:00",
+    "opponent": "Bahcesehir Kol."
    },
    "note": ""
   },
@@ -1552,7 +1597,7 @@
    "logo": "logos/f2b17b500179.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 4,
+   "rank": 6,
    "record": "3-3",
    "last5": [
     {
@@ -1667,8 +1712,8 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
-   "rank": 5,
+   "league_logo": "logos/e985fcdd375b.png",
+   "rank": 6,
    "record": "3-3",
    "last5": [
     {
@@ -1784,7 +1829,7 @@
    "logo": "logos/03dafda0ac7a.png",
    "league": "Divizia A",
    "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 11,
+   "rank": 12,
    "record": "3-1",
    "last5": [
     {
@@ -2117,7 +2162,7 @@
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 4,
+   "rank": 7,
    "record": "4-1",
    "last5": [
     {
@@ -2214,8 +2259,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 18:15",
-    "opponent": "Czarni Slupsk"
+    "date": "14.11. 16:30",
+    "opponent": "Legia"
    },
    "note": ""
   },
@@ -2224,7 +2269,7 @@
    "logo": "logos/9df64c496b64.png",
    "league": "Division A",
    "league_logo": "logos/91f890f3c477.png",
-   "rank": 1,
+   "rank": 2,
    "record": "5-0",
    "last5": [
     {
@@ -2812,10 +2857,19 @@
    "name": "Wurzburg",
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 7,
-   "record": "4-2",
+   "record": "4-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "73:94",
+     "opponent": "Bayern",
+     "venue": "H",
+     "date": "08.11. 17:00",
+     "pf": 73,
+     "pa": 94
+    },
     {
      "wl": "W",
      "score": "72:96",
@@ -2851,18 +2905,18 @@
      "date": "02.10. 18:00",
      "pf": 83,
      "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "67:90",
-     "opponent": "Ulm",
-     "venue": "A",
-     "date": "27.09. 16:00",
-     "pf": 90,
-     "pa": 67
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "73:94",
+     "opponent": "Bayern",
+     "venue": "H",
+     "date": "08.11. 17:00",
+     "pf": 73,
+     "pa": 94
+    },
     {
      "wl": "W",
      "score": "72:96",
@@ -2919,8 +2973,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 17:00",
-    "opponent": "Bayern"
+    "date": "14.11. 19:00",
+    "opponent": "Hamburg"
    },
    "note": ""
   },
@@ -2929,7 +2983,7 @@
    "logo": "logos/c3a29dbb6568.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 8,
+   "rank": 9,
    "record": "2-4",
    "last5": [
     {
@@ -3045,9 +3099,18 @@
    "logo": "logos/4e49de659cee.png",
    "league": "Division A",
    "league_logo": "logos/91f890f3c477.png",
-   "rank": 3,
-   "record": "4-0",
+   "rank": 1,
+   "record": "5-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "78:103",
+     "opponent": "Morphou",
+     "venue": "A",
+     "date": "08.11. 14:00",
+     "pf": 103,
+     "pa": 78
+    },
     {
      "wl": "W",
      "score": "87:61",
@@ -3088,6 +3151,15 @@
    "games": [
     {
      "wl": "W",
+     "score": "78:103",
+     "opponent": "Morphou",
+     "venue": "A",
+     "date": "08.11. 14:00",
+     "pf": 103,
+     "pa": 78
+    },
+    {
+     "wl": "W",
      "score": "87:61",
      "opponent": "ETHA Engomi",
      "venue": "H",
@@ -3124,8 +3196,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 14:00",
-    "opponent": "Morphou"
+    "date": "15.11. 15:00",
+    "opponent": "Anorthosis"
    },
    "note": ""
   },
@@ -3365,8 +3437,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 18:00",
-    "opponent": "KK Skopje 2023"
+    "date": "15.11. 16:00",
+    "opponent": "Rabotnicki"
    },
    "note": ""
   },
@@ -3375,7 +3447,7 @@
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 13,
+   "rank": 14,
    "record": "2-5",
    "last5": [
     {
@@ -3902,9 +3974,18 @@
    "logo": "logos/8072a67893db.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 2,
-   "record": "6-1",
+   "rank": 1,
+   "record": "6-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "105:86",
+     "opponent": "Golden Eagle Ylli",
+     "venue": "A",
+     "date": "08.11. 16:00",
+     "pf": 86,
+     "pa": 105
+    },
     {
      "wl": "W",
      "score": "80:93",
@@ -3940,18 +4021,18 @@
      "date": "10.10. 17:30",
      "pf": 78,
      "pa": 58
-    },
-    {
-     "wl": "W",
-     "score": "84:76",
-     "opponent": "Trepca",
-     "venue": "H",
-     "date": "03.10. 17:30",
-     "pf": 84,
-     "pa": 76
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "105:86",
+     "opponent": "Golden Eagle Ylli",
+     "venue": "A",
+     "date": "08.11. 16:00",
+     "pf": 86,
+     "pa": 105
+    },
     {
      "wl": "W",
      "score": "80:93",
@@ -4017,8 +4098,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 16:00",
-    "opponent": "Golden Eagle Ylli"
+    "date": "15.11. 18:30",
+    "opponent": "Rahoveci"
    },
    "note": ""
   },
@@ -4178,8 +4259,8 @@
    "name": "Benfica",
    "logo": "logos/a35e878e80a3.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
-   "rank": 1,
+   "league_logo": "logos/e985fcdd375b.png",
+   "rank": 3,
    "record": "5-1",
    "last5": [
     {
@@ -4295,9 +4376,18 @@
    "logo": "logos/50d68c9585bb.png",
    "league": "Basketligaen",
    "league_logo": "logos/40f2ae364ba9.png",
-   "rank": 2,
-   "record": "7-0",
+   "rank": 3,
+   "record": "7-1",
    "last5": [
+    {
+     "wl": "L",
+     "score": "80:77",
+     "opponent": "Team FOG Naestved",
+     "venue": "A",
+     "date": "08.11. 15:00",
+     "pf": 77,
+     "pa": 80
+    },
     {
      "wl": "W",
      "score": "75:105",
@@ -4333,18 +4423,18 @@
      "date": "10.10. 12:00",
      "pf": 103,
      "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "112:75",
-     "opponent": "Gladsaxe",
-     "venue": "H",
-     "date": "30.09. 16:30",
-     "pf": 112,
-     "pa": 75
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "80:77",
+     "opponent": "Team FOG Naestved",
+     "venue": "A",
+     "date": "08.11. 15:00",
+     "pf": 77,
+     "pa": 80
+    },
     {
      "wl": "W",
      "score": "75:105",
@@ -4410,8 +4500,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 15:00",
-    "opponent": "Team FOG Naestved"
+    "date": "13.11. 18:00",
+    "opponent": "Vejen"
    },
    "note": ""
   },
@@ -4554,7 +4644,7 @@
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 14,
+   "rank": 15,
    "record": "1-6",
    "last5": [
     {
@@ -4933,8 +5023,17 @@
    "league": "Lat-EST lyga",
    "league_logo": "logos/f6b309e7508d.png",
    "rank": 2,
-   "record": "7-1",
+   "record": "7-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "104:88",
+     "opponent": "Viimsi",
+     "venue": "A",
+     "date": "08.11. 15:00",
+     "pf": 88,
+     "pa": 104
+    },
     {
      "wl": "L",
      "score": "74:86",
@@ -4970,18 +5069,18 @@
      "date": "10.10. 14:00",
      "pf": 90,
      "pa": 70
-    },
-    {
-     "wl": "W",
-     "score": "82:55",
-     "opponent": "BK Liepaja",
-     "venue": "H",
-     "date": "03.10. 14:00",
-     "pf": 82,
-     "pa": 55
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "104:88",
+     "opponent": "Viimsi",
+     "venue": "A",
+     "date": "08.11. 15:00",
+     "pf": 88,
+     "pa": 104
+    },
     {
      "wl": "L",
      "score": "74:86",
@@ -5056,8 +5155,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 15:00",
-    "opponent": "Viimsi"
+    "date": "14.11. 15:00",
+    "opponent": "Ventspils"
    },
    "note": ""
   },
@@ -5066,7 +5165,7 @@
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
    "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 5,
+   "rank": 6,
    "record": "3-2",
    "last5": [
     {
