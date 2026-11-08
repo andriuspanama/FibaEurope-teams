@@ -1,13 +1,13 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-08 04:39",
+ "updated": "2026-11-08 12:49",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
    "logo": "logos/3e12832eb75b.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 2,
    "record": "6-1",
    "last5": [
@@ -660,7 +660,7 @@
    "logo": "logos/fd0c0922151f.png",
    "league": "Superleague",
    "league_logo": "logos/b07974095eca.png",
-   "rank": 6,
+   "rank": 7,
    "record": "3-1",
    "last5": [
     {
@@ -1087,7 +1087,7 @@
    "name": "Szolnoki Olaj",
    "logo": "logos/e5b6889ee037.png",
    "league": "NB I. A",
-   "league_logo": "logos/61a093b35850.png",
+   "league_logo": "logos/e25024497cfd.png",
    "rank": 4,
    "record": "6-2",
    "last5": [
@@ -1346,7 +1346,7 @@
    "name": "Dinamo Bucharest",
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 10,
    "record": "3-1",
    "last5": [
@@ -1783,7 +1783,7 @@
    "name": "SCM Craiova",
    "logo": "logos/03dafda0ac7a.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 11,
    "record": "3-1",
    "last5": [
@@ -1885,7 +1885,7 @@
    "logo": "logos/9d7e8294c55f.png",
    "league": "NBL",
    "league_logo": "logos/e6f4a097ec8d.png",
-   "rank": 2,
+   "rank": 3,
    "record": "4-1",
    "last5": [
     {
@@ -2331,7 +2331,7 @@
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 6,
+   "rank": 7,
    "record": "2-4",
    "last5": [
     {
@@ -2812,7 +2812,7 @@
    "name": "Wurzburg",
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
-   "league_logo": "logos/98572a4b17ba.png",
+   "league_logo": "logos/5408e2e1f9f8.png",
    "rank": 7,
    "record": "4-2",
    "last5": [
@@ -4554,9 +4554,18 @@
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 16,
-   "record": "1-5",
+   "rank": 14,
+   "record": "1-6",
    "last5": [
+    {
+     "wl": "L",
+     "score": "97:86",
+     "opponent": "Bahcesehir Kol.",
+     "venue": "A",
+     "date": "08.11. 10:00",
+     "pf": 86,
+     "pa": 97
+    },
     {
      "wl": "L",
      "score": "74:87",
@@ -4592,18 +4601,18 @@
      "date": "11.10. 12:30",
      "pf": 76,
      "pa": 85
-    },
-    {
-     "wl": "W",
-     "score": "101:87",
-     "opponent": "Tofas",
-     "venue": "H",
-     "date": "03.10. 10:00",
-     "pf": 101,
-     "pa": 87
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "97:86",
+     "opponent": "Bahcesehir Kol.",
+     "venue": "A",
+     "date": "08.11. 10:00",
+     "pf": 86,
+     "pa": 97
+    },
     {
      "wl": "L",
      "score": "74:87",
@@ -4660,8 +4669,8 @@
     }
    ],
    "next": {
-    "date": "08.11. 10:00",
-    "opponent": "Bahcesehir Kol."
+    "date": "15.11. 12:30",
+    "opponent": "Cayirova"
    },
    "note": ""
   },
@@ -5056,7 +5065,7 @@
    "name": "CSM Oradea",
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 5,
    "record": "3-2",
    "last5": [
@@ -5164,7 +5173,7 @@
    "logo": "logos/c81d0ffece92.png",
    "league": "NBL",
    "league_logo": "logos/e6f4a097ec8d.png",
-   "rank": 3,
+   "rank": 4,
    "record": "4-1",
    "last5": [
     {
