@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-09 10:57",
+ "updated": "2026-11-09 21:58",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -373,7 +373,7 @@
    "name": "Trepca",
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
-   "league_logo": "logos/7647d2406035.png",
+   "league_logo": "logos/4a78e02d91eb.png",
    "rank": 1,
    "record": "6-2",
    "last5": [
@@ -757,7 +757,7 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 9,
    "record": "4-3",
    "last5": [
@@ -998,7 +998,7 @@
    "name": "Zielona Gora",
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
+   "league_logo": "logos/e38c6600f3ac.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
@@ -1480,7 +1480,7 @@
    "name": "Esenler Erokspor",
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 5,
    "record": "4-3",
    "last5": [
@@ -1721,7 +1721,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 6,
    "record": "3-3",
    "last5": [
@@ -2045,7 +2045,7 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 14,
    "record": "2-5",
    "last5": [
@@ -2170,7 +2170,7 @@
    "name": "Szczecin",
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
+   "league_logo": "logos/e38c6600f3ac.png",
    "rank": 3,
    "record": "5-1",
    "last5": [
@@ -2286,7 +2286,7 @@
    "name": "Keravnos",
    "logo": "logos/9df64c496b64.png",
    "league": "Division A",
-   "league_logo": "logos/0da4d7fc3ac7.png",
+   "league_logo": "logos/91f890f3c477.png",
    "rank": 2,
    "record": "5-0",
    "last5": [
@@ -2393,7 +2393,7 @@
    "name": "Vienna Basket",
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 7,
    "record": "2-4",
    "last5": [
@@ -2759,7 +2759,7 @@
    "name": "Dziki Warszawa",
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
+   "league_logo": "logos/e38c6600f3ac.png",
    "rank": 2,
    "record": "5-1",
    "last5": [
@@ -3116,7 +3116,7 @@
    "name": "AEK Larnaca",
    "logo": "logos/4e49de659cee.png",
    "league": "Division A",
-   "league_logo": "logos/0da4d7fc3ac7.png",
+   "league_logo": "logos/91f890f3c477.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
@@ -3473,8 +3473,8 @@
    "name": "Korfez Basket",
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
-   "rank": 14,
+   "league_logo": "logos/577d84baf758.png",
+   "rank": 12,
    "record": "2-5",
    "last5": [
     {
@@ -3598,7 +3598,7 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 6,
    "record": "4-3",
    "last5": [
@@ -4000,7 +4000,7 @@
    "name": "Bashkimi",
    "logo": "logos/8072a67893db.png",
    "league": "Superliga",
-   "league_logo": "logos/7647d2406035.png",
+   "league_logo": "logos/4a78e02d91eb.png",
    "rank": 2,
    "record": "6-2",
    "last5": [
@@ -4286,7 +4286,7 @@
    "name": "Benfica",
    "logo": "logos/a35e878e80a3.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 3,
    "record": "5-1",
    "last5": [
@@ -4670,7 +4670,7 @@
    "name": "Denizli Basket",
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 15,
    "record": "1-6",
    "last5": [
@@ -5192,7 +5192,7 @@
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
    "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 6,
+   "rank": 11,
    "record": "3-2",
    "last5": [
     {
