@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-08 19:21",
+ "updated": "2026-11-09 00:34",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -374,9 +374,18 @@
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 4,
-   "record": "5-2",
+   "rank": 1,
+   "record": "6-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "92:58",
+     "opponent": "Rahoveci",
+     "venue": "H",
+     "date": "08.11. 18:30",
+     "pf": 92,
+     "pa": 58
+    },
     {
      "wl": "W",
      "score": "79:89",
@@ -412,18 +421,18 @@
      "date": "10.10. 15:00",
      "pf": 94,
      "pa": 70
-    },
-    {
-     "wl": "L",
-     "score": "84:76",
-     "opponent": "Bashkimi",
-     "venue": "A",
-     "date": "03.10. 17:30",
-     "pf": 76,
-     "pa": 84
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "92:58",
+     "opponent": "Rahoveci",
+     "venue": "H",
+     "date": "08.11. 18:30",
+     "pf": 92,
+     "pa": 58
+    },
     {
      "wl": "W",
      "score": "79:89",
@@ -990,7 +999,7 @@
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 5,
+   "rank": 6,
    "record": "4-2",
    "last5": [
     {
@@ -1471,7 +1480,7 @@
    "name": "Esenler Erokspor",
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 5,
    "record": "4-3",
    "last5": [
@@ -1712,7 +1721,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 6,
    "record": "3-3",
    "last5": [
@@ -2162,9 +2171,18 @@
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 7,
-   "record": "4-1",
+   "rank": 3,
+   "record": "5-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "105:95",
+     "opponent": "Czarni Slupsk",
+     "venue": "H",
+     "date": "08.11. 18:15",
+     "pf": 105,
+     "pa": 95
+    },
     {
      "wl": "W",
      "score": "86:95",
@@ -2200,18 +2218,18 @@
      "date": "10.10. 15:30",
      "pf": 69,
      "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "85:104",
-     "opponent": "Torun",
-     "venue": "A",
-     "date": "03.10. 13:00",
-     "pf": 104,
-     "pa": 85
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "105:95",
+     "opponent": "Czarni Slupsk",
+     "venue": "H",
+     "date": "08.11. 18:15",
+     "pf": 105,
+     "pa": 95
+    },
     {
      "wl": "W",
      "score": "86:95",
@@ -2268,7 +2286,7 @@
    "name": "Keravnos",
    "logo": "logos/9df64c496b64.png",
    "league": "Division A",
-   "league_logo": "logos/91f890f3c477.png",
+   "league_logo": "logos/0da4d7fc3ac7.png",
    "rank": 2,
    "record": "5-0",
    "last5": [
@@ -3098,7 +3116,7 @@
    "name": "AEK Larnaca",
    "logo": "logos/4e49de659cee.png",
    "league": "Division A",
-   "league_logo": "logos/91f890f3c477.png",
+   "league_logo": "logos/0da4d7fc3ac7.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
@@ -3341,8 +3359,17 @@
    "league": "Super League",
    "league_logo": "logos/e8b6c8277c1e.png",
    "rank": 2,
-   "record": "4-1",
+   "record": "5-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "60:79",
+     "opponent": "KK Skopje 2023",
+     "venue": "A",
+     "date": "08.11. 18:00",
+     "pf": 79,
+     "pa": 60
+    },
     {
      "wl": "W",
      "score": "74:60",
@@ -3378,18 +3405,18 @@
      "date": "10.10. 17:00",
      "pf": 81,
      "pa": 73
-    },
-    {
-     "wl": "W",
-     "score": "85:77",
-     "opponent": "MKK Kumanovo",
-     "venue": "H",
-     "date": "02.10. 17:00",
-     "pf": 85,
-     "pa": 77
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "60:79",
+     "opponent": "KK Skopje 2023",
+     "venue": "A",
+     "date": "08.11. 18:00",
+     "pf": 79,
+     "pa": 60
+    },
     {
      "wl": "W",
      "score": "74:60",
@@ -3446,7 +3473,7 @@
    "name": "Korfez Basket",
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 14,
    "record": "2-5",
    "last5": [
@@ -3974,7 +4001,7 @@
    "logo": "logos/8072a67893db.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 1,
+   "rank": 2,
    "record": "6-2",
    "last5": [
     {
@@ -4259,7 +4286,7 @@
    "name": "Benfica",
    "logo": "logos/a35e878e80a3.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 3,
    "record": "5-1",
    "last5": [
@@ -4643,7 +4670,7 @@
    "name": "Denizli Basket",
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 15,
    "record": "1-6",
    "last5": [
