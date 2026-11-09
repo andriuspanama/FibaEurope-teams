@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-09 00:34",
+ "updated": "2026-11-09 10:57",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -998,7 +998,7 @@
    "name": "Zielona Gora",
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
@@ -1480,7 +1480,7 @@
    "name": "Esenler Erokspor",
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 5,
    "record": "4-3",
    "last5": [
@@ -1721,7 +1721,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 6,
    "record": "3-3",
    "last5": [
@@ -2036,7 +2036,7 @@
     }
    ],
    "next": {
-    "date": "14.11. 17:00",
+    "date": "14.11. 15:00",
     "opponent": "Beroe"
    },
    "note": ""
@@ -2045,7 +2045,7 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 14,
    "record": "2-5",
    "last5": [
@@ -2170,7 +2170,7 @@
    "name": "Szczecin",
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 3,
    "record": "5-1",
    "last5": [
@@ -2759,7 +2759,7 @@
    "name": "Dziki Warszawa",
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 2,
    "record": "5-1",
    "last5": [
@@ -3473,7 +3473,7 @@
    "name": "Korfez Basket",
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 14,
    "record": "2-5",
    "last5": [
@@ -3598,7 +3598,7 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/c611aab280e5.png",
+   "league_logo": "logos/d3db0986330a.png",
    "rank": 6,
    "record": "4-3",
    "last5": [
@@ -4286,7 +4286,7 @@
    "name": "Benfica",
    "logo": "logos/a35e878e80a3.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 3,
    "record": "5-1",
    "last5": [
@@ -4670,7 +4670,7 @@
    "name": "Denizli Basket",
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
-   "league_logo": "logos/577d84baf758.png",
+   "league_logo": "logos/883974099325.png",
    "rank": 15,
    "record": "1-6",
    "last5": [
