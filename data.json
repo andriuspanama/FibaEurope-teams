@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-10 06:04",
+ "updated": "2026-11-10 16:49",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -2286,7 +2286,7 @@
    "name": "Keravnos",
    "logo": "logos/9df64c496b64.png",
    "league": "Division A",
-   "league_logo": "logos/0da4d7fc3ac7.png",
+   "league_logo": "logos/91f890f3c477.png",
    "rank": 2,
    "record": "5-0",
    "last5": [
@@ -3116,7 +3116,7 @@
    "name": "AEK Larnaca",
    "logo": "logos/4e49de659cee.png",
    "league": "Division A",
-   "league_logo": "logos/0da4d7fc3ac7.png",
+   "league_logo": "logos/91f890f3c477.png",
    "rank": 1,
    "record": "5-0",
    "last5": [
@@ -3464,7 +3464,7 @@
     }
    ],
    "next": {
-    "date": "15.11. 16:00",
+    "date": "16.11. 18:00",
     "opponent": "Rabotnicki"
    },
    "note": ""
