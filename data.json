@@ -1,7 +1,7 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-11 04:52",
- "comp_logo": "logos/3b5de720f639.png",
+ "updated": "2026-11-11 13:38",
+ "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
    "name": "Trier",
@@ -1373,7 +1373,7 @@
    "name": "Dinamo Bucharest",
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 5,
    "record": "4-1",
    "last5": [
@@ -1837,7 +1837,7 @@
    "name": "SCM Craiova",
    "logo": "logos/03dafda0ac7a.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 12,
    "record": "3-1",
    "last5": [
@@ -4000,7 +4000,7 @@
    "name": "Manchester Basketball",
    "logo": "logos/a2efec1b9ac2.png",
    "league": "SLB",
-   "league_logo": "logos/f777b3e960be.png",
+   "league_logo": "logos/bfd4ead64284.png",
    "rank": 4,
    "record": "5-5",
    "last5": [
@@ -5191,7 +5191,7 @@
    "name": "CSM Oradea",
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 11,
    "record": "3-2",
    "last5": [
