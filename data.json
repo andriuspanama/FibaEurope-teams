@@ -1,7 +1,7 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-12 14:42",
- "comp_logo": "logos/3b5de720f639.png",
+ "updated": "2026-11-12 21:45",
+ "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
    "name": "Trier",
@@ -757,7 +757,7 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 9,
    "record": "4-3",
    "last5": [
@@ -2393,7 +2393,7 @@
    "name": "Vienna Basket",
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 7,
    "record": "2-4",
    "last5": [
@@ -4537,7 +4537,7 @@
    "logo": "logos/50d68c9585bb.png",
    "league": "Basketligaen",
    "league_logo": "logos/40f2ae364ba9.png",
-   "rank": 3,
+   "rank": 4,
    "record": "7-1",
    "last5": [
     {
