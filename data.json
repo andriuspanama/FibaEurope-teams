@@ -1,7 +1,7 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-11 21:45",
- "comp_logo": "logos/3b5de720f639.png",
+ "updated": "2026-11-12 05:54",
+ "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
    "name": "Trier",
@@ -507,7 +507,7 @@
    "name": "Opava",
    "logo": "logos/2b9d2314db05.png",
    "league": "NBL",
-   "league_logo": "logos/d187bee6c341.png",
+   "league_logo": "logos/50067aa1be3f.png",
    "rank": 9,
    "record": "4-7",
    "last5": [
@@ -1114,7 +1114,7 @@
    "name": "Levice",
    "logo": "logos/280469de6fb4.png",
    "league": "Extraliga",
-   "league_logo": "logos/f143d20206a0.png",
+   "league_logo": "logos/e2f53afac3df.png",
    "rank": 2,
    "record": "7-0",
    "last5": [
@@ -1480,7 +1480,7 @@
    "name": "Esenler Erokspor",
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 5,
    "record": "4-3",
    "last5": [
@@ -2509,7 +2509,7 @@
    "name": "Nitra Blue Wings",
    "logo": "logos/3cef783b60c3.png",
    "league": "Extraliga",
-   "league_logo": "logos/f143d20206a0.png",
+   "league_logo": "logos/e2f53afac3df.png",
    "rank": 6,
    "record": "3-4",
    "last5": [
@@ -3473,7 +3473,7 @@
    "name": "Korfez Basket",
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 12,
    "record": "2-5",
    "last5": [
@@ -4283,6 +4283,122 @@
    "note": ""
   },
   {
+   "name": "Benfica",
+   "logo": "logos/a35e878e80a3.png",
+   "league": "LPB",
+   "league_logo": "logos/b924ca13583e.png",
+   "rank": 3,
+   "record": "5-1",
+   "last5": [
+    {
+     "wl": "W",
+     "score": "112:78",
+     "opponent": "Esgueira",
+     "venue": "H",
+     "date": "07.11. 15:00",
+     "pf": 112,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "72:86",
+     "opponent": "Portimonense",
+     "venue": "A",
+     "date": "31.10. 18:00",
+     "pf": 86,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "72:89",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "24.10. 19:15",
+     "pf": 89,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "92:67",
+     "opponent": "Oliveirense",
+     "venue": "H",
+     "date": "17.10. 16:00",
+     "pf": 92,
+     "pa": 67
+    },
+    {
+     "wl": "L",
+     "score": "93:86",
+     "opponent": "FC Porto",
+     "venue": "A",
+     "date": "11.10. 14:00",
+     "pf": 86,
+     "pa": 93
+    }
+   ],
+   "games": [
+    {
+     "wl": "W",
+     "score": "112:78",
+     "opponent": "Esgueira",
+     "venue": "H",
+     "date": "07.11. 15:00",
+     "pf": 112,
+     "pa": 78
+    },
+    {
+     "wl": "W",
+     "score": "72:86",
+     "opponent": "Portimonense",
+     "venue": "A",
+     "date": "31.10. 18:00",
+     "pf": 86,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "72:89",
+     "opponent": "CA Queluz",
+     "venue": "A",
+     "date": "24.10. 19:15",
+     "pf": 89,
+     "pa": 72
+    },
+    {
+     "wl": "W",
+     "score": "92:67",
+     "opponent": "Oliveirense",
+     "venue": "H",
+     "date": "17.10. 16:00",
+     "pf": 92,
+     "pa": 67
+    },
+    {
+     "wl": "L",
+     "score": "93:86",
+     "opponent": "FC Porto",
+     "venue": "A",
+     "date": "11.10. 14:00",
+     "pf": 86,
+     "pa": 93
+    },
+    {
+     "wl": "W",
+     "score": "84:71",
+     "opponent": "Sporting CP",
+     "venue": "H",
+     "date": "03.10. 16:00",
+     "pf": 84,
+     "pa": 71
+    }
+   ],
+   "next": {
+    "date": "14.11. 16:00",
+    "opponent": "CAB Madeira"
+   },
+   "note": ""
+  },
+  {
    "name": "Geneva Lions",
    "logo": "logos/6d70f4af8b87.png",
    "league": "SB League",
@@ -4413,122 +4529,6 @@
    "next": {
     "date": "14.11. 17:00",
     "opponent": "BBC Monthey"
-   },
-   "note": ""
-  },
-  {
-   "name": "Benfica",
-   "logo": "logos/a35e878e80a3.png",
-   "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
-   "rank": 3,
-   "record": "5-1",
-   "last5": [
-    {
-     "wl": "W",
-     "score": "112:78",
-     "opponent": "Esgueira",
-     "venue": "H",
-     "date": "07.11. 15:00",
-     "pf": 112,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "72:86",
-     "opponent": "Portimonense",
-     "venue": "A",
-     "date": "31.10. 18:00",
-     "pf": 86,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "72:89",
-     "opponent": "CA Queluz",
-     "venue": "A",
-     "date": "24.10. 19:15",
-     "pf": 89,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:67",
-     "opponent": "Oliveirense",
-     "venue": "H",
-     "date": "17.10. 16:00",
-     "pf": 92,
-     "pa": 67
-    },
-    {
-     "wl": "L",
-     "score": "93:86",
-     "opponent": "FC Porto",
-     "venue": "A",
-     "date": "11.10. 14:00",
-     "pf": 86,
-     "pa": 93
-    }
-   ],
-   "games": [
-    {
-     "wl": "W",
-     "score": "112:78",
-     "opponent": "Esgueira",
-     "venue": "H",
-     "date": "07.11. 15:00",
-     "pf": 112,
-     "pa": 78
-    },
-    {
-     "wl": "W",
-     "score": "72:86",
-     "opponent": "Portimonense",
-     "venue": "A",
-     "date": "31.10. 18:00",
-     "pf": 86,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "72:89",
-     "opponent": "CA Queluz",
-     "venue": "A",
-     "date": "24.10. 19:15",
-     "pf": 89,
-     "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:67",
-     "opponent": "Oliveirense",
-     "venue": "H",
-     "date": "17.10. 16:00",
-     "pf": 92,
-     "pa": 67
-    },
-    {
-     "wl": "L",
-     "score": "93:86",
-     "opponent": "FC Porto",
-     "venue": "A",
-     "date": "11.10. 14:00",
-     "pf": 86,
-     "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "84:71",
-     "opponent": "Sporting CP",
-     "venue": "H",
-     "date": "03.10. 16:00",
-     "pf": 84,
-     "pa": 71
-    }
-   ],
-   "next": {
-    "date": "14.11. 16:00",
-    "opponent": "CAB Madeira"
    },
    "note": ""
   },
@@ -4670,7 +4670,7 @@
    "name": "BC Prievidza",
    "logo": "logos/37075e153733.png",
    "league": "Extraliga",
-   "league_logo": "logos/f143d20206a0.png",
+   "league_logo": "logos/e2f53afac3df.png",
    "rank": 1,
    "record": "7-0",
    "last5": [
@@ -4795,7 +4795,7 @@
    "name": "Denizli Basket",
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 15,
    "record": "1-6",
    "last5": [
