@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-13 13:58",
+ "updated": "2026-11-13 21:12",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -669,7 +669,7 @@
    "logo": "logos/fd0c0922151f.png",
    "league": "Superleague",
    "league_logo": "logos/b07974095eca.png",
-   "rank": 7,
+   "rank": 8,
    "record": "3-1",
    "last5": [
     {
@@ -883,7 +883,7 @@
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 6,
+   "rank": 5,
    "record": "4-2",
    "last5": [
     {
@@ -2046,7 +2046,7 @@
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 14,
+   "rank": 13,
    "record": "2-5",
    "last5": [
     {
@@ -2171,7 +2171,7 @@
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 3,
+   "rank": 4,
    "record": "5-1",
    "last5": [
     {
@@ -2510,9 +2510,18 @@
    "logo": "logos/3cef783b60c3.png",
    "league": "Extraliga",
    "league_logo": "logos/e2f53afac3df.png",
-   "rank": 6,
-   "record": "3-4",
+   "rank": 5,
+   "record": "3-5",
    "last5": [
+    {
+     "wl": "L",
+     "score": "78:75",
+     "opponent": "Slovan Bratislava",
+     "venue": "A",
+     "date": "13.11. 17:00",
+     "pf": 75,
+     "pa": 78
+    },
     {
      "wl": "W",
      "score": "84:83",
@@ -2548,18 +2557,18 @@
      "date": "17.10. 16:00",
      "pf": 79,
      "pa": 122
-    },
-    {
-     "wl": "W",
-     "score": "91:65",
-     "opponent": "Iskra Svit",
-     "venue": "H",
-     "date": "10.10. 17:00",
-     "pf": 91,
-     "pa": 65
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "78:75",
+     "opponent": "Slovan Bratislava",
+     "venue": "A",
+     "date": "13.11. 17:00",
+     "pf": 75,
+     "pa": 78
+    },
     {
      "wl": "W",
      "score": "84:83",
@@ -2625,8 +2634,8 @@
     }
    ],
    "next": {
-    "date": "13.11. 17:00",
-    "opponent": "Slovan Bratislava"
+    "date": "21.11. 17:00",
+    "opponent": "Inter Basket"
    },
    "note": ""
   },
@@ -2760,7 +2769,7 @@
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 2,
+   "rank": 3,
    "record": "5-1",
    "last5": [
     {
@@ -2992,7 +3001,7 @@
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 7,
+   "rank": 8,
    "record": "4-3",
    "last5": [
     {
@@ -3867,7 +3876,7 @@
    "logo": "logos/663209a021bb.png",
    "league": "Lat-EST lyga",
    "league_logo": "logos/f6b309e7508d.png",
-   "rank": 9,
+   "rank": 8,
    "record": "4-4",
    "last5": [
     {
@@ -4134,7 +4143,7 @@
    "name": "Manchester Basketball",
    "logo": "logos/a2efec1b9ac2.png",
    "league": "SLB",
-   "league_logo": "logos/f777b3e960be.png",
+   "league_logo": "logos/bfd4ead64284.png",
    "rank": 4,
    "record": "5-5",
    "last5": [
@@ -4537,9 +4546,18 @@
    "logo": "logos/50d68c9585bb.png",
    "league": "Basketligaen",
    "league_logo": "logos/40f2ae364ba9.png",
-   "rank": 4,
-   "record": "7-1",
+   "rank": 2,
+   "record": "8-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "61:126",
+     "opponent": "Vejen",
+     "venue": "A",
+     "date": "13.11. 18:00",
+     "pf": 126,
+     "pa": 61
+    },
     {
      "wl": "L",
      "score": "80:77",
@@ -4575,18 +4593,18 @@
      "date": "18.10. 14:00",
      "pf": 123,
      "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "103:86",
-     "opponent": "Randers",
-     "venue": "H",
-     "date": "10.10. 12:00",
-     "pf": 103,
-     "pa": 86
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "61:126",
+     "opponent": "Vejen",
+     "venue": "A",
+     "date": "13.11. 18:00",
+     "pf": 126,
+     "pa": 61
+    },
     {
      "wl": "L",
      "score": "80:77",
@@ -4661,7 +4679,7 @@
     }
    ],
    "next": {
-    "date": "13.11. 18:00",
+    "date": "02.12. 17:30",
     "opponent": "Vejen"
    },
    "note": ""
