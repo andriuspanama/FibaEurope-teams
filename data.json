@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-13 05:17",
+ "updated": "2026-11-13 13:58",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -882,7 +882,7 @@
    "name": "Zielona Gora",
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
+   "league_logo": "logos/e38c6600f3ac.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
@@ -998,7 +998,7 @@
    "name": "Oostende",
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/cc3eb03ee169.png",
+   "league_logo": "logos/f0a5f6fa9273.png",
    "rank": 7,
    "record": "3-3",
    "last5": [
@@ -2170,7 +2170,7 @@
    "name": "Szczecin",
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
+   "league_logo": "logos/e38c6600f3ac.png",
    "rank": 3,
    "record": "5-1",
    "last5": [
@@ -2759,7 +2759,7 @@
    "name": "Dziki Warszawa",
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
+   "league_logo": "logos/e38c6600f3ac.png",
    "rank": 2,
    "record": "5-1",
    "last5": [
@@ -4403,8 +4403,8 @@
    "logo": "logos/6d70f4af8b87.png",
    "league": "SB League",
    "league_logo": "logos/aa275f58a5d2.png",
-   "rank": null,
-   "record": "",
+   "rank": 1,
+   "record": "8-0",
    "last5": [
     {
      "wl": "W",
@@ -4530,7 +4530,7 @@
     "date": "14.11. 17:00",
     "opponent": "BBC Monthey"
    },
-   "note": "Komanda lygos lentelėje nerasta"
+   "note": ""
   },
   {
    "name": "Bakken Bears",
@@ -5418,8 +5418,8 @@
    "logo": "logos/87c0ce08f7ac.png",
    "league": "SB League",
    "league_logo": "logos/aa275f58a5d2.png",
-   "rank": null,
-   "record": "",
+   "rank": 2,
+   "record": "7-1",
    "last5": [
     {
      "wl": "W",
@@ -5545,7 +5545,7 @@
     "date": "14.11. 16:30",
     "opponent": "SAM Massagno"
    },
-   "note": "Komanda lygos lentelėje nerasta"
+   "note": ""
   }
  ]
 }
