@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-14 05:06",
+ "updated": "2026-11-14 13:00",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -748,8 +748,8 @@
     }
    ],
    "next": {
-    "date": "14.11. 12:00",
-    "opponent": "Telavi"
+    "date": "04.12. 14:30",
+    "opponent": "Orbi"
    },
    "note": ""
   },
@@ -757,7 +757,7 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 9,
    "record": "4-3",
    "last5": [
@@ -998,7 +998,7 @@
    "name": "Oostende",
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/f0a5f6fa9273.png",
+   "league_logo": "logos/cc3eb03ee169.png",
    "rank": 7,
    "record": "3-3",
    "last5": [
@@ -1481,7 +1481,7 @@
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 5,
+   "rank": 7,
    "record": "4-3",
    "last5": [
     {
@@ -2394,7 +2394,7 @@
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 7,
+   "rank": 8,
    "record": "2-4",
    "last5": [
     {
