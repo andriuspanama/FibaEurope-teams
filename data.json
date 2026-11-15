@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-14 19:43",
+ "updated": "2026-11-15 00:48",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -259,8 +259,17 @@
    "league": "Premijer liga",
    "league_logo": "logos/08f414435692.png",
    "rank": 3,
-   "record": "5-2",
+   "record": "6-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "82:79",
+     "opponent": "Skrljevo",
+     "venue": "H",
+     "date": "14.11. 18:00",
+     "pf": 82,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "77:82",
@@ -296,18 +305,18 @@
      "date": "18.10. 17:00",
      "pf": 73,
      "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "62:86",
-     "opponent": "Dubrava",
-     "venue": "A",
-     "date": "10.10. 17:00",
-     "pf": 86,
-     "pa": 62
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "82:79",
+     "opponent": "Skrljevo",
+     "venue": "H",
+     "date": "14.11. 18:00",
+     "pf": 82,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "77:82",
@@ -383,7 +392,7 @@
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 1,
+   "rank": 2,
    "record": "6-2",
    "last5": [
     {
@@ -517,7 +526,7 @@
    "logo": "logos/2b9d2314db05.png",
    "league": "NBL",
    "league_logo": "logos/d187bee6c341.png",
-   "rank": 9,
+   "rank": 10,
    "record": "4-8",
    "last5": [
     {
@@ -919,9 +928,18 @@
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 5,
-   "record": "4-2",
+   "rank": 6,
+   "record": "4-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "91:85",
+     "opponent": "Slask Wroclaw",
+     "venue": "A",
+     "date": "14.11. 18:30",
+     "pf": 85,
+     "pa": 91
+    },
     {
      "wl": "W",
      "score": "69:74",
@@ -957,18 +975,18 @@
      "date": "17.10. 13:00",
      "pf": 84,
      "pa": 76
-    },
-    {
-     "wl": "W",
-     "score": "104:87",
-     "opponent": "Legia",
-     "venue": "H",
-     "date": "09.10. 16:00",
-     "pf": 104,
-     "pa": 87
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "91:85",
+     "opponent": "Slask Wroclaw",
+     "venue": "A",
+     "date": "14.11. 18:30",
+     "pf": 85,
+     "pa": 91
+    },
     {
      "wl": "W",
      "score": "69:74",
@@ -1035,9 +1053,18 @@
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
    "league_logo": "logos/f0a5f6fa9273.png",
-   "rank": 7,
-   "record": "3-3",
+   "rank": 6,
+   "record": "4-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "65:82",
+     "opponent": "Leiden",
+     "venue": "A",
+     "date": "14.11. 19:00",
+     "pf": 82,
+     "pa": 65
+    },
     {
      "wl": "L",
      "score": "71:82",
@@ -1073,18 +1100,18 @@
      "date": "16.10. 18:30",
      "pf": 64,
      "pa": 81
-    },
-    {
-     "wl": "W",
-     "score": "98:70",
-     "opponent": "Zwolle",
-     "venue": "H",
-     "date": "10.10. 18:30",
-     "pf": 98,
-     "pa": 70
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "65:82",
+     "opponent": "Leiden",
+     "venue": "A",
+     "date": "14.11. 19:00",
+     "pf": 82,
+     "pa": 65
+    },
     {
      "wl": "L",
      "score": "71:82",
@@ -1767,9 +1794,18 @@
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
    "league_logo": "logos/b924ca13583e.png",
-   "rank": 7,
-   "record": "3-3",
+   "rank": 5,
+   "record": "4-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "94:69",
+     "opponent": "CD Povoa",
+     "venue": "H",
+     "date": "14.11. 18:30",
+     "pf": 94,
+     "pa": 69
+    },
     {
      "wl": "W",
      "score": "91:48",
@@ -1805,18 +1841,18 @@
      "date": "17.10. 15:00",
      "pf": 84,
      "pa": 93
-    },
-    {
-     "wl": "W",
-     "score": "88:60",
-     "opponent": "Esgueira",
-     "venue": "H",
-     "date": "10.10. 14:00",
-     "pf": 88,
-     "pa": 60
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "94:69",
+     "opponent": "CD Povoa",
+     "venue": "H",
+     "date": "14.11. 18:30",
+     "pf": 94,
+     "pa": 69
+    },
     {
      "wl": "W",
      "score": "91:48",
@@ -2100,7 +2136,7 @@
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 12,
+   "rank": 11,
    "record": "2-5",
    "last5": [
     {
@@ -2832,7 +2868,7 @@
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 4,
+   "rank": 5,
    "record": "5-1",
    "last5": [
     {
@@ -3073,9 +3109,18 @@
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 8,
-   "record": "4-3",
+   "rank": 9,
+   "record": "4-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "91:84",
+     "opponent": "Hamburg",
+     "venue": "A",
+     "date": "14.11. 19:00",
+     "pf": 84,
+     "pa": 91
+    },
     {
      "wl": "L",
      "score": "73:94",
@@ -3111,18 +3156,18 @@
      "date": "10.10. 16:30",
      "pf": 62,
      "pa": 101
-    },
-    {
-     "wl": "W",
-     "score": "83:76",
-     "opponent": "Bonn",
-     "venue": "H",
-     "date": "02.10. 18:00",
-     "pf": 83,
-     "pa": 76
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "91:84",
+     "opponent": "Hamburg",
+     "venue": "A",
+     "date": "14.11. 19:00",
+     "pf": 84,
+     "pa": 91
+    },
     {
      "wl": "L",
      "score": "73:94",
@@ -4118,7 +4163,7 @@
    "logo": "logos/8072a67893db.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 2,
+   "rank": 3,
    "record": "6-2",
    "last5": [
     {
