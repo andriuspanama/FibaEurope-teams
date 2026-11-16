@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-16 10:41",
+ "updated": "2026-11-16 21:40",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -1481,7 +1481,7 @@
    "name": "Dinamo Bucharest",
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 4,
    "record": "4-2",
    "last5": [
@@ -1981,7 +1981,7 @@
    "name": "SCM Craiova",
    "logo": "logos/03dafda0ac7a.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 13,
    "record": "3-2",
    "last5": [
@@ -2351,7 +2351,7 @@
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 2,
+   "rank": 3,
    "record": "6-1",
    "last5": [
     {
@@ -2477,8 +2477,17 @@
    "league": "Division A",
    "league_logo": "logos/91f890f3c477.png",
    "rank": 2,
-   "record": "5-0",
+   "record": "6-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "73:66",
+     "opponent": "AEL",
+     "venue": "H",
+     "date": "16.11. 17:00",
+     "pf": 73,
+     "pa": 66
+    },
     {
      "wl": "W",
      "score": "73:80",
@@ -2514,18 +2523,18 @@
      "date": "18.10. 14:00",
      "pf": 91,
      "pa": 82
-    },
-    {
-     "wl": "W",
-     "score": "62:95",
-     "opponent": "Achilleas K.",
-     "venue": "A",
-     "date": "10.10. 16:00",
-     "pf": 95,
-     "pa": 62
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "73:66",
+     "opponent": "AEL",
+     "venue": "H",
+     "date": "16.11. 17:00",
+     "pf": 73,
+     "pa": 66
+    },
     {
      "wl": "W",
      "score": "73:80",
@@ -2573,8 +2582,8 @@
     }
    ],
    "next": {
-    "date": "16.11. 17:00",
-    "opponent": "AEL"
+    "date": "05.12. 16:00",
+    "opponent": "Paralimni"
    },
    "note": ""
   },
@@ -2583,9 +2592,18 @@
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 9,
-   "record": "2-4",
+   "rank": 7,
+   "record": "3-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "79:87",
+     "opponent": "Studentski Centar",
+     "venue": "A",
+     "date": "16.11. 19:00",
+     "pf": 87,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "60:74",
@@ -2621,18 +2639,18 @@
      "date": "16.10. 18:30",
      "pf": 78,
      "pa": 63
-    },
-    {
-     "wl": "L",
-     "score": "99:78",
-     "opponent": "Partizan Mozzart Bet",
-     "venue": "A",
-     "date": "11.10. 18:00",
-     "pf": 78,
-     "pa": 99
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "79:87",
+     "opponent": "Studentski Centar",
+     "venue": "A",
+     "date": "16.11. 19:00",
+     "pf": 87,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "60:74",
@@ -2689,8 +2707,8 @@
     }
    ],
    "next": {
-    "date": "16.11. 19:00",
-    "opponent": "Studentski Centar"
+    "date": "21.11. 18:00",
+    "opponent": "Spartak Subotica"
    },
    "note": ""
   },
@@ -2967,7 +2985,7 @@
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 1,
+   "rank": 2,
    "record": "6-1",
    "last5": [
     {
@@ -3610,9 +3628,18 @@
    "logo": "logos/0fc661c718c4.png",
    "league": "Super League",
    "league_logo": "logos/e8b6c8277c1e.png",
-   "rank": 3,
-   "record": "5-1",
+   "rank": 2,
+   "record": "5-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "60:74",
+     "opponent": "Rabotnicki",
+     "venue": "H",
+     "date": "16.11. 18:00",
+     "pf": 60,
+     "pa": 74
+    },
     {
      "wl": "W",
      "score": "60:79",
@@ -3648,18 +3675,18 @@
      "date": "16.10. 16:00",
      "pf": 70,
      "pa": 66
-    },
-    {
-     "wl": "W",
-     "score": "73:81",
-     "opponent": "Kozuv",
-     "venue": "A",
-     "date": "10.10. 17:00",
-     "pf": 81,
-     "pa": 73
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "60:74",
+     "opponent": "Rabotnicki",
+     "venue": "H",
+     "date": "16.11. 18:00",
+     "pf": 60,
+     "pa": 74
+    },
     {
      "wl": "W",
      "score": "60:79",
@@ -3716,8 +3743,8 @@
     }
    ],
    "next": {
-    "date": "16.11. 18:00",
-    "opponent": "Rabotnicki"
+    "date": "29.11. 16:00",
+    "opponent": "KK Stip"
    },
    "note": ""
   },
@@ -5560,7 +5587,7 @@
    "name": "CSM Oradea",
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 7,
    "record": "4-2",
    "last5": [
