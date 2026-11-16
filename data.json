@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-15 18:30",
+ "updated": "2026-11-16 00:47",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -400,10 +400,19 @@
    "name": "Trepca",
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
-   "league_logo": "logos/4a78e02d91eb.png",
-   "rank": 1,
+   "league_logo": "logos/7647d2406035.png",
+   "rank": 2,
    "record": "7-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "83:85",
+     "opponent": "Peja",
+     "venue": "A",
+     "date": "15.11. 16:00",
+     "pf": 85,
+     "pa": 83
+    },
     {
      "wl": "W",
      "score": "92:58",
@@ -439,18 +448,18 @@
      "date": "18.10. 15:00",
      "pf": 79,
      "pa": 68
-    },
-    {
-     "wl": "W",
-     "score": "94:70",
-     "opponent": "Vellaznimi",
-     "venue": "H",
-     "date": "10.10. 15:00",
-     "pf": 94,
-     "pa": 70
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "83:85",
+     "opponent": "Peja",
+     "venue": "A",
+     "date": "15.11. 16:00",
+     "pf": 85,
+     "pa": 83
+    },
     {
      "wl": "W",
      "score": "92:58",
@@ -534,7 +543,7 @@
    "name": "Opava",
    "logo": "logos/2b9d2314db05.png",
    "league": "NBL",
-   "league_logo": "logos/d187bee6c341.png",
+   "league_logo": "logos/50067aa1be3f.png",
    "rank": 10,
    "record": "4-8",
    "last5": [
@@ -811,8 +820,8 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
-   "rank": 10,
+   "league_logo": "logos/cb9f1e398563.png",
+   "rank": 11,
    "record": "4-4",
    "last5": [
     {
@@ -1195,7 +1204,7 @@
    "name": "Levice",
    "logo": "logos/280469de6fb4.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
+   "league_logo": "logos/f143d20206a0.png",
    "rank": 1,
    "record": "8-0",
    "last5": [
@@ -1331,8 +1340,17 @@
    "league": "NB I. A",
    "league_logo": "logos/e25024497cfd.png",
    "rank": 3,
-   "record": "6-2",
+   "record": "7-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "96:87",
+     "opponent": "DEAC",
+     "venue": "H",
+     "date": "15.11. 17:00",
+     "pf": 96,
+     "pa": 87
+    },
     {
      "wl": "W",
      "score": "88:79",
@@ -1368,18 +1386,18 @@
      "date": "17.10. 16:00",
      "pf": 72,
      "pa": 81
-    },
-    {
-     "wl": "W",
-     "score": "103:79",
-     "opponent": "Kormend",
-     "venue": "H",
-     "date": "09.10. 16:00",
-     "pf": 103,
-     "pa": 79
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "96:87",
+     "opponent": "DEAC",
+     "venue": "H",
+     "date": "15.11. 17:00",
+     "pf": 96,
+     "pa": 87
+    },
     {
      "wl": "W",
      "score": "88:79",
@@ -1580,7 +1598,7 @@
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 4,
+   "rank": 7,
    "record": "4-4",
    "last5": [
     {
@@ -2680,7 +2698,7 @@
    "name": "Nitra Blue Wings",
    "logo": "logos/3cef783b60c3.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
+   "league_logo": "logos/f143d20206a0.png",
    "rank": 8,
    "record": "3-5",
    "last5": [
@@ -3592,7 +3610,7 @@
    "logo": "logos/0fc661c718c4.png",
    "league": "Super League",
    "league_logo": "logos/e8b6c8277c1e.png",
-   "rank": 2,
+   "rank": 3,
    "record": "5-1",
    "last5": [
     {
@@ -4270,10 +4288,19 @@
    "name": "Bashkimi",
    "logo": "logos/8072a67893db.png",
    "league": "Superliga",
-   "league_logo": "logos/4a78e02d91eb.png",
-   "rank": 3,
-   "record": "6-2",
+   "league_logo": "logos/7647d2406035.png",
+   "rank": 1,
+   "record": "7-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "108:65",
+     "opponent": "Rahoveci",
+     "venue": "H",
+     "date": "15.11. 18:30",
+     "pf": 108,
+     "pa": 65
+    },
     {
      "wl": "L",
      "score": "105:86",
@@ -4309,18 +4336,18 @@
      "date": "18.10. 16:00",
      "pf": 77,
      "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "78:58",
-     "opponent": "Bora",
-     "venue": "H",
-     "date": "10.10. 17:30",
-     "pf": 78,
-     "pa": 58
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "108:65",
+     "opponent": "Rahoveci",
+     "venue": "H",
+     "date": "15.11. 18:30",
+     "pf": 108,
+     "pa": 65
+    },
     {
      "wl": "L",
      "score": "105:86",
@@ -4833,7 +4860,7 @@
    "name": "Bakken Bears",
    "logo": "logos/50d68c9585bb.png",
    "league": "Basketligaen",
-   "league_logo": "logos/40f2ae364ba9.png",
+   "league_logo": "logos/9a891855be95.png",
    "rank": 2,
    "record": "8-1",
    "last5": [
@@ -4976,7 +5003,7 @@
    "name": "BC Prievidza",
    "logo": "logos/37075e153733.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
+   "league_logo": "logos/f143d20206a0.png",
    "rank": 2,
    "record": "7-1",
    "last5": [
