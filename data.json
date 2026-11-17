@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-17 06:44",
+ "updated": "2026-11-17 18:10",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -954,7 +954,7 @@
    "name": "Zielona Gora",
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 7,
    "record": "4-3",
    "last5": [
@@ -1204,7 +1204,7 @@
    "name": "Levice",
    "logo": "logos/280469de6fb4.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
+   "league_logo": "logos/f143d20206a0.png",
    "rank": 1,
    "record": "8-0",
    "last5": [
@@ -1978,113 +1978,6 @@
    "note": ""
   },
   {
-   "name": "SCM Craiova",
-   "logo": "logos/03dafda0ac7a.png",
-   "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 13,
-   "record": "3-2",
-   "last5": [
-    {
-     "wl": "L",
-     "score": "109:104",
-     "opponent": "Rapid Bucuresti",
-     "venue": "A",
-     "date": "15.11. 16:00",
-     "pf": 104,
-     "pa": 109
-    },
-    {
-     "wl": "W",
-     "score": "105:107",
-     "opponent": "CSU Sibiu",
-     "venue": "A",
-     "date": "01.11. 16:00",
-     "pf": 107,
-     "pa": 105
-    },
-    {
-     "wl": "L",
-     "score": "95:84",
-     "opponent": "Arges Pitesti",
-     "venue": "A",
-     "date": "17.10. 15:00",
-     "pf": 84,
-     "pa": 95
-    },
-    {
-     "wl": "W",
-     "score": "108:99",
-     "opponent": "Municipal Galati",
-     "venue": "H",
-     "date": "11.10. 15:00",
-     "pf": 108,
-     "pa": 99
-    },
-    {
-     "wl": "W",
-     "score": "98:113",
-     "opponent": "Corona Brasov",
-     "venue": "A",
-     "date": "03.10. 15:30",
-     "pf": 113,
-     "pa": 98
-    }
-   ],
-   "games": [
-    {
-     "wl": "L",
-     "score": "109:104",
-     "opponent": "Rapid Bucuresti",
-     "venue": "A",
-     "date": "15.11. 16:00",
-     "pf": 104,
-     "pa": 109
-    },
-    {
-     "wl": "W",
-     "score": "105:107",
-     "opponent": "CSU Sibiu",
-     "venue": "A",
-     "date": "01.11. 16:00",
-     "pf": 107,
-     "pa": 105
-    },
-    {
-     "wl": "L",
-     "score": "95:84",
-     "opponent": "Arges Pitesti",
-     "venue": "A",
-     "date": "17.10. 15:00",
-     "pf": 84,
-     "pa": 95
-    },
-    {
-     "wl": "W",
-     "score": "108:99",
-     "opponent": "Municipal Galati",
-     "venue": "H",
-     "date": "11.10. 15:00",
-     "pf": 108,
-     "pa": 99
-    },
-    {
-     "wl": "W",
-     "score": "98:113",
-     "opponent": "Corona Brasov",
-     "venue": "A",
-     "date": "03.10. 15:30",
-     "pf": 113,
-     "pa": 98
-    }
-   ],
-   "next": {
-    "date": "21.11. 16:00",
-    "opponent": "SCM Timisoara"
-   },
-   "note": ""
-  },
-  {
    "name": "Rilski Sportist",
    "logo": "logos/9d7e8294c55f.png",
    "league": "NBL",
@@ -2197,6 +2090,113 @@
    "next": {
     "date": "22.11. 15:00",
     "opponent": "Cherno More"
+   },
+   "note": ""
+  },
+  {
+   "name": "SCM Craiova",
+   "logo": "logos/03dafda0ac7a.png",
+   "league": "Divizia A",
+   "league_logo": "logos/8fb4ca9fe23f.png",
+   "rank": 13,
+   "record": "3-2",
+   "last5": [
+    {
+     "wl": "L",
+     "score": "109:104",
+     "opponent": "Rapid Bucuresti",
+     "venue": "A",
+     "date": "15.11. 16:00",
+     "pf": 104,
+     "pa": 109
+    },
+    {
+     "wl": "W",
+     "score": "105:107",
+     "opponent": "CSU Sibiu",
+     "venue": "A",
+     "date": "01.11. 16:00",
+     "pf": 107,
+     "pa": 105
+    },
+    {
+     "wl": "L",
+     "score": "95:84",
+     "opponent": "Arges Pitesti",
+     "venue": "A",
+     "date": "17.10. 15:00",
+     "pf": 84,
+     "pa": 95
+    },
+    {
+     "wl": "W",
+     "score": "108:99",
+     "opponent": "Municipal Galati",
+     "venue": "H",
+     "date": "11.10. 15:00",
+     "pf": 108,
+     "pa": 99
+    },
+    {
+     "wl": "W",
+     "score": "98:113",
+     "opponent": "Corona Brasov",
+     "venue": "A",
+     "date": "03.10. 15:30",
+     "pf": 113,
+     "pa": 98
+    }
+   ],
+   "games": [
+    {
+     "wl": "L",
+     "score": "109:104",
+     "opponent": "Rapid Bucuresti",
+     "venue": "A",
+     "date": "15.11. 16:00",
+     "pf": 104,
+     "pa": 109
+    },
+    {
+     "wl": "W",
+     "score": "105:107",
+     "opponent": "CSU Sibiu",
+     "venue": "A",
+     "date": "01.11. 16:00",
+     "pf": 107,
+     "pa": 105
+    },
+    {
+     "wl": "L",
+     "score": "95:84",
+     "opponent": "Arges Pitesti",
+     "venue": "A",
+     "date": "17.10. 15:00",
+     "pf": 84,
+     "pa": 95
+    },
+    {
+     "wl": "W",
+     "score": "108:99",
+     "opponent": "Municipal Galati",
+     "venue": "H",
+     "date": "11.10. 15:00",
+     "pf": 108,
+     "pa": 99
+    },
+    {
+     "wl": "W",
+     "score": "98:113",
+     "opponent": "Corona Brasov",
+     "venue": "A",
+     "date": "03.10. 15:30",
+     "pf": 113,
+     "pa": 98
+    }
+   ],
+   "next": {
+    "date": "21.11. 16:00",
+    "opponent": "SCM Timisoara"
    },
    "note": ""
   },
@@ -2350,7 +2350,7 @@
    "name": "Szczecin",
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 3,
    "record": "6-1",
    "last5": [
@@ -2591,7 +2591,7 @@
    "name": "Vienna Basket",
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/4ecaeb496585.png",
+   "league_logo": "logos/9cba694f5f88.png",
    "rank": 7,
    "record": "3-4",
    "last5": [
@@ -2716,7 +2716,7 @@
    "name": "Nitra Blue Wings",
    "logo": "logos/3cef783b60c3.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
+   "league_logo": "logos/f143d20206a0.png",
    "rank": 8,
    "record": "3-5",
    "last5": [
@@ -2984,7 +2984,7 @@
    "name": "Dziki Warszawa",
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 2,
    "record": "6-1",
    "last5": [
@@ -5030,7 +5030,7 @@
    "name": "BC Prievidza",
    "logo": "logos/37075e153733.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
+   "league_logo": "logos/f143d20206a0.png",
    "rank": 2,
    "record": "7-1",
    "last5": [
