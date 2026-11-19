@@ -1,13 +1,13 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-19 11:10",
+ "updated": "2026-11-19 19:59",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
    "logo": "logos/3e12832eb75b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 2,
    "record": "7-1",
    "last5": [
@@ -543,7 +543,7 @@
    "name": "Opava",
    "logo": "logos/2b9d2314db05.png",
    "league": "NBL",
-   "league_logo": "logos/50067aa1be3f.png",
+   "league_logo": "logos/d187bee6c341.png",
    "rank": 9,
    "record": "4-8",
    "last5": [
@@ -1482,7 +1482,7 @@
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
    "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 4,
+   "rank": 5,
    "record": "4-2",
    "last5": [
     {
@@ -2216,7 +2216,7 @@
    "name": "Nancy",
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 14,
    "record": "2-6",
    "last5": [
@@ -2475,7 +2475,7 @@
    "name": "Keravnos",
    "logo": "logos/9df64c496b64.png",
    "league": "Division A",
-   "league_logo": "logos/0da4d7fc3ac7.png",
+   "league_logo": "logos/91f890f3c477.png",
    "rank": 2,
    "record": "6-0",
    "last5": [
@@ -3234,7 +3234,7 @@
    "name": "Wurzburg",
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 9,
    "record": "4-4",
    "last5": [
@@ -3368,7 +3368,7 @@
    "name": "AEK Larnaca",
    "logo": "logos/4e49de659cee.png",
    "league": "Division A",
-   "league_logo": "logos/0da4d7fc3ac7.png",
+   "league_logo": "logos/91f890f3c477.png",
    "rank": 1,
    "record": "6-0",
    "last5": [
@@ -3743,7 +3743,7 @@
     }
    ],
    "next": {
-    "date": "29.11. 16:00",
+    "date": "21.11. 19:30",
     "opponent": "KK Stip"
    },
    "note": ""
@@ -3752,7 +3752,7 @@
    "name": "Chalon/Saone",
    "logo": "logos/55f3e5566e65.png",
    "league": "LNB",
-   "league_logo": "logos/d3db0986330a.png",
+   "league_logo": "logos/c611aab280e5.png",
    "rank": 6,
    "record": "5-3",
    "last5": [
@@ -5463,7 +5463,7 @@
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
    "league_logo": "logos/8fb4ca9fe23f.png",
-   "rank": 7,
+   "rank": 6,
    "record": "4-2",
    "last5": [
     {
