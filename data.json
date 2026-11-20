@@ -1,13 +1,13 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-20 02:02",
- "comp_logo": "logos/841ec0a2ef75.png",
+ "updated": "2026-11-20 10:57",
+ "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
    "logo": "logos/3e12832eb75b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 2,
    "record": "7-1",
    "last5": [
@@ -400,7 +400,7 @@
    "name": "Trepca",
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
-   "league_logo": "logos/4a78e02d91eb.png",
+   "league_logo": "logos/7647d2406035.png",
    "rank": 2,
    "record": "7-2",
    "last5": [
@@ -954,7 +954,7 @@
    "name": "Oostende",
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/f0a5f6fa9273.png",
+   "league_logo": "logos/cc3eb03ee169.png",
    "rank": 5,
    "record": "4-3",
    "last5": [
@@ -1079,7 +1079,7 @@
    "name": "Zielona Gora",
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 7,
    "record": "4-3",
    "last5": [
@@ -1347,7 +1347,7 @@
    "name": "Levice",
    "logo": "logos/280469de6fb4.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
+   "league_logo": "logos/f143d20206a0.png",
    "rank": 2,
    "record": "8-0",
    "last5": [
@@ -1481,7 +1481,7 @@
    "name": "Dinamo Bucharest",
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 5,
    "record": "4-2",
    "last5": [
@@ -1981,7 +1981,7 @@
    "name": "SCM Craiova",
    "logo": "logos/03dafda0ac7a.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 13,
    "record": "3-2",
    "last5": [
@@ -2350,7 +2350,7 @@
    "name": "Szczecin",
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 3,
    "record": "6-1",
    "last5": [
@@ -2475,7 +2475,7 @@
    "name": "Keravnos",
    "logo": "logos/9df64c496b64.png",
    "league": "Division A",
-   "league_logo": "logos/91f890f3c477.png",
+   "league_logo": "logos/0da4d7fc3ac7.png",
    "rank": 2,
    "record": "6-0",
    "last5": [
@@ -2591,7 +2591,7 @@
    "name": "Vienna Basket",
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
-   "league_logo": "logos/9cba694f5f88.png",
+   "league_logo": "logos/4ecaeb496585.png",
    "rank": 7,
    "record": "3-4",
    "last5": [
@@ -2716,7 +2716,7 @@
    "name": "Nitra Blue Wings",
    "logo": "logos/3cef783b60c3.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
+   "league_logo": "logos/f143d20206a0.png",
    "rank": 8,
    "record": "3-5",
    "last5": [
@@ -2984,7 +2984,7 @@
    "name": "Dziki Warszawa",
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
-   "league_logo": "logos/e38c6600f3ac.png",
+   "league_logo": "logos/11d67384a2ea.png",
    "rank": 2,
    "record": "6-1",
    "last5": [
@@ -3234,7 +3234,7 @@
    "name": "Wurzburg",
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
-   "league_logo": "logos/5408e2e1f9f8.png",
+   "league_logo": "logos/98572a4b17ba.png",
    "rank": 9,
    "record": "4-4",
    "last5": [
@@ -3368,7 +3368,7 @@
    "name": "AEK Larnaca",
    "logo": "logos/4e49de659cee.png",
    "league": "Division A",
-   "league_logo": "logos/91f890f3c477.png",
+   "league_logo": "logos/0da4d7fc3ac7.png",
    "rank": 1,
    "record": "6-0",
    "last5": [
@@ -4315,7 +4315,7 @@
    "name": "Manchester Basketball",
    "logo": "logos/a2efec1b9ac2.png",
    "league": "SLB",
-   "league_logo": "logos/bfd4ead64284.png",
+   "league_logo": "logos/f777b3e960be.png",
    "rank": 5,
    "record": "5-6",
    "last5": [
@@ -4476,7 +4476,7 @@
    "name": "Bashkimi",
    "logo": "logos/8072a67893db.png",
    "league": "Superliga",
-   "league_logo": "logos/4a78e02d91eb.png",
+   "league_logo": "logos/7647d2406035.png",
    "rank": 1,
    "record": "7-2",
    "last5": [
@@ -5030,7 +5030,7 @@
    "name": "BC Prievidza",
    "logo": "logos/37075e153733.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
+   "league_logo": "logos/f143d20206a0.png",
    "rank": 3,
    "record": "7-1",
    "last5": [
@@ -5462,7 +5462,7 @@
    "name": "CSM Oradea",
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
-   "league_logo": "logos/9a29112107df.png",
+   "league_logo": "logos/8fb4ca9fe23f.png",
    "rank": 6,
    "record": "4-2",
    "last5": [
