@@ -1,7 +1,7 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-21 01:58",
- "comp_logo": "logos/841ec0a2ef75.png",
+ "updated": "2026-11-21 10:40",
+ "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
    "name": "Trier",
@@ -543,7 +543,7 @@
    "name": "Opava",
    "logo": "logos/2b9d2314db05.png",
    "league": "NBL",
-   "league_logo": "logos/50067aa1be3f.png",
+   "league_logo": "logos/d187bee6c341.png",
    "rank": 9,
    "record": "4-8",
    "last5": [
@@ -820,7 +820,7 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
+   "league_logo": "logos/c68ff65a02e9.png",
    "rank": 11,
    "record": "4-4",
    "last5": [
@@ -954,7 +954,7 @@
    "name": "Oostende",
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/f0a5f6fa9273.png",
+   "league_logo": "logos/cc3eb03ee169.png",
    "rank": 6,
    "record": "4-3",
    "last5": [
@@ -1079,7 +1079,7 @@
    "name": "Zielona Gora",
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
+   "league_logo": "logos/e38c6600f3ac.png",
    "rank": 8,
    "record": "4-3",
    "last5": [
@@ -1204,7 +1204,7 @@
    "name": "Szolnoki Olaj",
    "logo": "logos/e5b6889ee037.png",
    "league": "NB I. A",
-   "league_logo": "logos/61a093b35850.png",
+   "league_logo": "logos/e25024497cfd.png",
    "rank": 3,
    "record": "7-2",
    "last5": [
@@ -1347,7 +1347,7 @@
    "name": "Levice",
    "logo": "logos/280469de6fb4.png",
    "league": "Extraliga",
-   "league_logo": "logos/f143d20206a0.png",
+   "league_logo": "logos/e2f53afac3df.png",
    "rank": 2,
    "record": "8-0",
    "last5": [
@@ -1606,7 +1606,7 @@
    "name": "Esenler Erokspor",
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 7,
    "record": "4-4",
    "last5": [
@@ -1865,7 +1865,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 5,
    "record": "4-3",
    "last5": [
@@ -2359,7 +2359,7 @@
    "name": "Szczecin",
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
+   "league_logo": "logos/e38c6600f3ac.png",
    "rank": 3,
    "record": "6-1",
    "last5": [
@@ -2725,7 +2725,7 @@
    "name": "Nitra Blue Wings",
    "logo": "logos/3cef783b60c3.png",
    "league": "Extraliga",
-   "league_logo": "logos/f143d20206a0.png",
+   "league_logo": "logos/e2f53afac3df.png",
    "rank": 8,
    "record": "3-5",
    "last5": [
@@ -2993,7 +2993,7 @@
    "name": "Dziki Warszawa",
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
-   "league_logo": "logos/11d67384a2ea.png",
+   "league_logo": "logos/e38c6600f3ac.png",
    "rank": 2,
    "record": "6-1",
    "last5": [
@@ -3645,7 +3645,7 @@
    "name": "MZT Skopje",
    "logo": "logos/0fc661c718c4.png",
    "league": "Super League",
-   "league_logo": "logos/7bfc98f20b70.png",
+   "league_logo": "logos/e8b6c8277c1e.png",
    "rank": 2,
    "record": "5-2",
    "last5": [
@@ -3904,7 +3904,7 @@
    "name": "Korfez Basket",
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 13,
    "record": "3-5",
    "last5": [
@@ -4637,7 +4637,7 @@
    "name": "Benfica",
    "logo": "logos/a35e878e80a3.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
+   "league_logo": "logos/b924ca13583e.png",
    "rank": 3,
    "record": "6-1",
    "last5": [
@@ -5048,7 +5048,7 @@
    "name": "BC Prievidza",
    "logo": "logos/37075e153733.png",
    "league": "Extraliga",
-   "league_logo": "logos/f143d20206a0.png",
+   "league_logo": "logos/e2f53afac3df.png",
    "rank": 3,
    "record": "7-1",
    "last5": [
@@ -5182,7 +5182,7 @@
    "name": "Denizli Basket",
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
-   "league_logo": "logos/883974099325.png",
+   "league_logo": "logos/577d84baf758.png",
    "rank": 14,
    "record": "2-6",
    "last5": [
@@ -5307,8 +5307,8 @@
     }
    ],
    "next": {
-    "date": "21.11. 10:00",
-    "opponent": "Karsiyaka"
+    "date": "05.12. 15:00",
+    "opponent": "Bursaspor"
    },
    "note": ""
   },
