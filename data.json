@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-22 10:45",
+ "updated": "2026-11-22 19:05",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -151,7 +151,7 @@
    "logo": "logos/75746dc3c118.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 12,
+   "rank": 14,
    "record": "1-7",
    "last5": [
     {
@@ -428,9 +428,18 @@
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 3,
-   "record": "7-2",
+   "rank": 1,
+   "record": "8-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "61:50",
+     "opponent": "Bashkimi",
+     "venue": "H",
+     "date": "22.11. 16:00",
+     "pf": 61,
+     "pa": 50
+    },
     {
      "wl": "W",
      "score": "83:85",
@@ -466,18 +475,18 @@
      "date": "25.10. 18:30",
      "pf": 100,
      "pa": 71
-    },
-    {
-     "wl": "W",
-     "score": "68:79",
-     "opponent": "Bora",
-     "venue": "A",
-     "date": "18.10. 15:00",
-     "pf": 79,
-     "pa": 68
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "61:50",
+     "opponent": "Bashkimi",
+     "venue": "H",
+     "date": "22.11. 16:00",
+     "pf": 61,
+     "pa": 50
+    },
     {
      "wl": "W",
      "score": "83:85",
@@ -561,8 +570,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 16:00",
-    "opponent": "Bashkimi"
+    "date": "06.12. 18:30",
+    "opponent": "Vellaznimi"
    },
    "note": ""
   },
@@ -856,10 +865,19 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/cb9f1e398563.png",
-   "rank": 11,
-   "record": "4-4",
+   "league_logo": "logos/c68ff65a02e9.png",
+   "rank": 13,
+   "record": "4-5",
    "last5": [
+    {
+     "wl": "L",
+     "score": "91:81",
+     "opponent": "Obradoiro CAB",
+     "venue": "A",
+     "date": "22.11. 11:00",
+     "pf": 81,
+     "pa": 91
+    },
     {
      "wl": "L",
      "score": "82:70",
@@ -895,18 +913,18 @@
      "date": "25.10. 11:00",
      "pf": 101,
      "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "110:90",
-     "opponent": "Leyma Coruna",
-     "venue": "H",
-     "date": "18.10. 10:00",
-     "pf": 110,
-     "pa": 90
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "91:81",
+     "opponent": "Obradoiro CAB",
+     "venue": "A",
+     "date": "22.11. 11:00",
+     "pf": 81,
+     "pa": 91
+    },
     {
      "wl": "L",
      "score": "82:70",
@@ -981,8 +999,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 11:00",
-    "opponent": "Obradoiro CAB"
+    "date": "06.12. 11:00",
+    "opponent": "Barcelona"
    },
    "note": ""
   },
@@ -1125,9 +1143,18 @@
    "logo": "logos/bb6058280ddf.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 10,
-   "record": "4-3",
+   "rank": 8,
+   "record": "4-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "83:96",
+     "opponent": "Dziki Warszawa",
+     "venue": "H",
+     "date": "22.11. 11:30",
+     "pf": 83,
+     "pa": 96
+    },
     {
      "wl": "L",
      "score": "91:85",
@@ -1163,18 +1190,18 @@
      "date": "24.10. 15:30",
      "pf": 78,
      "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "76:84",
-     "opponent": "GTK Gliwice",
-     "venue": "A",
-     "date": "17.10. 13:00",
-     "pf": 84,
-     "pa": 76
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "83:96",
+     "opponent": "Dziki Warszawa",
+     "venue": "H",
+     "date": "22.11. 11:30",
+     "pf": 83,
+     "pa": 96
+    },
     {
      "wl": "L",
      "score": "91:85",
@@ -1240,8 +1267,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 11:30",
-    "opponent": "Dziki Warszawa"
+    "date": "06.12. 16:30",
+    "opponent": "Trefl Sopot"
    },
    "note": ""
   },
@@ -1402,9 +1429,18 @@
    "logo": "logos/280469de6fb4.png",
    "league": "Extraliga",
    "league_logo": "logos/e2f53afac3df.png",
-   "rank": 3,
-   "record": "8-0",
+   "rank": 1,
+   "record": "9-0",
    "last5": [
+    {
+     "wl": "W",
+     "score": "92:88",
+     "opponent": "BKM Lucenec",
+     "venue": "H",
+     "date": "22.11. 17:00",
+     "pf": 92,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "78:81",
@@ -1440,18 +1476,18 @@
      "date": "18.10. 16:00",
      "pf": 98,
      "pa": 84
-    },
-    {
-     "wl": "W",
-     "score": "85:108",
-     "opponent": "Kosice Wolves",
-     "venue": "A",
-     "date": "09.10. 16:00",
-     "pf": 108,
-     "pa": 85
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "92:88",
+     "opponent": "BKM Lucenec",
+     "venue": "H",
+     "date": "22.11. 17:00",
+     "pf": 92,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "78:81",
@@ -1526,8 +1562,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 17:00",
-    "opponent": "BKM Lucenec"
+    "date": "04.12. 17:00",
+    "opponent": "Slovan Bratislava"
    },
    "note": ""
   },
@@ -1661,9 +1697,18 @@
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 13,
-   "record": "4-4",
+   "rank": 9,
+   "record": "4-5",
    "last5": [
+    {
+     "wl": "L",
+     "score": "85:78",
+     "opponent": "Cayirova",
+     "venue": "A",
+     "date": "22.11. 10:00",
+     "pf": 78,
+     "pa": 85
+    },
     {
      "wl": "L",
      "score": "57:93",
@@ -1699,18 +1744,18 @@
      "date": "24.10. 10:00",
      "pf": 93,
      "pa": 90
-    },
-    {
-     "wl": "W",
-     "score": "73:70",
-     "opponent": "Anadolu Efes",
-     "venue": "H",
-     "date": "19.10. 16:00",
-     "pf": 73,
-     "pa": 70
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "85:78",
+     "opponent": "Cayirova",
+     "venue": "A",
+     "date": "22.11. 10:00",
+     "pf": 78,
+     "pa": 85
+    },
     {
      "wl": "L",
      "score": "57:93",
@@ -1795,7 +1840,7 @@
    "logo": "logos/f2b17b500179.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 5,
+   "rank": 7,
    "record": "4-4",
    "last5": [
     {
@@ -1928,8 +1973,8 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
-   "rank": 4,
+   "league_logo": "logos/e985fcdd375b.png",
+   "rank": 3,
    "record": "5-3",
    "last5": [
     {
@@ -2179,9 +2224,18 @@
    "logo": "logos/9d7e8294c55f.png",
    "league": "NBL",
    "league_logo": "logos/e6f4a097ec8d.png",
-   "rank": 5,
-   "record": "5-1",
+   "rank": 2,
+   "record": "6-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "84:79",
+     "opponent": "Cherno More",
+     "venue": "H",
+     "date": "22.11. 15:00",
+     "pf": 84,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "76:82",
@@ -2217,18 +2271,18 @@
      "date": "25.10. 11:00",
      "pf": 70,
      "pa": 86
-    },
-    {
-     "wl": "W",
-     "score": "114:76",
-     "opponent": "CSKA Sofia",
-     "venue": "H",
-     "date": "17.10. 15:00",
-     "pf": 114,
-     "pa": 76
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "84:79",
+     "opponent": "Cherno More",
+     "venue": "H",
+     "date": "22.11. 15:00",
+     "pf": 84,
+     "pa": 79
+    },
     {
      "wl": "W",
      "score": "76:82",
@@ -2285,8 +2339,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 15:00",
-    "opponent": "Cherno More"
+    "date": "04.12. 16:00",
+    "opponent": "Balkan"
    },
    "note": ""
   },
@@ -2450,7 +2504,7 @@
    "logo": "logos/bd54673783cb.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 2,
+   "rank": 5,
    "record": "6-2",
    "last5": [
     {
@@ -2700,7 +2754,7 @@
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/9cba694f5f88.png",
-   "rank": 5,
+   "rank": 7,
    "record": "3-5",
    "last5": [
     {
@@ -2977,9 +3031,18 @@
    "logo": "logos/775bf7be74e5.png",
    "league": "Lat-EST lyga",
    "league_logo": "logos/f6b309e7508d.png",
-   "rank": 10,
-   "record": "4-4",
+   "rank": 7,
+   "record": "5-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "73:85",
+     "opponent": "Keila Coolbet",
+     "venue": "A",
+     "date": "22.11. 15:30",
+     "pf": 85,
+     "pa": 73
+    },
     {
      "wl": "L",
      "score": "67:70",
@@ -3015,18 +3078,18 @@
      "date": "25.10. 15:00",
      "pf": 91,
      "pa": 77
-    },
-    {
-     "wl": "L",
-     "score": "89:72",
-     "opponent": "VEF Riga",
-     "venue": "A",
-     "date": "17.10. 12:00",
-     "pf": 72,
-     "pa": 89
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "73:85",
+     "opponent": "Keila Coolbet",
+     "venue": "A",
+     "date": "22.11. 15:30",
+     "pf": 85,
+     "pa": 73
+    },
     {
      "wl": "L",
      "score": "67:70",
@@ -3101,8 +3164,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 15:30",
-    "opponent": "Keila Coolbet"
+    "date": "02.12. 17:00",
+    "opponent": "Rigas Zelli"
    },
    "note": ""
   },
@@ -3111,9 +3174,18 @@
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 3,
-   "record": "6-1",
+   "rank": 1,
+   "record": "7-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "83:96",
+     "opponent": "Zielona Gora",
+     "venue": "A",
+     "date": "22.11. 11:30",
+     "pf": 96,
+     "pa": 83
+    },
     {
      "wl": "W",
      "score": "59:73",
@@ -3149,18 +3221,18 @@
      "date": "25.10. 16:30",
      "pf": 91,
      "pa": 81
-    },
-    {
-     "wl": "L",
-     "score": "74:71",
-     "opponent": "Gornik Walbrzych",
-     "venue": "A",
-     "date": "18.10. 10:30",
-     "pf": 71,
-     "pa": 74
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "83:96",
+     "opponent": "Zielona Gora",
+     "venue": "A",
+     "date": "22.11. 11:30",
+     "pf": 96,
+     "pa": 83
+    },
     {
      "wl": "W",
      "score": "59:73",
@@ -3226,8 +3298,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 11:30",
-    "opponent": "Zielona Gora"
+    "date": "05.12. 16:30",
+    "opponent": "Gdynia"
    },
    "note": ""
   },
@@ -3236,7 +3308,7 @@
    "logo": "logos/c3a29dbb6568.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 6,
+   "rank": 10,
    "record": "3-5",
    "last5": [
     {
@@ -3370,7 +3442,7 @@
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 11,
+   "rank": 13,
    "record": "4-5",
    "last5": [
     {
@@ -4058,7 +4130,7 @@
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 9,
+   "rank": 14,
    "record": "3-6",
    "last5": [
     {
@@ -4515,8 +4587,17 @@
    "league": "SLB",
    "league_logo": "logos/f777b3e960be.png",
    "rank": 7,
-   "record": "5-6",
+   "record": "5-7",
    "last5": [
+    {
+     "wl": "L",
+     "score": "81:96",
+     "opponent": "London Lions",
+     "venue": "H",
+     "date": "22.11. 16:00",
+     "pf": 81,
+     "pa": 96
+    },
     {
      "wl": "L",
      "score": "84:86",
@@ -4552,18 +4633,18 @@
      "date": "30.10. 19:30",
      "pf": 78,
      "pa": 74
-    },
-    {
-     "wl": "W",
-     "score": "87:89",
-     "opponent": "Leicester Riders",
-     "venue": "A",
-     "date": "23.10. 18:30",
-     "pf": 89,
-     "pa": 87
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "81:96",
+     "opponent": "London Lions",
+     "venue": "H",
+     "date": "22.11. 16:00",
+     "pf": 81,
+     "pa": 96
+    },
     {
      "wl": "L",
      "score": "84:86",
@@ -4665,8 +4746,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 16:00",
-    "opponent": "London Lions"
+    "date": "04.12. 19:30",
+    "opponent": "Caledonia Gladiators"
    },
    "note": ""
   },
@@ -4675,9 +4756,18 @@
    "logo": "logos/8072a67893db.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 2,
-   "record": "7-2",
+   "rank": 3,
+   "record": "7-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "61:50",
+     "opponent": "Trepca",
+     "venue": "A",
+     "date": "22.11. 16:00",
+     "pf": 50,
+     "pa": 61
+    },
     {
      "wl": "W",
      "score": "108:65",
@@ -4713,18 +4803,18 @@
      "date": "25.10. 16:00",
      "pf": 86,
      "pa": 79
-    },
-    {
-     "wl": "L",
-     "score": "79:77",
-     "opponent": "Sigal Prishtina",
-     "venue": "A",
-     "date": "18.10. 16:00",
-     "pf": 77,
-     "pa": 79
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "61:50",
+     "opponent": "Trepca",
+     "venue": "A",
+     "date": "22.11. 16:00",
+     "pf": 50,
+     "pa": 61
+    },
     {
      "wl": "W",
      "score": "108:65",
@@ -4808,8 +4898,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 16:00",
-    "opponent": "Trepca"
+    "date": "05.12. 18:30",
+    "opponent": "Bora"
    },
    "note": ""
   },
@@ -4817,10 +4907,19 @@
    "name": "Benfica",
    "logo": "logos/a35e878e80a3.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 1,
-   "record": "6-1",
+   "record": "7-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "88:85",
+     "opponent": "Ovarense",
+     "venue": "H",
+     "date": "22.11. 15:00",
+     "pf": 88,
+     "pa": 85
+    },
     {
      "wl": "W",
      "score": "69:62",
@@ -4856,18 +4955,18 @@
      "date": "24.10. 19:15",
      "pf": 89,
      "pa": 72
-    },
-    {
-     "wl": "W",
-     "score": "92:67",
-     "opponent": "Oliveirense",
-     "venue": "H",
-     "date": "17.10. 16:00",
-     "pf": 92,
-     "pa": 67
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "88:85",
+     "opponent": "Ovarense",
+     "venue": "H",
+     "date": "22.11. 15:00",
+     "pf": 88,
+     "pa": 85
+    },
     {
      "wl": "W",
      "score": "69:62",
@@ -4933,8 +5032,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 15:00",
-    "opponent": "Ovarense"
+    "date": "05.12. 18:00",
+    "opponent": "Braga"
    },
    "note": ""
   },
@@ -5229,7 +5328,7 @@
    "logo": "logos/37075e153733.png",
    "league": "Extraliga",
    "league_logo": "logos/e2f53afac3df.png",
-   "rank": 1,
+   "rank": 2,
    "record": "8-1",
    "last5": [
     {
@@ -5372,7 +5471,7 @@
    "logo": "logos/8b3accd736f1.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 14,
+   "rank": 15,
    "record": "2-7",
    "last5": [
     {
@@ -5813,9 +5912,18 @@
    "logo": "logos/7b150e7a1c02.png",
    "league": "Basket League",
    "league_logo": "logos/21f5bcd543ba.png",
-   "rank": 13,
-   "record": "1-6",
+   "rank": 11,
+   "record": "2-6",
    "last5": [
+    {
+     "wl": "W",
+     "score": "96:83",
+     "opponent": "Vikos",
+     "venue": "H",
+     "date": "22.11. 11:00",
+     "pf": 96,
+     "pa": 83
+    },
     {
      "wl": "L",
      "score": "84:67",
@@ -5851,18 +5959,18 @@
      "date": "24.10. 12:00",
      "pf": 72,
      "pa": 88
-    },
-    {
-     "wl": "L",
-     "score": "84:79",
-     "opponent": "AEK Athens",
-     "venue": "A",
-     "date": "17.10. 12:00",
-     "pf": 79,
-     "pa": 84
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "96:83",
+     "opponent": "Vikos",
+     "venue": "H",
+     "date": "22.11. 11:00",
+     "pf": 96,
+     "pa": 83
+    },
     {
      "wl": "L",
      "score": "84:67",
@@ -5928,8 +6036,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 11:00",
-    "opponent": "Vikos"
+    "date": "06.12. 12:00",
+    "opponent": "Panathinaikos"
    },
    "note": ""
   },
@@ -5938,9 +6046,18 @@
    "logo": "logos/c81d0ffece92.png",
    "league": "NBL",
    "league_logo": "logos/e6f4a097ec8d.png",
-   "rank": 8,
-   "record": "4-1",
+   "rank": 7,
+   "record": "5-1",
    "last5": [
+    {
+     "wl": "W",
+     "score": "85:77",
+     "opponent": "Shumen",
+     "venue": "H",
+     "date": "22.11. 16:00",
+     "pf": 85,
+     "pa": 77
+    },
     {
      "wl": "W",
      "score": "85:69",
@@ -5976,18 +6093,18 @@
      "date": "17.10. 12:30",
      "pf": 98,
      "pa": 95
-    },
-    {
-     "wl": "W",
-     "score": "73:92",
-     "opponent": "Spartak Pleven",
-     "venue": "A",
-     "date": "11.10. 10:00",
-     "pf": 92,
-     "pa": 73
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "85:77",
+     "opponent": "Shumen",
+     "venue": "H",
+     "date": "22.11. 16:00",
+     "pf": 85,
+     "pa": 77
+    },
     {
      "wl": "W",
      "score": "85:69",
@@ -6035,8 +6152,8 @@
     }
    ],
    "next": {
-    "date": "22.11. 16:00",
-    "opponent": "Shumen"
+    "date": "03.12. 17:00",
+    "opponent": "Botev Academic"
    },
    "note": ""
   },
