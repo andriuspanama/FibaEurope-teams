@@ -1,7 +1,7 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-21 18:45",
- "comp_logo": "logos/3b5de720f639.png",
+ "updated": "2026-11-22 00:58",
+ "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
    "name": "Trier",
@@ -9,8 +9,17 @@
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
    "rank": 2,
-   "record": "7-1",
+   "record": "7-2",
    "last5": [
+    {
+     "wl": "L",
+     "score": "80:93",
+     "opponent": "Chemnitz",
+     "venue": "H",
+     "date": "21.11. 19:00",
+     "pf": 80,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "85:99",
@@ -46,18 +55,18 @@
      "date": "10.10. 18:00",
      "pf": 95,
      "pa": 75
-    },
-    {
-     "wl": "W",
-     "score": "80:94",
-     "opponent": "Ludwigsburg",
-     "venue": "A",
-     "date": "04.10. 16:00",
-     "pf": 94,
-     "pa": 80
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "80:93",
+     "opponent": "Chemnitz",
+     "venue": "H",
+     "date": "21.11. 19:00",
+     "pf": 80,
+     "pa": 93
+    },
     {
      "wl": "W",
      "score": "85:99",
@@ -132,8 +141,8 @@
     }
    ],
    "next": {
-    "date": "21.11. 19:00",
-    "opponent": "Chemnitz"
+    "date": "06.12. 14:00",
+    "opponent": "Oldenburg"
    },
    "note": ""
   },
@@ -277,8 +286,17 @@
    "league": "Premijer liga",
    "league_logo": "logos/08f414435692.png",
    "rank": 3,
-   "record": "6-2",
+   "record": "7-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "75:95",
+     "opponent": "Virtus Zagreb",
+     "venue": "A",
+     "date": "21.11. 19:00",
+     "pf": 95,
+     "pa": 75
+    },
     {
      "wl": "W",
      "score": "82:79",
@@ -314,18 +332,18 @@
      "date": "25.10. 15:00",
      "pf": 76,
      "pa": 75
-    },
-    {
-     "wl": "L",
-     "score": "73:84",
-     "opponent": "Zadar",
-     "venue": "H",
-     "date": "18.10. 17:00",
-     "pf": 73,
-     "pa": 84
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "75:95",
+     "opponent": "Virtus Zagreb",
+     "venue": "A",
+     "date": "21.11. 19:00",
+     "pf": 95,
+     "pa": 75
+    },
     {
      "wl": "W",
      "score": "82:79",
@@ -400,8 +418,8 @@
     }
    ],
    "next": {
-    "date": "21.11. 19:00",
-    "opponent": "Virtus Zagreb"
+    "date": "04.12. 16:00",
+    "opponent": "Zabok"
    },
    "note": ""
   },
@@ -410,7 +428,7 @@
    "logo": "logos/810b4f64625d.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 2,
+   "rank": 3,
    "record": "7-2",
    "last5": [
     {
@@ -838,7 +856,7 @@
    "name": "Basquet Girona",
    "logo": "logos/e60bb7e16918.png",
    "league": "ACB",
-   "league_logo": "logos/c68ff65a02e9.png",
+   "league_logo": "logos/cb9f1e398563.png",
    "rank": 11,
    "record": "4-4",
    "last5": [
@@ -974,8 +992,17 @@
    "league": "BNXT lyga",
    "league_logo": "logos/f0a5f6fa9273.png",
    "rank": 6,
-   "record": "4-3",
+   "record": "5-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "92:48",
+     "opponent": "Rotterdam",
+     "venue": "H",
+     "date": "21.11. 19:30",
+     "pf": 92,
+     "pa": 48
+    },
     {
      "wl": "W",
      "score": "65:82",
@@ -1011,18 +1038,18 @@
      "date": "23.10. 18:30",
      "pf": 70,
      "pa": 65
-    },
-    {
-     "wl": "L",
-     "score": "81:64",
-     "opponent": "Brussels Basketball",
-     "venue": "A",
-     "date": "16.10. 18:30",
-     "pf": 64,
-     "pa": 81
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "92:48",
+     "opponent": "Rotterdam",
+     "venue": "H",
+     "date": "21.11. 19:30",
+     "pf": 92,
+     "pa": 48
+    },
     {
      "wl": "W",
      "score": "65:82",
@@ -1088,8 +1115,8 @@
     }
    ],
    "next": {
-    "date": "21.11. 19:30",
-    "opponent": "Rotterdam"
+    "date": "05.12. 19:30",
+    "opponent": "Belfius Mons"
    },
    "note": ""
   },
@@ -1224,8 +1251,17 @@
    "league": "NB I. A",
    "league_logo": "logos/e25024497cfd.png",
    "rank": 3,
-   "record": "7-2",
+   "record": "8-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "82:88",
+     "opponent": "Kecskemeti TE",
+     "venue": "A",
+     "date": "21.11. 17:00",
+     "pf": 88,
+     "pa": 82
+    },
     {
      "wl": "W",
      "score": "96:87",
@@ -1261,18 +1297,18 @@
      "date": "25.10. 17:00",
      "pf": 99,
      "pa": 80
-    },
-    {
-     "wl": "L",
-     "score": "81:72",
-     "opponent": "Soproni KC",
-     "venue": "A",
-     "date": "17.10. 16:00",
-     "pf": 72,
-     "pa": 81
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "82:88",
+     "opponent": "Kecskemeti TE",
+     "venue": "A",
+     "date": "21.11. 17:00",
+     "pf": 88,
+     "pa": 82
+    },
     {
      "wl": "W",
      "score": "96:87",
@@ -1365,8 +1401,8 @@
    "name": "Levice",
    "logo": "logos/280469de6fb4.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
-   "rank": 2,
+   "league_logo": "logos/f143d20206a0.png",
+   "rank": 3,
    "record": "8-0",
    "last5": [
     {
@@ -1499,7 +1535,7 @@
    "name": "Dinamo Bucharest",
    "logo": "logos/74b5646195b2.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 4,
    "record": "5-2",
    "last5": [
@@ -1625,7 +1661,7 @@
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 12,
+   "rank": 13,
    "record": "4-4",
    "last5": [
     {
@@ -1892,7 +1928,7 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 4,
    "record": "5-3",
    "last5": [
@@ -2026,7 +2062,7 @@
    "name": "SCM Craiova",
    "logo": "logos/03dafda0ac7a.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 10,
    "record": "4-2",
    "last5": [
@@ -2271,7 +2307,7 @@
    "logo": "logos/699f15dab77c.png",
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
-   "rank": 11,
+   "rank": 10,
    "record": "3-6",
    "last5": [
     {
@@ -2664,9 +2700,18 @@
    "logo": "logos/e7896ed3602c.png",
    "league": "Adrijos lyga",
    "league_logo": "logos/4ecaeb496585.png",
-   "rank": 7,
-   "record": "3-4",
+   "rank": 5,
+   "record": "3-5",
    "last5": [
+    {
+     "wl": "L",
+     "score": "87:61",
+     "opponent": "Spartak Subotica",
+     "venue": "A",
+     "date": "21.11. 18:00",
+     "pf": 61,
+     "pa": 87
+    },
     {
      "wl": "W",
      "score": "79:87",
@@ -2702,18 +2747,18 @@
      "date": "24.10. 16:00",
      "pf": 88,
      "pa": 94
-    },
-    {
-     "wl": "W",
-     "score": "78:63",
-     "opponent": "Zadar",
-     "venue": "H",
-     "date": "16.10. 18:30",
-     "pf": 78,
-     "pa": 63
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "87:61",
+     "opponent": "Spartak Subotica",
+     "venue": "A",
+     "date": "21.11. 18:00",
+     "pf": 61,
+     "pa": 87
+    },
     {
      "wl": "W",
      "score": "79:87",
@@ -2788,10 +2833,19 @@
    "name": "Nitra Blue Wings",
    "logo": "logos/3cef783b60c3.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
+   "league_logo": "logos/f143d20206a0.png",
    "rank": 8,
-   "record": "3-5",
+   "record": "4-5",
    "last5": [
+    {
+     "wl": "W",
+     "score": "85:75",
+     "opponent": "Inter Basket",
+     "venue": "H",
+     "date": "21.11. 17:00",
+     "pf": 85,
+     "pa": 75
+    },
     {
      "wl": "L",
      "score": "78:75",
@@ -2827,18 +2881,18 @@
      "date": "24.10. 16:00",
      "pf": 73,
      "pa": 85
-    },
-    {
-     "wl": "L",
-     "score": "122:79",
-     "opponent": "BC Prievidza",
-     "venue": "A",
-     "date": "17.10. 16:00",
-     "pf": 79,
-     "pa": 122
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "85:75",
+     "opponent": "Inter Basket",
+     "venue": "H",
+     "date": "21.11. 17:00",
+     "pf": 85,
+     "pa": 75
+    },
     {
      "wl": "L",
      "score": "78:75",
@@ -3316,7 +3370,7 @@
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 9,
+   "rank": 11,
    "record": "4-5",
    "last5": [
     {
@@ -3575,9 +3629,18 @@
    "logo": "logos/045f0e1eea37.png",
    "league": "Lat-EST lyga",
    "league_logo": "logos/f6b309e7508d.png",
-   "rank": 4,
-   "record": "6-3",
+   "rank": 5,
+   "record": "6-4",
    "last5": [
+    {
+     "wl": "L",
+     "score": "82:89",
+     "opponent": "BK Ogre",
+     "venue": "H",
+     "date": "21.11. 17:00",
+     "pf": 82,
+     "pa": 89
+    },
     {
      "wl": "W",
      "score": "67:70",
@@ -3613,18 +3676,18 @@
      "date": "24.10. 16:00",
      "pf": 65,
      "pa": 41
-    },
-    {
-     "wl": "W",
-     "score": "71:89",
-     "opponent": "Keila KK",
-     "venue": "A",
-     "date": "17.10. 15:00",
-     "pf": 89,
-     "pa": 71
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "82:89",
+     "opponent": "BK Ogre",
+     "venue": "H",
+     "date": "21.11. 17:00",
+     "pf": 82,
+     "pa": 89
+    },
     {
      "wl": "W",
      "score": "67:70",
@@ -3719,8 +3782,17 @@
    "league": "Super League",
    "league_logo": "logos/e8b6c8277c1e.png",
    "rank": 2,
-   "record": "5-2",
+   "record": "6-2",
    "last5": [
+    {
+     "wl": "W",
+     "score": "96:74",
+     "opponent": "KK Stip",
+     "venue": "H",
+     "date": "21.11. 19:30",
+     "pf": 96,
+     "pa": 74
+    },
     {
      "wl": "L",
      "score": "60:74",
@@ -3756,18 +3828,18 @@
      "date": "29.10. 17:30",
      "pf": 79,
      "pa": 87
-    },
-    {
-     "wl": "W",
-     "score": "70:66",
-     "opponent": "TFT Skopje",
-     "venue": "H",
-     "date": "16.10. 16:00",
-     "pf": 70,
-     "pa": 66
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "96:74",
+     "opponent": "KK Stip",
+     "venue": "H",
+     "date": "21.11. 19:30",
+     "pf": 96,
+     "pa": 74
+    },
     {
      "wl": "L",
      "score": "60:74",
@@ -3833,8 +3905,8 @@
     }
    ],
    "next": {
-    "date": "21.11. 19:30",
-    "opponent": "KK Stip"
+    "date": "05.12. 16:00",
+    "opponent": "Tikvesh"
    },
    "note": ""
   },
@@ -3844,8 +3916,17 @@
    "league": "LNB",
    "league_logo": "logos/c611aab280e5.png",
    "rank": 7,
-   "record": "5-3",
+   "record": "6-3",
    "last5": [
+    {
+     "wl": "W",
+     "score": "104:89",
+     "opponent": "Saint Quentin",
+     "venue": "H",
+     "date": "21.11. 17:00",
+     "pf": 104,
+     "pa": 89
+    },
     {
      "wl": "W",
      "score": "97:74",
@@ -3881,18 +3962,18 @@
      "date": "24.10. 16:30",
      "pf": 106,
      "pa": 79
-    },
-    {
-     "wl": "W",
-     "score": "77:86",
-     "opponent": "Cholet",
-     "venue": "A",
-     "date": "17.10. 16:30",
-     "pf": 86,
-     "pa": 77
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "104:89",
+     "opponent": "Saint Quentin",
+     "venue": "H",
+     "date": "21.11. 17:00",
+     "pf": 104,
+     "pa": 89
+    },
     {
      "wl": "W",
      "score": "97:74",
@@ -3977,7 +4058,7 @@
    "logo": "logos/c52bb81fa7a0.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 8,
+   "rank": 9,
    "record": "3-6",
    "last5": [
     {
@@ -4121,8 +4202,17 @@
    "league": "Lat-EST lyga",
    "league_logo": "logos/f6b309e7508d.png",
    "rank": 6,
-   "record": "5-4",
+   "record": "6-4",
    "last5": [
+    {
+     "wl": "W",
+     "score": "71:88",
+     "opponent": "VEF Riga",
+     "venue": "A",
+     "date": "21.11. 17:00",
+     "pf": 88,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "89:76",
@@ -4158,18 +4248,18 @@
      "date": "24.10. 15:00",
      "pf": 98,
      "pa": 77
-    },
-    {
-     "wl": "W",
-     "score": "100:79",
-     "opponent": "Rigas Juniori",
-     "venue": "H",
-     "date": "17.10. 15:00",
-     "pf": 100,
-     "pa": 79
     }
    ],
    "games": [
+    {
+     "wl": "W",
+     "score": "71:88",
+     "opponent": "VEF Riga",
+     "venue": "A",
+     "date": "21.11. 17:00",
+     "pf": 88,
+     "pa": 71
+    },
     {
      "wl": "W",
      "score": "89:76",
@@ -4423,7 +4513,7 @@
    "name": "Manchester Basketball",
    "logo": "logos/a2efec1b9ac2.png",
    "league": "SLB",
-   "league_logo": "logos/bfd4ead64284.png",
+   "league_logo": "logos/f777b3e960be.png",
    "rank": 7,
    "record": "5-6",
    "last5": [
@@ -4585,7 +4675,7 @@
    "logo": "logos/8072a67893db.png",
    "league": "Superliga",
    "league_logo": "logos/7647d2406035.png",
-   "rank": 1,
+   "rank": 2,
    "record": "7-2",
    "last5": [
     {
@@ -4727,7 +4817,7 @@
    "name": "Benfica",
    "logo": "logos/a35e878e80a3.png",
    "league": "LPB",
-   "league_logo": "logos/b924ca13583e.png",
+   "league_logo": "logos/e985fcdd375b.png",
    "rank": 1,
    "record": "6-1",
    "last5": [
@@ -5138,9 +5228,9 @@
    "name": "BC Prievidza",
    "logo": "logos/37075e153733.png",
    "league": "Extraliga",
-   "league_logo": "logos/e2f53afac3df.png",
-   "rank": 3,
-   "record": "7-1",
+   "league_logo": "logos/f143d20206a0.png",
+   "rank": 1,
+   "record": "8-1",
    "last5": [
     {
      "wl": "W",
@@ -5438,8 +5528,17 @@
    "league": "Lat-EST lyga",
    "league_logo": "logos/f6b309e7508d.png",
    "rank": 2,
-   "record": "8-2",
+   "record": "8-3",
    "last5": [
+    {
+     "wl": "L",
+     "score": "71:88",
+     "opponent": "BC Kalev",
+     "venue": "H",
+     "date": "21.11. 17:00",
+     "pf": 71,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "85:96",
@@ -5475,18 +5574,18 @@
      "date": "24.10. 16:00",
      "pf": 97,
      "pa": 89
-    },
-    {
-     "wl": "W",
-     "score": "89:72",
-     "opponent": "Parnu",
-     "venue": "H",
-     "date": "17.10. 12:00",
-     "pf": 89,
-     "pa": 72
     }
    ],
    "games": [
+    {
+     "wl": "L",
+     "score": "71:88",
+     "opponent": "BC Kalev",
+     "venue": "H",
+     "date": "21.11. 17:00",
+     "pf": 71,
+     "pa": 88
+    },
     {
      "wl": "W",
      "score": "85:96",
@@ -5588,7 +5687,7 @@
    "name": "CSM Oradea",
    "logo": "logos/26ce8a1c4fad.png",
    "league": "Divizia A",
-   "league_logo": "logos/8fb4ca9fe23f.png",
+   "league_logo": "logos/9a29112107df.png",
    "rank": 6,
    "record": "4-3",
    "last5": [
