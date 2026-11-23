@@ -1,7 +1,7 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-23 01:25",
- "comp_logo": "logos/3b5de720f639.png",
+ "updated": "2026-11-23 11:51",
+ "comp_logo": "logos/841ec0a2ef75.png",
  "teams": [
   {
    "name": "Trier",
@@ -249,7 +249,7 @@
     {
      "wl": "W",
      "score": "79:80",
-     "opponent": "Lefkadas",
+     "opponent": "Doxa Lefkadas",
      "venue": "A",
      "date": "17.10. 14:00",
      "pf": 80,
@@ -1008,7 +1008,7 @@
    "name": "Oostende",
    "logo": "logos/4972130fd0b4.png",
    "league": "BNXT lyga",
-   "league_logo": "logos/f0a5f6fa9273.png",
+   "league_logo": "logos/cc3eb03ee169.png",
    "rank": 6,
    "record": "5-3",
    "last5": [
@@ -1956,7 +1956,7 @@
     {
      "wl": "W",
      "score": "91:75",
-     "opponent": "Lefkadas",
+     "opponent": "Doxa Lefkadas",
      "venue": "H",
      "date": "03.10. 13:00",
      "pf": 91,
@@ -3350,7 +3350,7 @@
     {
      "wl": "L",
      "score": "94:86",
-     "opponent": "Lefkadas",
+     "opponent": "Doxa Lefkadas",
      "venue": "A",
      "date": "24.10. 14:00",
      "pf": 86,
@@ -3397,7 +3397,7 @@
     {
      "wl": "L",
      "score": "94:86",
-     "opponent": "Lefkadas",
+     "opponent": "Doxa Lefkadas",
      "venue": "A",
      "date": "24.10. 14:00",
      "pf": 86,
@@ -4585,7 +4585,7 @@
    "name": "Manchester Basketball",
    "logo": "logos/a2efec1b9ac2.png",
    "league": "SLB",
-   "league_logo": "logos/f777b3e960be.png",
+   "league_logo": "logos/bfd4ead64284.png",
    "rank": 7,
    "record": "5-7",
    "last5": [
@@ -5945,7 +5945,7 @@
     {
      "wl": "L",
      "score": "59:73",
-     "opponent": "Lefkadas",
+     "opponent": "Doxa Lefkadas",
      "venue": "H",
      "date": "31.10. 14:00",
      "pf": 59,
@@ -5992,7 +5992,7 @@
     {
      "wl": "L",
      "score": "59:73",
-     "opponent": "Lefkadas",
+     "opponent": "Doxa Lefkadas",
      "venue": "H",
      "date": "31.10. 14:00",
      "pf": 59,
