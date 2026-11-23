@@ -1,6 +1,6 @@
 {
  "title": "FIBA Europe Cup 2026-2027",
- "updated": "2026-11-22 19:05",
+ "updated": "2026-11-23 01:25",
  "comp_logo": "logos/3b5de720f639.png",
  "teams": [
   {
@@ -1697,7 +1697,7 @@
    "logo": "logos/c61c55f4c82f.png",
    "league": "Super Lig",
    "league_logo": "logos/883974099325.png",
-   "rank": 9,
+   "rank": 10,
    "record": "4-5",
    "last5": [
     {
@@ -1973,8 +1973,8 @@
    "name": "Sporting CP",
    "logo": "logos/b9b668dca314.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
-   "rank": 3,
+   "league_logo": "logos/b924ca13583e.png",
+   "rank": 4,
    "record": "5-3",
    "last5": [
     {
@@ -3174,7 +3174,7 @@
    "logo": "logos/85c8570786fd.png",
    "league": "Basket Liga",
    "league_logo": "logos/e38c6600f3ac.png",
-   "rank": 1,
+   "rank": 2,
    "record": "7-1",
    "last5": [
     {
@@ -3442,7 +3442,7 @@
    "logo": "logos/d9dd2e83f54b.png",
    "league": "BBL",
    "league_logo": "logos/98572a4b17ba.png",
-   "rank": 13,
+   "rank": 10,
    "record": "4-5",
    "last5": [
     {
@@ -4907,8 +4907,8 @@
    "name": "Benfica",
    "logo": "logos/a35e878e80a3.png",
    "league": "LPB",
-   "league_logo": "logos/e985fcdd375b.png",
-   "rank": 1,
+   "league_logo": "logos/b924ca13583e.png",
+   "rank": 2,
    "record": "7-1",
    "last5": [
     {
